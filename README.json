@@ -114,7 +114,7 @@
             "last_commit": "2025-09-16T19:51:52Z",
             "owner": "sidhomj",
             "repo": "DeepTCR",
-            "stars": 121
+            "stars": 122
           }
         },
         {
@@ -299,7 +299,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:09:51Z",
+            "last_commit": "2026-08-13T13:15:29Z",
             "owner": "antigenomics",
             "repo": "vdjtools",
             "stars": 145
@@ -1427,7 +1427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:17:10.644Z",
+    "last_updated": "2026-08-13T19:00:10.531Z",
     "original_repository": "slowkow/awesome-vdj",
     "original_repository_sha": "fa725fd8a066efc798ae1ac1f71eaa49e69d2291",
     "enhanced_repository": "enhansome/enhansome-vdj",
