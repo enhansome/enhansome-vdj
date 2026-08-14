@@ -55,7 +55,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-07-09T18:29:56Z",
+            "last_commit": "2026-08-14T13:09:29Z",
             "owner": "BorchLab",
             "repo": "scRepertoire",
             "stars": 374
@@ -271,7 +271,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T18:06:18Z",
+            "last_commit": "2026-08-14T15:57:03Z",
             "owner": "immunomind",
             "repo": "immunarch",
             "stars": 341
@@ -299,7 +299,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T13:15:29Z",
+            "last_commit": "2026-08-14T08:26:38Z",
             "owner": "antigenomics",
             "repo": "vdjtools",
             "stars": 145
@@ -341,7 +341,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T08:48:11Z",
+            "last_commit": "2026-08-14T11:26:12Z",
             "owner": "uio-bmi",
             "repo": "immuneML",
             "stars": 76
@@ -1427,7 +1427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:00:10.531Z",
+    "last_updated": "2026-08-14T18:50:21.781Z",
     "original_repository": "slowkow/awesome-vdj",
     "original_repository_sha": "fa725fd8a066efc798ae1ac1f71eaa49e69d2291",
     "enhanced_repository": "enhansome/enhansome-vdj",

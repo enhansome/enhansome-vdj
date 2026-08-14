@@ -86,7 +86,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Single-Cell
 
-* [**scRepertoire: A toolkit for single-cell immune profiling**](https://github.com/BorchLab/scRepertoire) ⭐ 374 | 🐛 1 | 🌐 R | 📅 2026-07-09 — R package for analyzing and visualizing single-cell immune receptor data. This new version introduces an array of features designed to enhance both the depth and breadth of immune receptor analysis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/40577285/) · 🪝 [9](https://www.semanticscholar.org/paper/1a0dc99021ccfd16d1d3a19f75068de450bc25f6) · ⭐ [358](https://github.com/BorchLab/scRepertoire/stargazers) ⭐ 374 | 🐛 1 | 🌐 R | 📅 2026-07-09 · `R`
+* [**scRepertoire: A toolkit for single-cell immune profiling**](https://github.com/BorchLab/scRepertoire) ⭐ 374 | 🐛 0 | 🌐 R | 📅 2026-08-14 — R package for analyzing and visualizing single-cell immune receptor data. This new version introduces an array of features designed to enhance both the depth and breadth of immune receptor analysis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/40577285/) · 🪝 [9](https://www.semanticscholar.org/paper/1a0dc99021ccfd16d1d3a19f75068de450bc25f6) · ⭐ [358](https://github.com/BorchLab/scRepertoire/stargazers) ⭐ 374 | 🐛 0 | 🌐 R | 📅 2026-08-14 · `R`
 
 * [**TRUST4: TCR and BCR assembly from RNA-seq data**](https://github.com/liulab-dfci/TRUST4) ⭐ 360 | 🐛 125 | 🌐 C | 📅 2026-08-03 — Tcr Receptor Utilities for Solid Tissue (TRUST) is a computational tool to analyze TCR and BCR sequences using unselected RNA sequencing data, profiled from solid tissues, including tumors. TRUST4 ...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33986545/) · 🪝 [227](https://www.semanticscholar.org/paper/7564c0e07f7135c0ec2eddb4009e6a51febdc991) · ⭐ [337](https://github.com/liulab-dfci/TRUST4/stargazers) ⭐ 360 | 🐛 125 | 🌐 C | 📅 2026-08-03 · `C` `C++` `Perl`
 
@@ -98,7 +98,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**CONGA: Clonotype Neighbor Graph Analysis**](https://github.com/phbradley/conga) ⭐ 100 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-06-15 — CONGA was developed to detect correlation between T cell gene expression profile and TCR sequence in single-cell datasets.<br>[Paper](https://doi.org/10.1101/2020.06.04.134536) · 🪝 [9](https://www.semanticscholar.org/paper/d0a9125325f851f69dbc486e2b2e75f9ba63d4f5) · ⭐ [93](https://github.com/phbradley/conga/stargazers) ⭐ 100 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-06-15 · `Python`
 
-* [**airrflow**](https://github.com/nf-core/airrflow) ⭐ 78 | 🐛 48 | 🌐 Nextflow | 📅 2026-07-30 — B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38293151/) · 🪝 [10](https://www.semanticscholar.org/paper/https://www.semanticscholar.org/paper/04c2e0be97ba6d6035506595694eb22e2093037b) · ⭐ [73](https://github.com/nf-core/airrflow/stargazers) ⭐ 78 | 🐛 48 | 🌐 Nextflow | 📅 2026-07-30 · [Homepage](https://nf-co.re/airrflow) · `Nextflow`
+* [**airrflow**](https://github.com/nf-core/airrflow) ⭐ 78 | 🐛 49 | 🌐 Nextflow | 📅 2026-07-30 — B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38293151/) · 🪝 [10](https://www.semanticscholar.org/paper/https://www.semanticscholar.org/paper/04c2e0be97ba6d6035506595694eb22e2093037b) · ⭐ [73](https://github.com/nf-core/airrflow/stargazers) ⭐ 78 | 🐛 49 | 🌐 Nextflow | 📅 2026-07-30 · [Homepage](https://nf-co.re/airrflow) · `Nextflow`
 
 * [**mvTCR**](https://github.com/SchubertLab/mvTCR) ⭐ 59 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-11-01 — A multi-view Variational Autoencoder (mvTCR) to jointly embed transcriptomic and TCR sequence information at a single-cell level to better capture the phenotypic behavior of T cells.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38956082/) · 🪝 [17](https://www.semanticscholar.org/paper/62559a2f08e304d5a6149f4605e45529ac2c150e) · ⭐ [56](https://github.com/SchubertLab/mvTCR/stargazers) ⭐ 59 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-11-01 · [Homepage](https://zenodo.org/record/5006839) · `Python`
 
@@ -118,17 +118,17 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Repertoire Analysis
 
-* [**immunarch: An R Package for Painless Bioinformatics Analysis of T-cell and B-cell Immune Repertoire Data**](https://github.com/immunomind/immunarch) ⭐ 341 | 🐛 13 | 🌐 R | 📅 2026-08-12 — immunarch is an R package designed to analyse T-cell receptor (TCR) and B-cell receptor (BCR) repertoires, aimed at medical scientists and bioinformaticians. The mission of immunarch is to make imm...<br>⭐ [334](https://github.com/immunomind/immunarch/stargazers) ⭐ 341 | 🐛 13 | 🌐 R | 📅 2026-08-12 · `R`
+* [**immunarch: An R Package for Painless Bioinformatics Analysis of T-cell and B-cell Immune Repertoire Data**](https://github.com/immunomind/immunarch) ⭐ 341 | 🐛 13 | 🌐 R | 📅 2026-08-14 — immunarch is an R package designed to analyse T-cell receptor (TCR) and B-cell receptor (BCR) repertoires, aimed at medical scientists and bioinformaticians. The mission of immunarch is to make imm...<br>⭐ [334](https://github.com/immunomind/immunarch/stargazers) ⭐ 341 | 🐛 13 | 🌐 R | 📅 2026-08-14 · `R`
 
 * [**msm: Max Snippet Model**](https://github.com/jostmey/msm) ⭐ 177 | 🐛 0 | 🌐 Python | 📅 2023-05-01 — Improved statistical classifier for immune repertoires<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33868241/) · 🪝 [8](https://www.semanticscholar.org/paper/77b6920d6e016f551c73c7d6eb5ac385128772f5) · ⭐ [177](https://github.com/jostmey/msm/stargazers) ⭐ 177 | 🐛 0 | 🌐 Python | 📅 2023-05-01 · `Python`
 
-* [**VDJtools**](https://github.com/mikessh/vdjtools) ⭐ 145 | 🐛 0 | 🌐 Python | 📅 2026-08-13 — A comprehensive analysis framework for T-cell and B-cell repertoire sequencing data<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26606115/) · 🪝 [529](https://www.semanticscholar.org/paper/c5994d9f6ed808f510cb95a3225c9f8ab0d6b460) · ⭐ [142](https://github.com/mikessh/vdjtools/stargazers) ⭐ 145 | 🐛 0 | 🌐 Python | 📅 2026-08-13 · `Java` `Groovy`
+* [**VDJtools**](https://github.com/mikessh/vdjtools) ⭐ 145 | 🐛 0 | 🌐 Python | 📅 2026-08-14 — A comprehensive analysis framework for T-cell and B-cell repertoire sequencing data<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26606115/) · 🪝 [529](https://www.semanticscholar.org/paper/c5994d9f6ed808f510cb95a3225c9f8ab0d6b460) · ⭐ [142](https://github.com/mikessh/vdjtools/stargazers) ⭐ 145 | 🐛 0 | 🌐 Python | 📅 2026-08-14 · `Java` `Groovy`
 
 * [**DeepRC**](https://github.com/ml-jku/DeepRC) ⭐ 128 | 🐛 4 | 🌐 Python | 📅 2023-09-12 — DeepRC: Immune repertoire classification with attention-based deep massive multiple instance learning<br>⭐ [124](https://github.com/ml-jku/DeepRC/stargazers) ⭐ 128 | 🐛 4 | 🌐 Python | 📅 2023-09-12 · `Python`
 
 * [**dkm: Dynamic Kernel Matching**](https://github.com/jostmey/dkm) ⭐ 94 | 🐛 0 | 🌐 HTML | 📅 2023-05-16 — DKM is analogous to a convolutional network, but for sequences. Consider the problem of classifying a sequence. Because some sequences are longer than others, the number of features is irregular. G...<br>⭐ [94](https://github.com/jostmey/dkm/stargazers) ⭐ 94 | 🐛 0 | 🌐 HTML | 📅 2023-05-16 · `Python`
 
-* [**immuneML**](https://github.com/uio-bmi/immuneML) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-08-07 — immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.<br>⭐ [73](https://github.com/uio-bmi/immuneML/stargazers) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-08-07 · [Homepage](https://immuneml.uio.no) · `Python`
+* [**immuneML**](https://github.com/uio-bmi/immuneML) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-08-14 — immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.<br>⭐ [73](https://github.com/uio-bmi/immuneML/stargazers) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-08-14 · [Homepage](https://immuneml.uio.no) · `Python`
 
 * [**abstar**](https://github.com/brineylab/abstar) ⭐ 44 | 🐛 6 | 🌐 Pkl | 📅 2026-03-30 — VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.<br>⭐ [44](https://github.com/brineylab/abstar/stargazers) ⭐ 44 | 🐛 6 | 🌐 Pkl | 📅 2026-03-30 · `Pkl`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
