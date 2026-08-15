@@ -114,7 +114,7 @@
             "last_commit": "2025-09-16T19:51:52Z",
             "owner": "sidhomj",
             "repo": "DeepTCR",
-            "stars": 122
+            "stars": 123
           }
         },
         {
@@ -139,7 +139,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nextflow",
-            "last_commit": "2026-07-30T17:08:25Z",
+            "last_commit": "2026-08-14T20:03:04Z",
             "owner": "nf-core",
             "repo": "airrflow",
             "stars": 78
@@ -299,7 +299,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T08:26:38Z",
+            "last_commit": "2026-08-15T09:05:20Z",
             "owner": "antigenomics",
             "repo": "vdjtools",
             "stars": 145
@@ -316,7 +316,7 @@
             "last_commit": "2023-09-12T11:36:33Z",
             "owner": "ml-jku",
             "repo": "DeepRC",
-            "stars": 128
+            "stars": 129
           }
         },
         {
@@ -459,7 +459,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:47:00Z",
+            "last_commit": "2026-08-15T09:20:23Z",
             "owner": "antigenomics",
             "repo": "arda",
             "stars": 56
@@ -1368,7 +1368,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-07-07T16:11:04Z",
+            "last_commit": "2026-08-14T20:59:31Z",
             "owner": "k96nb01",
             "repo": "immunogenetr_package",
             "stars": 6
@@ -1427,7 +1427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:50:21.781Z",
+    "last_updated": "2026-08-15T18:25:19.615Z",
     "original_repository": "slowkow/awesome-vdj",
     "original_repository_sha": "fa725fd8a066efc798ae1ac1f71eaa49e69d2291",
     "enhanced_repository": "enhansome/enhansome-vdj",
