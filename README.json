@@ -299,7 +299,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T09:05:20Z",
+            "last_commit": "2026-08-16T15:38:26Z",
             "owner": "antigenomics",
             "repo": "vdjtools",
             "stars": 145
@@ -459,7 +459,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T09:20:23Z",
+            "last_commit": "2026-08-15T23:09:06Z",
             "owner": "antigenomics",
             "repo": "arda",
             "stars": 56
@@ -1427,7 +1427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T18:25:19.615Z",
+    "last_updated": "2026-08-16T18:24:54.940Z",
     "original_repository": "slowkow/awesome-vdj",
     "original_repository_sha": "fa725fd8a066efc798ae1ac1f71eaa49e69d2291",
     "enhanced_repository": "enhansome/enhansome-vdj",
