@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-30T18:53:10Z",
+            "last_commit": "2026-08-17T16:52:23Z",
             "owner": "antigenomics",
             "repo": "vdjmatch",
             "stars": 39
@@ -86,7 +86,7 @@
             "last_commit": "2026-08-10T18:03:44Z",
             "owner": "scverse",
             "repo": "scirpy",
-            "stars": 264
+            "stars": 265
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2024-11-01T20:26:25Z",
             "owner": "SchubertLab",
             "repo": "mvTCR",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -299,7 +299,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T15:38:26Z",
+            "last_commit": "2026-08-16T21:37:55Z",
             "owner": "antigenomics",
             "repo": "vdjtools",
             "stars": 145
@@ -341,7 +341,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T11:26:12Z",
+            "last_commit": "2026-08-17T12:38:28Z",
             "owner": "uio-bmi",
             "repo": "immuneML",
             "stars": 76
@@ -1368,7 +1368,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-14T20:59:31Z",
+            "last_commit": "2026-08-16T21:15:28Z",
             "owner": "k96nb01",
             "repo": "immunogenetr_package",
             "stars": 6
@@ -1427,7 +1427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T18:24:54.940Z",
+    "last_updated": "2026-08-17T18:35:22.333Z",
     "original_repository": "slowkow/awesome-vdj",
     "original_repository_sha": "fa725fd8a066efc798ae1ac1f71eaa49e69d2291",
     "enhanced_repository": "enhansome/enhansome-vdj",
