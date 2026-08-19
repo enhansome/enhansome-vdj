@@ -75,7 +75,7 @@
                 "last_commit": "2026-08-03T19:05:27Z",
                 "owner": "liulab-dfci",
                 "repo": "TRUST4",
-                "stars": 360
+                "stars": 361
               }
             },
             {
@@ -1469,7 +1469,7 @@
                 "archived": false,
                 "id": 814723176,
                 "language": "R",
-                "last_commit": "2026-08-16T21:15:28Z",
+                "last_commit": "2026-08-19T16:30:38Z",
                 "owner": "k96nb01",
                 "repo": "immunogenetr_package",
                 "stars": 6
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:57:00.953Z",
+    "last_updated": "2026-08-19T18:31:33.969Z",
     "original_repository": "slowkow/awesome-vdj",
     "original_repository_id": 232637997,
     "original_repository_sha": "fa725fd8a066efc798ae1ac1f71eaa49e69d2291",
