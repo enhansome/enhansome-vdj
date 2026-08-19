@@ -1,1434 +1,1545 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VDJDB: A curated database of T-cell receptor sequences of known antigen specificity",
+              "description": "The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...PubMed · 🪝 491 · ⭐ 149 · Homepage",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49149680,
+                "language": "Python",
+                "last_commit": "2026-06-11T10:01:20Z",
+                "owner": "antigenomics",
+                "repo": "vdjdb-db",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vdjmatch",
+              "description": "Matching T-cell repertoire against a database of TCR antigen specificities⭐ 39 · Homepage ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26707493,
+                "language": "Python",
+                "last_commit": "2026-08-18T23:30:46Z",
+                "owner": "antigenomics",
+                "repo": "vdjmatch",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Specificity Databases"
+        }
+      ],
       "title": "🗄️ VDJ Databases"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "VDJDB: A curated database of T-cell receptor sequences of known antigen specificity",
-          "description": "The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...PubMed · 🪝 491 · ⭐ 149 · Homepage",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-11T10:01:20Z",
-            "owner": "antigenomics",
-            "repo": "vdjdb-db",
-            "stars": 155
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "scRepertoire: A toolkit for single-cell immune profiling",
+              "description": "R package for analyzing and visualizing single-cell immune receptor data. This new version introduces an array of features designed to enhance both the depth and breadth of immune receptor analysis...PubMed · 🪝 9 · ⭐ 358 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234732643,
+                "language": "R",
+                "last_commit": "2026-08-14T13:09:29Z",
+                "owner": "BorchLab",
+                "repo": "scRepertoire",
+                "stars": 374
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TRUST4: TCR and BCR assembly from RNA-seq data",
+              "description": "Tcr Receptor Utilities for Solid Tissue (TRUST) is a computational tool to analyze TCR and BCR sequences using unselected RNA sequencing data, profiled from solid tissues, including tumors. TRUST4 ...PubMed · 🪝 227 · ⭐ 337 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206697335,
+                "language": "C",
+                "last_commit": "2026-08-03T19:05:27Z",
+                "owner": "liulab-dfci",
+                "repo": "TRUST4",
+                "stars": 360
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scirpy: a Scanpy extension for analyzing single-cell T-cell receptor-sequencing data",
+              "description": "A scalable Python toolkit that provides simplified access to the analysis and visualization of immune repertoires from single cells and seamless integration with transcriptomic data.PubMed · 🪝 212 · ⭐ 243 · Homepage ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232568640,
+                "language": "Python",
+                "last_commit": "2026-08-19T11:14:31Z",
+                "owner": "scverse",
+                "repo": "scirpy",
+                "stars": 265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "STARTRAC",
+              "description": "STARTRAC(Single T-cell Analysis by Rna-seq and Tcr TRACking)PubMed · 🪝 27 · ⭐ 114 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123892363,
+                "language": "HTML",
+                "last_commit": "2025-04-26T08:00:46Z",
+                "owner": "Japrin",
+                "repo": "STARTRAC",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepTCR: Deep Learning Methods for Parsing T-Cell Receptor Sequencing (TCRSeq) Data",
+              "description": "DeepTCR is a python package that has a collection of unsupervised and supervised deep learning methods to parse TCRSeq data. It has the added functionality of being able to analyze paired alpha/bet...PubMed · 🪝 217 · ⭐ 123 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156019789,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-09-16T19:51:52Z",
+                "owner": "sidhomj",
+                "repo": "DeepTCR",
+                "stars": 123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CONGA: Clonotype Neighbor Graph Analysis",
+              "description": "CONGA was developed to detect correlation between T cell gene expression profile and TCR sequence in single-cell datasets.Paper · 🪝 9 · ⭐ 93 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 255368337,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-15T20:49:42Z",
+                "owner": "phbradley",
+                "repo": "conga",
+                "stars": 100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "airrflow",
+              "description": "B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation frameworkPubMed · 🪝 10 · ⭐ 73 · Homepage ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160348245,
+                "language": "Nextflow",
+                "last_commit": "2026-08-14T20:03:04Z",
+                "owner": "nf-core",
+                "repo": "airrflow",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mvTCR",
+              "description": "A multi-view Variational Autoencoder (mvTCR) to jointly embed transcriptomic and TCR sequence information at a single-cell level to better capture the phenotypic behavior of T cells.PubMed · 🪝 17 · ⭐ 56 · Homepage ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 339668221,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-11-01T20:26:25Z",
+                "owner": "SchubertLab",
+                "repo": "mvTCR",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "enclone",
+              "description": "enclone is standalone software (primarily written in Rust) developed by 10x Genomics for analysis of single cell TCR and BCR sequences. enclone performs SHM-aware clonotyping, phylogenetic/lineage ...⭐ 50 · Homepage ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231675458,
+                "language": "Rust",
+                "last_commit": "2025-03-07T20:41:25Z",
+                "owner": "10XGenomics",
+                "repo": "enclone",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "covid19",
+              "description": "Regularly updated list of publicly available datasets with single-cell (scRNAseq) and T-cell/antibody immune repertoire (AIRR / RepSeq / immunosequencing) data of COVID-19 patients with SARS-CoV-2.⭐ 46",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263604905,
+                "language": null,
+                "last_commit": "2020-05-21T20:08:06Z",
+                "owner": "immunomind",
+                "repo": "covid19",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Platypus",
+              "description": "R package for the analysis of single-cell immune repertoiresPubMed · 🪝 40 · ⭐ 43 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 297313954,
+                "language": "R",
+                "last_commit": "2025-02-07T10:29:06Z",
+                "owner": "alexyermanos",
+                "repo": "Platypus",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TCRGP",
+              "description": "TCRGP is a novel Gaussian process method that can predict if TCRs recognize certain epitopes. This method can utilize different CDR sequences from both TCRα and TCRβ chains from single-cell data an...PubMed · 🪝 109 · ⭐ 30 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168714273,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-01-31T08:49:52Z",
+                "owner": "emmijokinen",
+                "repo": "TCRGP",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TCRconvert",
+              "description": "TCRconvert converts T cell receptor (TCR) gene names between the 10X, Adaptive, and IMGT naming conventions. It supports alpha-beta and gamma-delta TCRs for human, mouse, and rhesus macaque.⭐ 15 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 764400325,
+                "language": "Python",
+                "last_commit": "2025-12-26T22:13:16Z",
+                "owner": "seshadrilab",
+                "repo": "tcrconvert",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TCRconvertR",
+              "description": "TCRconvertR converts T cell receptor (TCR) gene names between the 10X, Adaptive, and IMGT naming conventions. It supports alpha-beta and gamma-delta TCRs for human, mouse, and rhesus macaque.⭐ 6 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 913062249,
+                "language": "R",
+                "last_commit": "2026-05-28T01:18:38Z",
+                "owner": "seshadrilab",
+                "repo": "tcrconvertr",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dandelion",
+              "description": "dandelion - A single cell BCR/TCR V(D)J-seq analysis package for 10X Chromium 5' dataPubMed · 🪝 44 · ⭐ 122 · Homepage ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1138655055,
+                "language": "Python",
+                "last_commit": "2026-03-02T01:53:50Z",
+                "owner": "zktuong",
+                "repo": "dandelion",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Single-Cell"
         },
         {
-          "node_type": "item",
-          "title": "vdjmatch",
-          "description": "Matching T-cell repertoire against a database of TCR antigen specificities⭐ 39 · Homepage ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T03:12:54Z",
-            "owner": "antigenomics",
-            "repo": "vdjmatch",
-            "stars": 39
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "immunarch: An R Package for Painless Bioinformatics Analysis of T-cell and B-cell Immune Repertoire Data",
+              "description": "immunarch is an R package designed to analyse T-cell receptor (TCR) and B-cell receptor (BCR) repertoires, aimed at medical scientists and bioinformaticians. The mission of immunarch is to make imm...⭐ 334 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172738067,
+                "language": "R",
+                "last_commit": "2026-08-18T18:15:05Z",
+                "owner": "immunomind",
+                "repo": "immunarch",
+                "stars": 341
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "msm: Max Snippet Model",
+              "description": "Improved statistical classifier for immune repertoiresPubMed · 🪝 8 · ⭐ 177 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 537200146,
+                "language": "Python",
+                "last_commit": "2023-05-01T11:46:29Z",
+                "owner": "jostmey",
+                "repo": "msm",
+                "stars": 176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VDJtools",
+              "description": "A comprehensive analysis framework for T-cell and B-cell repertoire sequencing dataPubMed · 🪝 529 · ⭐ 142 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20546990,
+                "language": "Python",
+                "last_commit": "2026-08-16T21:37:55Z",
+                "owner": "antigenomics",
+                "repo": "vdjtools",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepRC",
+              "description": "DeepRC: Immune repertoire classification with attention-based deep massive multiple instance learning⭐ 124 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254913081,
+                "language": "Python",
+                "last_commit": "2023-09-12T11:36:33Z",
+                "owner": "ml-jku",
+                "repo": "DeepRC",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dkm: Dynamic Kernel Matching",
+              "description": "DKM is analogous to a convolutional network, but for sequences. Consider the problem of classifying a sequence. Because some sequences are longer than others, the number of features is irregular. G...⭐ 94 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231257156,
+                "language": "HTML",
+                "last_commit": "2023-05-16T17:55:12Z",
+                "owner": "jostmey",
+                "repo": "dkm",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "immuneML",
+              "description": "immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.⭐ 73 · Homepage ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299273889,
+                "language": "Python",
+                "last_commit": "2026-08-18T07:45:47Z",
+                "owner": "uio-bmi",
+                "repo": "immuneML",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abstar",
+              "description": "VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.⭐ 44 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46077907,
+                "language": "Pkl",
+                "last_commit": "2026-03-30T17:05:42Z",
+                "owner": "brineylab",
+                "repo": "abstar",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vdjer",
+              "description": "V'DJer - B Cell Receptor Repertoire Reconstruction from short read mRNA-Seq data⭐ 29 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32866258,
+                "language": "C",
+                "last_commit": "2022-08-09T21:01:31Z",
+                "owner": "mozack",
+                "repo": "vdjer",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CATT",
+              "description": "An ultra-sensitive and precise tool for characterizing T cell CDR3 sequences in TCR-seq and RNA-seq data.⭐ 21 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152699695,
+                "language": "Julia",
+                "last_commit": "2025-11-19T09:05:36Z",
+                "owner": "GuoBioinfoLab",
+                "repo": "CATT",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "epitopefindr",
+              "description": "R package to BLAST peptide sequences against each other and identify the minimal overlap of aligning regions.⭐ 16 · Homepage ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154220769,
+                "language": "R",
+                "last_commit": "2025-08-26T17:51:09Z",
+                "owner": "brandonsie",
+                "repo": "epitopefindr",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Recon: Reconstruction of Estimated Communities from Observed Numbers",
+              "description": "Recon uses the distribution of species counts in a sample to estimate the distribution of species counts in the population from which the sample was drawn.PubMed · 🪝 91 · ⭐ 14 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39451483,
+                "language": "Python",
+                "last_commit": "2025-12-16T19:10:26Z",
+                "owner": "ArnaoutLab",
+                "repo": "Recon",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Repertoire Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MiXCR: a universal tool for fast and accurate analysis of T- and B- cell receptor repertoire sequencing data",
+              "description": "MiXCR is a universal framework that processes big immunome data from raw sequences to quantitated clonotypes. MiXCR efficiently handles paired- and single-end reads, considers sequence quality, cor...PubMed · 🪝 4 · ⭐ 380 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33134597,
+                "language": "Kotlin",
+                "last_commit": "2026-07-10T16:34:30Z",
+                "owner": "milaboratory",
+                "repo": "mixcr",
+                "stars": 399
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stitchr",
+              "description": "Stitchr - a Python script to stitch together coding TCR nucleotide sequences from V, J, and CDR3 infoPubMed · 🪝 22 · ⭐ 64 · Homepage ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156881770,
+                "language": "Python",
+                "last_commit": "2026-03-12T15:24:35Z",
+                "owner": "JamieHeather",
+                "repo": "stitchr",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MiGMAP: mapper for full-length T- and B-cell repertoire sequencing",
+              "description": "In a nutshell, this software is a smart wrapper for IgBlast V-(D)-J mapping tool designed to facilitate analysis immune receptor libraries profiled using high-throughput sequencing. This package in...⭐ 53 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20132994,
+                "language": "Python",
+                "last_commit": "2026-08-15T23:09:06Z",
+                "owner": "antigenomics",
+                "repo": "arda",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyIR: An IgBLAST wrapper and parser",
+              "description": "PyIR is a minimally-dependent high-speed wrapper for the IgBLAST immunoglobulin and T-cell analyzer. This is achieved through chunking the input data set and running IgBLAST single-core in parallel...PubMed · 🪝 29 · ⭐ 50 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105039360,
+                "language": "Python",
+                "last_commit": "2026-01-09T22:16:45Z",
+                "owner": "crowelab",
+                "repo": "PyIR",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vidjil",
+              "description": "Vidjil -- High-throughput Analysis of V(D)J Immune Repertoire (mirror, please go to http://gitlab.vidjil.org)PubMed · 🪝 81 · ⭐ 31 · Homepage ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16959257,
+                "language": "JavaScript",
+                "last_commit": "2026-06-29T17:49:47Z",
+                "owner": "vidjil",
+                "repo": "vidjil",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vdjviz",
+              "description": "A lightweight immune repertoire browserPubMed · 🪝 33 · ⭐ 27 · Homepage ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24148786,
+                "language": "JavaScript",
+                "last_commit": "2019-12-10T10:04:18Z",
+                "owner": "antigenomics",
+                "repo": "vdjviz",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BepiPred-3.0",
+              "description": "BepiPred3.0 predicts B-cell epitopes from proteins sequences in fasta format.⭐ 17 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454799140,
+                "language": "HTML",
+                "last_commit": "2026-01-02T15:33:42Z",
+                "owner": "UberClifford",
+                "repo": "BepiPred-3.0",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IMSEQ: IMmunogenetic SEQuence Analysis",
+              "description": "IMSEQ is a fast, PCR and sequencing error aware tool to analyze high throughput data from recombined T-cell receptor or immunoglobolin gene sequencing experiments. It derives immune repertoires fro...PubMed · 🪝 98 · ⭐ 15",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30064233,
+                "language": "C++",
+                "last_commit": "2018-08-10T11:02:09Z",
+                "owner": "lkuchenb",
+                "repo": "imseq",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PRESTO: The REpertoire Sequencing TOolkit",
+              "description": "pRESTO is a toolkit for processing raw reads from high-throughput sequencing of B cell and T cell repertoires. > The REpertoire Sequencing TOolkit (pRESTO) is composed of a suite of utilities to ha...PubMed · 🪝 424 · Docs ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 865968162,
+                "language": "Python",
+                "last_commit": "2026-04-14T14:03:12Z",
+                "owner": "immcantation",
+                "repo": "presto",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sequence Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tcr-dist",
+              "description": "Software tools for the analysis of epitope-specific T cell receptor (TCR) repertoiresPubMed · 🪝 815 · ⭐ 86 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85329347,
+                "language": "Python",
+                "last_commit": "2021-10-06T23:19:08Z",
+                "owner": "phbradley",
+                "repo": "tcr-dist",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GIANA: Geometry Isometry based TCR AligNment Algorithm",
+              "description": "Geometric Isometry- based TCR AligNment Algorithm (GIANA), a mathematical framework to transform the CDR3 sequences, which converted the sequence alignment and clustering problem into a classic nea...PubMed · 🪝 102 · ⭐ 71 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286625292,
+                "language": "HTML",
+                "last_commit": "2024-10-16T20:27:42Z",
+                "owner": "s175573",
+                "repo": "GIANA",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tcrdist3",
+              "description": "tcrdist3 is a Python API-enabled toolkit for analyzing T-cell receptor repertoires. Some of the functionality and code is adapted from the original tcr-dist package.PubMed · 🪝 126 · ⭐ 69 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278150009,
+                "language": "Python",
+                "last_commit": "2025-12-16T01:25:34Z",
+                "owner": "kmayerb",
+                "repo": "tcrdist3",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ClusTCR: a Python interface for rapid clustering of large sets of CDR3 sequences with unknown antigen specificity",
+              "description": "CDR3 clustering module providing a new method for fast and accurate clustering of large data sets of CDR3 amino acid sequences, and offering functionalities for downstream analysis of clustering re...PubMed · 🪝 58 · ⭐ 54 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315335375,
+                "language": "Python",
+                "last_commit": "2024-04-03T06:15:17Z",
+                "owner": "svalkiers",
+                "repo": "clusTCR",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "immuneSIM: Tunable Simulation of B- And T-Cell Receptor Repertoires",
+              "description": "Simulate full B-cell and T-cell receptor repertoires using an in silico recombination process that includes a wide variety of tunable parameters to introduce noise and biases. Additional post-simul...PubMed · 🪝 63 · ⭐ 38 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193957540,
+                "language": "R",
+                "last_commit": "2023-11-27T12:24:47Z",
+                "owner": "GreiffLab",
+                "repo": "immuneSIM",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ALICE: Antigen-specific Lymphocyte Identification by Clustering of Expanded sequences",
+              "description": "Detecting TCR involved in immune responses from single RepSeq datasets.PubMed · ⭐ 27 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141993362,
+                "language": "R",
+                "last_commit": "2019-06-17T12:22:02Z",
+                "owner": "pogorely",
+                "repo": "ALICE",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ImReP: Rapid and accurate profiling of the adaptive immune repertoires from regular RNA-Seq data",
+              "description": "ImReP is a method to quantify individual immune response based on a recombination landscape of genes encoding B and T cell receptors (BCR and TCR). ImReP is able to efficiently extract TCR and BCR ...PubMed · ⭐ 11 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212595951,
+                "language": "C",
+                "last_commit": "2024-04-11T22:04:54Z",
+                "owner": "Mangul-Lab-USC",
+                "repo": "imrep",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clustering & Similarity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "epitopepredict",
+              "description": "Python package and command line tool for epitope predictionPubMed · 🪝 6 · ⭐ 52 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28866919,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-08-02T11:33:40Z",
+                "owner": "dmnfarrell",
+                "repo": "epitopepredict",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "epitopeprediction",
+              "description": "A bioinformatics best-practice analysis pipeline for epitope prediction and annotation⭐ 49 · Homepage ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159524795,
+                "language": "Nextflow",
+                "last_commit": "2026-08-07T16:12:58Z",
+                "owner": "nf-core",
+                "repo": "epitopeprediction",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MuPeXI",
+              "description": "MuPeXI: the mutant peptide extractor and informer, a tool for predicting neo-epitopes from tumor sequencing data.⭐ 52 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69357332,
+                "language": "Python",
+                "last_commit": "2019-09-12T16:11:18Z",
+                "owner": "ambj",
+                "repo": "MuPeXI",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "neoantigens",
+              "description": "Exploring novel tumor epitope identificationPubMed · 🪝 624 · ⭐ 37 ·",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 145960197,
+                "language": "Python",
+                "last_commit": "2020-10-07T08:30:25Z",
+                "owner": "umccr",
+                "repo": "neoantigens",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MixTCRpred",
+              "description": "Predictor of TCR-epitope interactions⭐ 34 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 571945724,
+                "language": "Python",
+                "last_commit": "2025-09-09T13:17:13Z",
+                "owner": "GfellerLab",
+                "repo": "MixTCRpred",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AsEP-dataset",
+              "description": "NeurIPS 2024 Dataset and Benchmark Submission \"AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction\"⭐ 30 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 808073807,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-08-12T16:05:17Z",
+                "owner": "biochunan",
+                "repo": "AsEP-dataset",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "topiary",
+              "description": "Predict mutated T-cell epitopes from sequencing data⭐ 30 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33150343,
+                "language": "Python",
+                "last_commit": "2026-05-18T18:12:51Z",
+                "owner": "openvax",
+                "repo": "topiary",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Repitope",
+              "description": "Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.⭐ 25 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93932170,
+                "language": "R",
+                "last_commit": "2023-11-17T09:37:45Z",
+                "owner": "masato-ogishi",
+                "repo": "Repitope",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EpiDope",
+              "description": "Prediction of B-cell epitopes from amino acid sequences using deep neural networks.PubMed · 🪝 11 · ⭐ 18 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 227843194,
+                "language": "Python",
+                "last_commit": "2022-09-07T19:59:17Z",
+                "owner": "rnajena",
+                "repo": "EpiDope",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyrepseq",
+              "description": "Python library for immune repertoire analysisPubMed · 🪝 29 · ⭐ 17 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 355959013,
+                "language": "Python",
+                "last_commit": "2026-08-06T17:00:36Z",
+                "owner": "andim",
+                "repo": "pyrepseq",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ImRex",
+              "description": "Generic TCR-epitope recognition prediction using CNN approach on both known and novel epitopes⭐ 17 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221470901,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-05-22T22:50:06Z",
+                "owner": "pmoris",
+                "repo": "ImRex",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Epitope Prediction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Absolut: Unconstrained lattice antibody-antigen bindings generator - One tool to simulate them all!",
+              "description": "Absolut! is a database and C++ user interface that allows the high-throughput computation for the 3D-lattice binding of any CDRH3 sequence to any antigen, enabling the custom generation of new anti...Paper · 🪝 20 · ⭐ 111 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 301980293,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-05-23T12:49:30Z",
+                "owner": "csi-greifflab",
+                "repo": "Absolut",
+                "stars": 114
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TCRdock",
+              "description": "Python tools for TCR:peptide-MHC modeling and analysis: - Set up and run TCR-specialized AlphaFold simulations starting from a TSV file with TCR, peptide, and MHC information. - Parse a TCR:peptide...PubMed · 🪝 93 · ⭐ 86 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 520281959,
+                "language": "Python",
+                "last_commit": "2026-06-26T18:02:45Z",
+                "owner": "phbradley",
+                "repo": "TCRdock",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tcr-bert",
+              "description": "TCR-BERT is a large language model trained on T-cell receptor sequences, built using a lightly modified BERT architecture with tweaked pre-training objectives.Paper · 🪝 74 · ⭐ 57 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 427452614,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-05-04T23:33:39Z",
+                "owner": "wukevin",
+                "repo": "tcr-bert",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TEIM",
+              "description": "TEIM: TCR-Epitope Interaction Modeling⭐ 55 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 424463720,
+                "language": "Python",
+                "last_commit": "2023-07-26T12:46:25Z",
+                "owner": "pengxingang",
+                "repo": "TEIM",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TCRmodel2: high-resolution modeling of T cell receptor recognition using deep learning",
+              "description": "This method, named TCRmodel2, allows users to submit sequences through an easy-to-use interface and shows similar or greater accuracy than AlphaFold and other methods to model TCR–peptide–MHC compl...PubMed · 🪝 70 · ⭐ 45 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608840664,
+                "language": "Python",
+                "last_commit": "2026-03-30T17:45:34Z",
+                "owner": "piercelab",
+                "repo": "tcrmodel2",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TITAN - Tcr epITope bimodal Attention Networks",
+              "description": "a bimodal neural network that explicitly encodes both TCR sequences and epitopes to enable the independent study of generalization capabilities to unseen TCRs and/or epitopes.PubMed · 🪝 150 · ⭐ 30 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 350377706,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-07-12T02:44:38Z",
+                "owner": "PaccMann",
+                "repo": "TITAN",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "compairr",
+              "description": "Comparison of Adaptive Immune Receptor RepertoiresPubMed · 🪝 15 · ⭐ 28 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353091132,
+                "language": "C++",
+                "last_commit": "2025-01-29T16:20:08Z",
+                "owner": "uio-bmi",
+                "repo": "compairr",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TCRconv",
+              "description": "TCRconv is a deep learning model for predicting recognition between T cell receptors and epitopes. It uses protBERT embeddings for the TCRs and convolutional neural networks for the prediction.PubMed · 🪝 20 · ⭐ 26 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 492812402,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-10-18T11:49:48Z",
+                "owner": "emmijokinen",
+                "repo": "TCRconv",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vampire: Deep generative models for TCR sequences",
+              "description": "Fit and test variational autoencoder (VAE) models for T cell receptor sequences.PubMed · 🪝 66 · ⭐ 17 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138357838,
+                "language": "Python",
+                "last_commit": "2022-04-04T23:07:03Z",
+                "owner": "matsengrp",
+                "repo": "vampire",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TEINet",
+              "description": "TEINet: a deep learning framework for prediction of TCR-epitope binding specificityPubMed · 🪝 55 · ⭐ 16 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 544740527,
+                "language": "Python",
+                "last_commit": "2023-06-30T05:53:51Z",
+                "owner": "jiangdada1221",
+                "repo": "TEINet",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Structure & Modeling"
         }
       ],
-      "title": "Specificity Databases"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "🔬 VDJ Analysis"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "scRepertoire: A toolkit for single-cell immune profiling",
-          "description": "R package for analyzing and visualizing single-cell immune receptor data. This new version introduces an array of features designed to enhance both the depth and breadth of immune receptor analysis...PubMed · 🪝 9 · ⭐ 358 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-08-14T13:09:29Z",
-            "owner": "BorchLab",
-            "repo": "scRepertoire",
-            "stars": 374
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HLA_analyses_tutorial",
+              "description": "A thorough tutorial on HLA imputation and association, accompanying our manuscript \"Tutorial: A statistical genetics guide to identifying HLA alleles driving complex disease\"⭐ 70 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 516843236,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-10-10T20:34:11Z",
+                "owner": "immunogenomics",
+                "repo": "HLA_analyses_tutorial",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HLA-TAPAS: HLA-Typing At Protein for Association Studies",
+              "description": "An HLA-focused pipeline that can handle HLA reference panel construction (MakeReference), HLA imputation (SNP2HLA), and HLA association (HLAassoc). It is an updated version of the SNP2HLA.⭐ 54 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223208422,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-12-19T12:03:52Z",
+                "owner": "immunogenomics",
+                "repo": "HLA-TAPAS",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyHLA",
+              "description": "Python for HLA analysis: summary, association analysis, zygosity test and interaction testPubMed · ⭐ 38 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34704200,
+                "language": "Python",
+                "last_commit": "2026-04-08T01:36:08Z",
+                "owner": "felixfan",
+                "repo": "PyHLA",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HATK: HLA Analysis Toolkit",
+              "description": "HATK(HLA Analysis Tool-Kit) is a collection of tools and modules to perform HLA fine-mapping analysis, which is to identify which HLA allele or amino acid position of the HLA gene is driving the di...PubMed · 🪝 15 · ⭐ 28 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143300990,
+                "language": "Parrot",
+                "last_commit": "2022-12-18T06:03:53Z",
+                "owner": "WansonChoi",
+                "repo": "HATK",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cdr3-QTL",
+              "description": "Trans-association between HLA and TCR-CDR3⭐ 19 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306212645,
+                "language": "HTML",
+                "last_commit": "2023-03-29T00:12:24Z",
+                "owner": "immunogenomics",
+                "repo": "cdr3-QTL",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hlabud: HLA genotype analysis in R",
+              "description": "hlabud provides methods to retrieve sequence alignment data from IMGTHLA and convert the data into convenient R matrices ready for downstream analysis. See the usage examples to learn how to use th...⭐ 17 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 624125072,
+                "language": "R",
+                "last_commit": "2025-04-11T20:43:39Z",
+                "owner": "slowkow",
+                "repo": "hlabud",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MATER: Minimizer RNAseq HLA typer",
+              "description": "MATER is a minimizer-based HLA typer for RNAseq read dataset. In a typical RNAseq dataset, the reads sampled from HLA genes are less uniform and may miss regions that makes assembly or variant call...PubMed · 🪝 24 · ⭐ 14 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 301934927,
+                "language": "R",
+                "last_commit": "2024-01-31T19:02:42Z",
+                "owner": "Genentech",
+                "repo": "midasHLA",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BIGDAWG: Case-Control Analysis of Multi-Allelic Loci",
+              "description": "Data sets and functions for chi-squared Hardy-Weinberg and case-control association tests of highly polymorphic genetic data [e.g., human leukocyte antigen (HLA) data]. Performs association tests a...PubMed · 🪝 82 · ⭐ 3 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 333326966,
+                "language": "R",
+                "last_commit": "2026-05-04T18:45:45Z",
+                "owner": "IgDAWG",
+                "repo": "BIGDAWG",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Association Studies"
         },
         {
-          "node_type": "item",
-          "title": "TRUST4: TCR and BCR assembly from RNA-seq data",
-          "description": "Tcr Receptor Utilities for Solid Tissue (TRUST) is a computational tool to analyze TCR and BCR sequences using unselected RNA sequencing data, profiled from solid tissues, including tumors. TRUST4 ...PubMed · 🪝 227 · ⭐ 337 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-03T19:05:27Z",
-            "owner": "liulab-dfci",
-            "repo": "TRUST4",
-            "stars": 360
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OptiType: Precision HLA typing from next-generation sequencing data",
+              "description": "OptiType is a novel HLA genotyping algorithm based on integer linear programming, capable of producing accurate 4-digit HLA genotyping predictions from NGS data by simultaneously selecting all majo...PubMed · 🪝 643 · ⭐ 205 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19533024,
+                "language": "Python",
+                "last_commit": "2026-05-20T07:42:26Z",
+                "owner": "FRED-2",
+                "repo": "OptiType",
+                "stars": 223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arcasHLA: Fast and accurate in silico inference of HLA genotypes from RNA-seq",
+              "description": "arcasHLA performs high resolution genotyping for HLA class I and class II genes from RNA sequencing, supporting both paired and single-end samples.PubMed · 🪝 157 · ⭐ 152 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155271316,
+                "language": "Python",
+                "last_commit": "2024-08-20T12:14:59Z",
+                "owner": "RabadanLab",
+                "repo": "arcasHLA",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HLA-LA: Fast HLA type inference from whole-genome data",
+              "description": "HLA typing based on a population reference graph and employs a new linear projection method to align reads to the graph.⭐ 141 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84989691,
+                "language": "C++",
+                "last_commit": "2025-04-03T20:21:17Z",
+                "owner": "DiltheyLab",
+                "repo": "HLA-LA",
+                "stars": 146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xHLA: Fast and accurate HLA typing from short read sequence data",
+              "description": "xHLA iteratively refines the mapping results at the amino acid level to achieve 99 to 100% 4-digit typing accuracy for both class I and II HLA genes, taking only about 3 minutes to process a 30X wh...PubMed · 🪝 125 · ⭐ 113 · Homepage ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94831891,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-10-13T15:01:05Z",
+                "owner": "humanlongevity",
+                "repo": "HLA",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "T1K: efficient and accurate inference of KIR or HLA alleles from RNA-seq, whole-genome sequencing, or whole-exome sequencing data",
+              "description": "T1K (The ONE genotyper for Kir and HLA) is a computational tool to infer the alleles for the polymorphic genes such as KIR and HLA. T1K calculates the allele abundances based on the RNA-seq/WES/WGS...PubMed · 🪝 25 · ⭐ 94 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372967942,
+                "language": "C",
+                "last_commit": "2026-08-18T16:09:08Z",
+                "owner": "mourisl",
+                "repo": "T1K",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hlatyping",
+              "description": "Precision HLA typing from next-generation sequencing data⭐ 76 · Homepage ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140573587,
+                "language": "Nextflow",
+                "last_commit": "2026-07-31T09:15:14Z",
+                "owner": "nf-core",
+                "repo": "hlatyping",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scHLAcount",
+              "description": "Count HLA alleles in single-cell RNA-seq dataPubMed · 🪝 20 · ⭐ 63 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197242538,
+                "language": "TeX",
+                "last_commit": "2021-11-05T16:13:52Z",
+                "owner": "10XGenomics",
+                "repo": "scHLAcount",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpecHLA",
+              "description": "SpecHLA reconstructs entire diploid sequences of HLA genes and infers LOH events. It supports HLA-A, -B, -C, -DPA1, -DPB1, -DQA1, -DQB1, and -DRB1 genes. Also, it supports both short- and long-read...PubMed · 🪝 11 · ⭐ 53 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365199742,
+                "language": "C++",
+                "last_commit": "2026-07-27T19:13:40Z",
+                "owner": "deepomicslab",
+                "repo": "SpecHLA",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "seq2HLA: HLA typing from RNA-Seq sequence reads",
+              "description": "In-silico method written in Python and R to determine HLA genotypes of a sample. seq2HLA takes standard RNA-Seq sequence reads in fastq format as input, uses a bowtie index comprising all HLA allel...⭐ 50 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99008203,
+                "language": "Python",
+                "last_commit": "2025-08-09T10:36:01Z",
+                "owner": "TRON-Bioinformatics",
+                "repo": "seq2HLA",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kourami: Graph-guided assembly for HLA alleles",
+              "description": "Kourami is a graph-guided assembler for HLA haplotypes covering typing exons (exons 2 and 3 for Class I and exon 3 for Class II) using high-coverage whole genome sequencing data. Kourami constructs...PubMed · 🪝 82 · ⭐ 38 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88066886,
+                "language": "Java",
+                "last_commit": "2019-05-21T15:32:10Z",
+                "owner": "Kingsford-Group",
+                "repo": "kourami",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HLAProfiler: Using k-mers to call HLA alleles in RNA sequencing data",
+              "description": "HLAProfiler uses the k-mer content of next generation sequencing reads to call HLA types in a sample. Based on the k-mer content each each read pair is assigned to an HLA gene and the aggregate k-m...PubMed · 🪝 44 · ⭐ 23 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88547258,
+                "language": "Perl",
+                "last_commit": "2018-07-26T18:37:02Z",
+                "owner": "ExpressionAnalysis",
+                "repo": "HLAProfiler",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MultiHLA: WES HLA Typing based on multiple alternative tools",
+              "description": "This workflow enables the concurrent analysis of WES or WGS data using publicly available software to derive HLA haplotypes from this type of data. It includes automated Snakemake workflows for the...⭐ 18 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271025274,
+                "language": "Python",
+                "last_commit": "2021-03-08T18:56:25Z",
+                "owner": "lkuchenb",
+                "repo": "MultiHLA",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hla3: weight of evidence of HLA allele expression based on bulk TCR beta-chain repertoires",
+              "description": "This repository contains Python functions for inferring HLA-alleles from bulk TCR beta chain data using a simple weight of evidence predictor.⭐ 3 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 387904822,
+                "language": "Python",
+                "last_commit": "2022-02-23T05:34:17Z",
+                "owner": "kmayerb",
+                "repo": "hla3",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "HLA Typing"
         },
         {
-          "node_type": "item",
-          "title": "Scirpy: a Scanpy extension for analyzing single-cell T-cell receptor-sequencing data",
-          "description": "A scalable Python toolkit that provides simplified access to the analysis and visualization of immune repertoires from single cells and seamless integration with transcriptomic data.PubMed · 🪝 212 · ⭐ 243 · Homepage ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T23:26:55Z",
-            "owner": "scverse",
-            "repo": "scirpy",
-            "stars": 265
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeoBert",
+              "description": "NeoBERT is an advanced model designed specifically for predicting the binding affinity between neoantigens and HLA. It is a variant of the original BERT model, enhanced to integrate biological feat...PubMed · ⭐ 155 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 849915640,
+                "language": "Python",
+                "last_commit": "2024-12-21T15:33:54Z",
+                "owner": "CHB-learner",
+                "repo": "NeoBert",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bigmhc",
+              "description": "BigMHC predicts MHC-I (neo)epitope presentation and immunogenicityPubMed · 🪝 60 · ⭐ 59 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 530254502,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-12-17T17:47:08Z",
+                "owner": "KarchinLab",
+                "repo": "bigmhc",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MixMHC2pred",
+              "description": "HLA-II ligand predictor.PubMed · 🪝 4 · ⭐ 46 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169597609,
+                "language": "C++",
+                "last_commit": "2026-07-17T04:25:38Z",
+                "owner": "GfellerLab",
+                "repo": "MixMHC2pred",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MixMHCpred",
+              "description": "HLA-I ligand predictor⭐ 43 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99564109,
+                "language": "Python",
+                "last_commit": "2026-03-19T15:54:28Z",
+                "owner": "GfellerLab",
+                "repo": "MixMHCpred",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "High-Throughput Prediction of MHC Class I and II Neoantigens with MHCnuggets",
+              "description": "MHC Class I and Class II neoantigen binding predictionPubMed · 🪝 131 · ⭐ 33 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132156030,
+                "language": "Python",
+                "last_commit": "2025-07-23T12:00:08Z",
+                "owner": "KarchinLab",
+                "repo": "mhcnuggets",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MHCAttnNet",
+              "description": "MHCAttnNet: Allele-Peptide predictions for class I & class II MHC allelesPubMed · 🪝 39 · ⭐ 30 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202865094,
+                "language": "Python",
+                "last_commit": "2021-02-14T09:43:59Z",
+                "owner": "gopuvenkat",
+                "repo": "MHCAttnNet",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "immunogenetr",
+              "description": "immunogenetr is a comprehensive toolkit for clinical HLA informatics. It is built on tidyverse principles and makes use of genotype list string (GL string, https://glstring.org/) for storing and us...PubMed · ⭐ 6 · Homepage ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 814723176,
+                "language": "R",
+                "last_commit": "2026-08-16T21:15:28Z",
+                "owner": "k96nb01",
+                "repo": "immunogenetr_package",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Peptide Prediction"
         },
         {
-          "node_type": "item",
-          "title": "STARTRAC",
-          "description": "STARTRAC(Single T-cell Analysis by Rna-seq and Tcr TRACking)PubMed · 🪝 27 · ⭐ 114 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-04-26T08:00:46Z",
-            "owner": "Japrin",
-            "repo": "STARTRAC",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepTCR: Deep Learning Methods for Parsing T-Cell Receptor Sequencing (TCRSeq) Data",
-          "description": "DeepTCR is a python package that has a collection of unsupervised and supervised deep learning methods to parse TCRSeq data. It has the added functionality of being able to analyze paired alpha/bet...PubMed · 🪝 217 · ⭐ 123 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-09-16T19:51:52Z",
-            "owner": "sidhomj",
-            "repo": "DeepTCR",
-            "stars": 123
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CONGA: Clonotype Neighbor Graph Analysis",
-          "description": "CONGA was developed to detect correlation between T cell gene expression profile and TCR sequence in single-cell datasets.Paper · 🪝 9 · ⭐ 93 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-06-15T20:49:42Z",
-            "owner": "phbradley",
-            "repo": "conga",
-            "stars": 100
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "airrflow",
-          "description": "B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation frameworkPubMed · 🪝 10 · ⭐ 73 · Homepage ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Nextflow",
-            "last_commit": "2026-08-14T20:03:04Z",
-            "owner": "nf-core",
-            "repo": "airrflow",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mvTCR",
-          "description": "A multi-view Variational Autoencoder (mvTCR) to jointly embed transcriptomic and TCR sequence information at a single-cell level to better capture the phenotypic behavior of T cells.PubMed · 🪝 17 · ⭐ 56 · Homepage ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-11-01T20:26:25Z",
-            "owner": "SchubertLab",
-            "repo": "mvTCR",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "enclone",
-          "description": "enclone is standalone software (primarily written in Rust) developed by 10x Genomics for analysis of single cell TCR and BCR sequences. enclone performs SHM-aware clonotyping, phylogenetic/lineage ...⭐ 50 · Homepage ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-03-07T20:41:25Z",
-            "owner": "10XGenomics",
-            "repo": "enclone",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "covid19",
-          "description": "Regularly updated list of publicly available datasets with single-cell (scRNAseq) and T-cell/antibody immune repertoire (AIRR / RepSeq / immunosequencing) data of COVID-19 patients with SARS-CoV-2.⭐ 46",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-05-21T20:08:06Z",
-            "owner": "immunomind",
-            "repo": "covid19",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Platypus",
-          "description": "R package for the analysis of single-cell immune repertoiresPubMed · 🪝 40 · ⭐ 43 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2025-02-07T10:29:06Z",
-            "owner": "alexyermanos",
-            "repo": "Platypus",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TCRGP",
-          "description": "TCRGP is a novel Gaussian process method that can predict if TCRs recognize certain epitopes. This method can utilize different CDR sequences from both TCRα and TCRβ chains from single-cell data an...PubMed · 🪝 109 · ⭐ 30 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-01-31T08:49:52Z",
-            "owner": "emmijokinen",
-            "repo": "TCRGP",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TCRconvert",
-          "description": "TCRconvert converts T cell receptor (TCR) gene names between the 10X, Adaptive, and IMGT naming conventions. It supports alpha-beta and gamma-delta TCRs for human, mouse, and rhesus macaque.⭐ 15 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-26T22:13:16Z",
-            "owner": "seshadrilab",
-            "repo": "tcrconvert",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TCRconvertR",
-          "description": "TCRconvertR converts T cell receptor (TCR) gene names between the 10X, Adaptive, and IMGT naming conventions. It supports alpha-beta and gamma-delta TCRs for human, mouse, and rhesus macaque.⭐ 6 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-05-28T01:18:38Z",
-            "owner": "seshadrilab",
-            "repo": "tcrconvertr",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dandelion",
-          "description": "dandelion - A single cell BCR/TCR V(D)J-seq analysis package for 10X Chromium 5' dataPubMed · 🪝 44 · ⭐ 122 · Homepage ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-02T01:53:50Z",
-            "owner": "zktuong",
-            "repo": "dandelion",
-            "stars": 0
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MHC-PRG",
+              "description": "Population Reference Graphs for the HLA and MHC.⭐ 35 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15875569,
+                "language": "C++",
+                "last_commit": "2018-12-18T10:20:49Z",
+                "owner": "AlexanderDilthey",
+                "repo": "MHC-PRG",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "py-ard",
+              "description": "HLA ARD Reduction in Python. Although HLA nomenclature has not always conformed to the same standard, it is now defined by The WHO Nomenclature Committee for Factors of the HLA System. py-ard is aw...⭐ 19 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121410722,
+                "language": "Python",
+                "last_commit": "2026-08-17T21:27:32Z",
+                "owner": "nmdp-bioinformatics",
+                "repo": "py-ard",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HLAtools: Functions and Datasets for HLA Informatics",
+              "description": "We have developed HLAtools, an R package that automates the consumption of IPD-IMGT/HLA resources, renders them computable, and makes them available alongside tools for data analysis, visualization...PubMed · 🪝 1 · ⭐ 4 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 750506679,
+                "language": "R",
+                "last_commit": "2026-07-28T05:40:01Z",
+                "owner": "sjmack",
+                "repo": "HLAtools",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data & Nomenclature"
         }
       ],
-      "title": "Single-Cell"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "immunarch: An R Package for Painless Bioinformatics Analysis of T-cell and B-cell Immune Repertoire Data",
-          "description": "immunarch is an R package designed to analyse T-cell receptor (TCR) and B-cell receptor (BCR) repertoires, aimed at medical scientists and bioinformaticians. The mission of immunarch is to make imm...⭐ 334 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-08-18T18:15:05Z",
-            "owner": "immunomind",
-            "repo": "immunarch",
-            "stars": 341
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "msm: Max Snippet Model",
-          "description": "Improved statistical classifier for immune repertoiresPubMed · 🪝 8 · ⭐ 177 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-01T11:46:29Z",
-            "owner": "jostmey",
-            "repo": "msm",
-            "stars": 176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VDJtools",
-          "description": "A comprehensive analysis framework for T-cell and B-cell repertoire sequencing dataPubMed · 🪝 529 · ⭐ 142 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T21:37:55Z",
-            "owner": "antigenomics",
-            "repo": "vdjtools",
-            "stars": 145
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepRC",
-          "description": "DeepRC: Immune repertoire classification with attention-based deep massive multiple instance learning⭐ 124 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-12T11:36:33Z",
-            "owner": "ml-jku",
-            "repo": "DeepRC",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dkm: Dynamic Kernel Matching",
-          "description": "DKM is analogous to a convolutional network, but for sequences. Consider the problem of classifying a sequence. Because some sequences are longer than others, the number of features is irregular. G...⭐ 94 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2023-05-16T17:55:12Z",
-            "owner": "jostmey",
-            "repo": "dkm",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "immuneML",
-          "description": "immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.⭐ 73 · Homepage ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T07:45:47Z",
-            "owner": "uio-bmi",
-            "repo": "immuneML",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "abstar",
-          "description": "VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.⭐ 44 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Pkl",
-            "last_commit": "2026-03-30T17:05:42Z",
-            "owner": "brineylab",
-            "repo": "abstar",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vdjer",
-          "description": "V'DJer - B Cell Receptor Repertoire Reconstruction from short read mRNA-Seq data⭐ 29 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-08-09T21:01:31Z",
-            "owner": "mozack",
-            "repo": "vdjer",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CATT",
-          "description": "An ultra-sensitive and precise tool for characterizing T cell CDR3 sequences in TCR-seq and RNA-seq data.⭐ 21 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2025-11-19T09:05:36Z",
-            "owner": "GuoBioinfoLab",
-            "repo": "CATT",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "epitopefindr",
-          "description": "R package to BLAST peptide sequences against each other and identify the minimal overlap of aligning regions.⭐ 16 · Homepage ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2025-08-26T17:51:09Z",
-            "owner": "brandonsie",
-            "repo": "epitopefindr",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Recon: Reconstruction of Estimated Communities from Observed Numbers",
-          "description": "Recon uses the distribution of species counts in a sample to estimate the distribution of species counts in the population from which the sample was drawn.PubMed · 🪝 91 · ⭐ 14 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-16T19:10:26Z",
-            "owner": "ArnaoutLab",
-            "repo": "Recon",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Repertoire Analysis"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MiXCR: a universal tool for fast and accurate analysis of T- and B- cell receptor repertoire sequencing data",
-          "description": "MiXCR is a universal framework that processes big immunome data from raw sequences to quantitated clonotypes. MiXCR efficiently handles paired- and single-end reads, considers sequence quality, cor...PubMed · 🪝 4 · ⭐ 380 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-07-10T16:34:30Z",
-            "owner": "milaboratory",
-            "repo": "mixcr",
-            "stars": 399
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stitchr",
-          "description": "Stitchr - a Python script to stitch together coding TCR nucleotide sequences from V, J, and CDR3 infoPubMed · 🪝 22 · ⭐ 64 · Homepage ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-12T15:24:35Z",
-            "owner": "JamieHeather",
-            "repo": "stitchr",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MiGMAP: mapper for full-length T- and B-cell repertoire sequencing",
-          "description": "In a nutshell, this software is a smart wrapper for IgBlast V-(D)-J mapping tool designed to facilitate analysis immune receptor libraries profiled using high-throughput sequencing. This package in...⭐ 53 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T23:09:06Z",
-            "owner": "antigenomics",
-            "repo": "arda",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pyIR: An IgBLAST wrapper and parser",
-          "description": "PyIR is a minimally-dependent high-speed wrapper for the IgBLAST immunoglobulin and T-cell analyzer. This is achieved through chunking the input data set and running IgBLAST single-core in parallel...PubMed · 🪝 29 · ⭐ 50 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-09T22:16:45Z",
-            "owner": "crowelab",
-            "repo": "PyIR",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vidjil",
-          "description": "Vidjil -- High-throughput Analysis of V(D)J Immune Repertoire (mirror, please go to http://gitlab.vidjil.org)PubMed · 🪝 81 · ⭐ 31 · Homepage ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-29T17:49:47Z",
-            "owner": "vidjil",
-            "repo": "vidjil",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vdjviz",
-          "description": "A lightweight immune repertoire browserPubMed · 🪝 33 · ⭐ 27 · Homepage ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-12-10T10:04:18Z",
-            "owner": "antigenomics",
-            "repo": "vdjviz",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BepiPred-3.0",
-          "description": "BepiPred3.0 predicts B-cell epitopes from proteins sequences in fasta format.⭐ 17 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-01-02T15:33:42Z",
-            "owner": "UberClifford",
-            "repo": "BepiPred-3.0",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IMSEQ: IMmunogenetic SEQuence Analysis",
-          "description": "IMSEQ is a fast, PCR and sequencing error aware tool to analyze high throughput data from recombined T-cell receptor or immunoglobolin gene sequencing experiments. It derives immune repertoires fro...PubMed · 🪝 98 · ⭐ 15",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-08-10T11:02:09Z",
-            "owner": "lkuchenb",
-            "repo": "imseq",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PRESTO: The REpertoire Sequencing TOolkit",
-          "description": "pRESTO is a toolkit for processing raw reads from high-throughput sequencing of B cell and T cell repertoires. > The REpertoire Sequencing TOolkit (pRESTO) is composed of a suite of utilities to ha...PubMed · 🪝 424 · Docs ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-14T14:03:12Z",
-            "owner": "immcantation",
-            "repo": "presto",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Sequence Processing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "tcr-dist",
-          "description": "Software tools for the analysis of epitope-specific T cell receptor (TCR) repertoiresPubMed · 🪝 815 · ⭐ 86 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-10-06T23:19:08Z",
-            "owner": "phbradley",
-            "repo": "tcr-dist",
-            "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GIANA: Geometry Isometry based TCR AligNment Algorithm",
-          "description": "Geometric Isometry- based TCR AligNment Algorithm (GIANA), a mathematical framework to transform the CDR3 sequences, which converted the sequence alignment and clustering problem into a classic nea...PubMed · 🪝 102 · ⭐ 71 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-10-16T20:27:42Z",
-            "owner": "s175573",
-            "repo": "GIANA",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tcrdist3",
-          "description": "tcrdist3 is a Python API-enabled toolkit for analyzing T-cell receptor repertoires. Some of the functionality and code is adapted from the original tcr-dist package.PubMed · 🪝 126 · ⭐ 69 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-16T01:25:34Z",
-            "owner": "kmayerb",
-            "repo": "tcrdist3",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ClusTCR: a Python interface for rapid clustering of large sets of CDR3 sequences with unknown antigen specificity",
-          "description": "CDR3 clustering module providing a new method for fast and accurate clustering of large data sets of CDR3 amino acid sequences, and offering functionalities for downstream analysis of clustering re...PubMed · 🪝 58 · ⭐ 54 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-03T06:15:17Z",
-            "owner": "svalkiers",
-            "repo": "clusTCR",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "immuneSIM: Tunable Simulation of B- And T-Cell Receptor Repertoires",
-          "description": "Simulate full B-cell and T-cell receptor repertoires using an in silico recombination process that includes a wide variety of tunable parameters to introduce noise and biases. Additional post-simul...PubMed · 🪝 63 · ⭐ 38 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2023-11-27T12:24:47Z",
-            "owner": "GreiffLab",
-            "repo": "immuneSIM",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ALICE: Antigen-specific Lymphocyte Identification by Clustering of Expanded sequences",
-          "description": "Detecting TCR involved in immune responses from single RepSeq datasets.PubMed · ⭐ 27 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2019-06-17T12:22:02Z",
-            "owner": "pogorely",
-            "repo": "ALICE",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ImReP: Rapid and accurate profiling of the adaptive immune repertoires from regular RNA-Seq data",
-          "description": "ImReP is a method to quantify individual immune response based on a recombination landscape of genes encoding B and T cell receptors (BCR and TCR). ImReP is able to efficiently extract TCR and BCR ...PubMed · ⭐ 11 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-04-11T22:04:54Z",
-            "owner": "Mangul-Lab-USC",
-            "repo": "imrep",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Clustering & Similarity"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "epitopepredict",
-          "description": "Python package and command line tool for epitope predictionPubMed · 🪝 6 · ⭐ 52 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-08-02T11:33:40Z",
-            "owner": "dmnfarrell",
-            "repo": "epitopepredict",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "epitopeprediction",
-          "description": "A bioinformatics best-practice analysis pipeline for epitope prediction and annotation⭐ 49 · Homepage ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Nextflow",
-            "last_commit": "2026-08-07T16:12:58Z",
-            "owner": "nf-core",
-            "repo": "epitopeprediction",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MuPeXI",
-          "description": "MuPeXI: the mutant peptide extractor and informer, a tool for predicting neo-epitopes from tumor sequencing data.⭐ 52 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-09-12T16:11:18Z",
-            "owner": "ambj",
-            "repo": "MuPeXI",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "neoantigens",
-          "description": "Exploring novel tumor epitope identificationPubMed · 🪝 624 · ⭐ 37 ·",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2020-10-07T08:30:25Z",
-            "owner": "umccr",
-            "repo": "neoantigens",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MixTCRpred",
-          "description": "Predictor of TCR-epitope interactions⭐ 34 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-09T13:17:13Z",
-            "owner": "GfellerLab",
-            "repo": "MixTCRpred",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AsEP-dataset",
-          "description": "NeurIPS 2024 Dataset and Benchmark Submission \"AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction\"⭐ 30 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-08-12T16:05:17Z",
-            "owner": "biochunan",
-            "repo": "AsEP-dataset",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "topiary",
-          "description": "Predict mutated T-cell epitopes from sequencing data⭐ 30 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-18T18:12:51Z",
-            "owner": "openvax",
-            "repo": "topiary",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Repitope",
-          "description": "Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.⭐ 25 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2023-11-17T09:37:45Z",
-            "owner": "masato-ogishi",
-            "repo": "Repitope",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EpiDope",
-          "description": "Prediction of B-cell epitopes from amino acid sequences using deep neural networks.PubMed · 🪝 11 · ⭐ 18 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-07T19:59:17Z",
-            "owner": "rnajena",
-            "repo": "EpiDope",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pyrepseq",
-          "description": "Python library for immune repertoire analysisPubMed · 🪝 29 · ⭐ 17 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-06T17:00:36Z",
-            "owner": "andim",
-            "repo": "pyrepseq",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ImRex",
-          "description": "Generic TCR-epitope recognition prediction using CNN approach on both known and novel epitopes⭐ 17 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-05-22T22:50:06Z",
-            "owner": "pmoris",
-            "repo": "ImRex",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Epitope Prediction"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Absolut: Unconstrained lattice antibody-antigen bindings generator - One tool to simulate them all!",
-          "description": "Absolut! is a database and C++ user interface that allows the high-throughput computation for the 3D-lattice binding of any CDRH3 sequence to any antigen, enabling the custom generation of new anti...Paper · 🪝 20 · ⭐ 111 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-05-23T12:49:30Z",
-            "owner": "csi-greifflab",
-            "repo": "Absolut",
-            "stars": 114
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TCRdock",
-          "description": "Python tools for TCR:peptide-MHC modeling and analysis: - Set up and run TCR-specialized AlphaFold simulations starting from a TSV file with TCR, peptide, and MHC information. - Parse a TCR:peptide...PubMed · 🪝 93 · ⭐ 86 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-26T18:02:45Z",
-            "owner": "phbradley",
-            "repo": "TCRdock",
-            "stars": 97
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tcr-bert",
-          "description": "TCR-BERT is a large language model trained on T-cell receptor sequences, built using a lightly modified BERT architecture with tweaked pre-training objectives.Paper · 🪝 74 · ⭐ 57 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-05-04T23:33:39Z",
-            "owner": "wukevin",
-            "repo": "tcr-bert",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TEIM",
-          "description": "TEIM: TCR-Epitope Interaction Modeling⭐ 55 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-26T12:46:25Z",
-            "owner": "pengxingang",
-            "repo": "TEIM",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TCRmodel2: high-resolution modeling of T cell receptor recognition using deep learning",
-          "description": "This method, named TCRmodel2, allows users to submit sequences through an easy-to-use interface and shows similar or greater accuracy than AlphaFold and other methods to model TCR–peptide–MHC compl...PubMed · 🪝 70 · ⭐ 45 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-30T17:45:34Z",
-            "owner": "piercelab",
-            "repo": "tcrmodel2",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TITAN - Tcr epITope bimodal Attention Networks",
-          "description": "a bimodal neural network that explicitly encodes both TCR sequences and epitopes to enable the independent study of generalization capabilities to unseen TCRs and/or epitopes.PubMed · 🪝 150 · ⭐ 30 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-07-12T02:44:38Z",
-            "owner": "PaccMann",
-            "repo": "TITAN",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "compairr",
-          "description": "Comparison of Adaptive Immune Receptor RepertoiresPubMed · 🪝 15 · ⭐ 28 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-01-29T16:20:08Z",
-            "owner": "uio-bmi",
-            "repo": "compairr",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TCRconv",
-          "description": "TCRconv is a deep learning model for predicting recognition between T cell receptors and epitopes. It uses protBERT embeddings for the TCRs and convolutional neural networks for the prediction.PubMed · 🪝 20 · ⭐ 26 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-10-18T11:49:48Z",
-            "owner": "emmijokinen",
-            "repo": "TCRconv",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vampire: Deep generative models for TCR sequences",
-          "description": "Fit and test variational autoencoder (VAE) models for T cell receptor sequences.PubMed · 🪝 66 · ⭐ 17 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-04-04T23:07:03Z",
-            "owner": "matsengrp",
-            "repo": "vampire",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TEINet",
-          "description": "TEINet: a deep learning framework for prediction of TCR-epitope binding specificityPubMed · 🪝 55 · ⭐ 16 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-30T05:53:51Z",
-            "owner": "jiangdada1221",
-            "repo": "TEINet",
-            "stars": 16
-          }
-        }
-      ],
-      "title": "Structure & Modeling"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "🧬 HLA Analysis"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "HLA_analyses_tutorial",
-          "description": "A thorough tutorial on HLA imputation and association, accompanying our manuscript \"Tutorial: A statistical genetics guide to identifying HLA alleles driving complex disease\"⭐ 70 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-10-10T20:34:11Z",
-            "owner": "immunogenomics",
-            "repo": "HLA_analyses_tutorial",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HLA-TAPAS: HLA-Typing At Protein for Association Studies",
-          "description": "An HLA-focused pipeline that can handle HLA reference panel construction (MakeReference), HLA imputation (SNP2HLA), and HLA association (HLAassoc). It is an updated version of the SNP2HLA.⭐ 54 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-12-19T12:03:52Z",
-            "owner": "immunogenomics",
-            "repo": "HLA-TAPAS",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyHLA",
-          "description": "Python for HLA analysis: summary, association analysis, zygosity test and interaction testPubMed · ⭐ 38 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-08T01:36:08Z",
-            "owner": "felixfan",
-            "repo": "PyHLA",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HATK: HLA Analysis Toolkit",
-          "description": "HATK(HLA Analysis Tool-Kit) is a collection of tools and modules to perform HLA fine-mapping analysis, which is to identify which HLA allele or amino acid position of the HLA gene is driving the di...PubMed · 🪝 15 · ⭐ 28 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Parrot",
-            "last_commit": "2022-12-18T06:03:53Z",
-            "owner": "WansonChoi",
-            "repo": "HATK",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cdr3-QTL",
-          "description": "Trans-association between HLA and TCR-CDR3⭐ 19 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2023-03-29T00:12:24Z",
-            "owner": "immunogenomics",
-            "repo": "cdr3-QTL",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hlabud: HLA genotype analysis in R",
-          "description": "hlabud provides methods to retrieve sequence alignment data from IMGTHLA and convert the data into convenient R matrices ready for downstream analysis. See the usage examples to learn how to use th...⭐ 17 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2025-04-11T20:43:39Z",
-            "owner": "slowkow",
-            "repo": "hlabud",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MATER: Minimizer RNAseq HLA typer",
-          "description": "MATER is a minimizer-based HLA typer for RNAseq read dataset. In a typical RNAseq dataset, the reads sampled from HLA genes are less uniform and may miss regions that makes assembly or variant call...PubMed · 🪝 24 · ⭐ 14 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2024-01-31T19:02:42Z",
-            "owner": "Genentech",
-            "repo": "midasHLA",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BIGDAWG: Case-Control Analysis of Multi-Allelic Loci",
-          "description": "Data sets and functions for chi-squared Hardy-Weinberg and case-control association tests of highly polymorphic genetic data [e.g., human leukocyte antigen (HLA) data]. Performs association tests a...PubMed · 🪝 82 · ⭐ 3 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-05-04T18:45:45Z",
-            "owner": "IgDAWG",
-            "repo": "BIGDAWG",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Association Studies"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OptiType: Precision HLA typing from next-generation sequencing data",
-          "description": "OptiType is a novel HLA genotyping algorithm based on integer linear programming, capable of producing accurate 4-digit HLA genotyping predictions from NGS data by simultaneously selecting all majo...PubMed · 🪝 643 · ⭐ 205 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-20T07:42:26Z",
-            "owner": "FRED-2",
-            "repo": "OptiType",
-            "stars": 223
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "arcasHLA: Fast and accurate in silico inference of HLA genotypes from RNA-seq",
-          "description": "arcasHLA performs high resolution genotyping for HLA class I and class II genes from RNA sequencing, supporting both paired and single-end samples.PubMed · 🪝 157 · ⭐ 152 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-20T12:14:59Z",
-            "owner": "RabadanLab",
-            "repo": "arcasHLA",
-            "stars": 161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HLA-LA: Fast HLA type inference from whole-genome data",
-          "description": "HLA typing based on a population reference graph and employs a new linear projection method to align reads to the graph.⭐ 141 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-04-03T20:21:17Z",
-            "owner": "DiltheyLab",
-            "repo": "HLA-LA",
-            "stars": 146
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xHLA: Fast and accurate HLA typing from short read sequence data",
-          "description": "xHLA iteratively refines the mapping results at the amino acid level to achieve 99 to 100% 4-digit typing accuracy for both class I and II HLA genes, taking only about 3 minutes to process a 30X wh...PubMed · 🪝 125 · ⭐ 113 · Homepage ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-10-13T15:01:05Z",
-            "owner": "humanlongevity",
-            "repo": "HLA",
-            "stars": 117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "T1K: efficient and accurate inference of KIR or HLA alleles from RNA-seq, whole-genome sequencing, or whole-exome sequencing data",
-          "description": "T1K (The ONE genotyper for Kir and HLA) is a computational tool to infer the alleles for the polymorphic genes such as KIR and HLA. T1K calculates the allele abundances based on the RNA-seq/WES/WGS...PubMed · 🪝 25 · ⭐ 94 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T16:09:08Z",
-            "owner": "mourisl",
-            "repo": "T1K",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hlatyping",
-          "description": "Precision HLA typing from next-generation sequencing data⭐ 76 · Homepage ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Nextflow",
-            "last_commit": "2026-07-31T09:15:14Z",
-            "owner": "nf-core",
-            "repo": "hlatyping",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scHLAcount",
-          "description": "Count HLA alleles in single-cell RNA-seq dataPubMed · 🪝 20 · ⭐ 63 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2021-11-05T16:13:52Z",
-            "owner": "10XGenomics",
-            "repo": "scHLAcount",
-            "stars": 64
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpecHLA",
-          "description": "SpecHLA reconstructs entire diploid sequences of HLA genes and infers LOH events. It supports HLA-A, -B, -C, -DPA1, -DPB1, -DQA1, -DQB1, and -DRB1 genes. Also, it supports both short- and long-read...PubMed · 🪝 11 · ⭐ 53 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-27T19:13:40Z",
-            "owner": "deepomicslab",
-            "repo": "SpecHLA",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "seq2HLA: HLA typing from RNA-Seq sequence reads",
-          "description": "In-silico method written in Python and R to determine HLA genotypes of a sample. seq2HLA takes standard RNA-Seq sequence reads in fastq format as input, uses a bowtie index comprising all HLA allel...⭐ 50 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-09T10:36:01Z",
-            "owner": "TRON-Bioinformatics",
-            "repo": "seq2HLA",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kourami: Graph-guided assembly for HLA alleles",
-          "description": "Kourami is a graph-guided assembler for HLA haplotypes covering typing exons (exons 2 and 3 for Class I and exon 3 for Class II) using high-coverage whole genome sequencing data. Kourami constructs...PubMed · 🪝 82 · ⭐ 38 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-05-21T15:32:10Z",
-            "owner": "Kingsford-Group",
-            "repo": "kourami",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HLAProfiler: Using k-mers to call HLA alleles in RNA sequencing data",
-          "description": "HLAProfiler uses the k-mer content of next generation sequencing reads to call HLA types in a sample. Based on the k-mer content each each read pair is assigned to an HLA gene and the aggregate k-m...PubMed · 🪝 44 · ⭐ 23 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2018-07-26T18:37:02Z",
-            "owner": "ExpressionAnalysis",
-            "repo": "HLAProfiler",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MultiHLA: WES HLA Typing based on multiple alternative tools",
-          "description": "This workflow enables the concurrent analysis of WES or WGS data using publicly available software to derive HLA haplotypes from this type of data. It includes automated Snakemake workflows for the...⭐ 18 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-08T18:56:25Z",
-            "owner": "lkuchenb",
-            "repo": "MultiHLA",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hla3: weight of evidence of HLA allele expression based on bulk TCR beta-chain repertoires",
-          "description": "This repository contains Python functions for inferring HLA-alleles from bulk TCR beta chain data using a simple weight of evidence predictor.⭐ 3 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-02-23T05:34:17Z",
-            "owner": "kmayerb",
-            "repo": "hla3",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "HLA Typing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NeoBert",
-          "description": "NeoBERT is an advanced model designed specifically for predicting the binding affinity between neoantigens and HLA. It is a variant of the original BERT model, enhanced to integrate biological feat...PubMed · ⭐ 155 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-21T15:33:54Z",
-            "owner": "CHB-learner",
-            "repo": "NeoBert",
-            "stars": 139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bigmhc",
-          "description": "BigMHC predicts MHC-I (neo)epitope presentation and immunogenicityPubMed · 🪝 60 · ⭐ 59 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-12-17T17:47:08Z",
-            "owner": "KarchinLab",
-            "repo": "bigmhc",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MixMHC2pred",
-          "description": "HLA-II ligand predictor.PubMed · 🪝 4 · ⭐ 46 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-17T04:25:38Z",
-            "owner": "GfellerLab",
-            "repo": "MixMHC2pred",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MixMHCpred",
-          "description": "HLA-I ligand predictor⭐ 43 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-19T15:54:28Z",
-            "owner": "GfellerLab",
-            "repo": "MixMHCpred",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "High-Throughput Prediction of MHC Class I and II Neoantigens with MHCnuggets",
-          "description": "MHC Class I and Class II neoantigen binding predictionPubMed · 🪝 131 · ⭐ 33 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-23T12:00:08Z",
-            "owner": "KarchinLab",
-            "repo": "mhcnuggets",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MHCAttnNet",
-          "description": "MHCAttnNet: Allele-Peptide predictions for class I & class II MHC allelesPubMed · 🪝 39 · ⭐ 30 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-02-14T09:43:59Z",
-            "owner": "gopuvenkat",
-            "repo": "MHCAttnNet",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "immunogenetr",
-          "description": "immunogenetr is a comprehensive toolkit for clinical HLA informatics. It is built on tidyverse principles and makes use of genotype list string (GL string, https://glstring.org/) for storing and us...PubMed · ⭐ 6 · Homepage ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-08-16T21:15:28Z",
-            "owner": "k96nb01",
-            "repo": "immunogenetr_package",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Peptide Prediction"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MHC-PRG",
-          "description": "Population Reference Graphs for the HLA and MHC.⭐ 35 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-12-18T10:20:49Z",
-            "owner": "AlexanderDilthey",
-            "repo": "MHC-PRG",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "py-ard",
-          "description": "HLA ARD Reduction in Python. Although HLA nomenclature has not always conformed to the same standard, it is now defined by The WHO Nomenclature Committee for Factors of the HLA System. py-ard is aw...⭐ 19 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T21:27:32Z",
-            "owner": "nmdp-bioinformatics",
-            "repo": "py-ard",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HLAtools: Functions and Datasets for HLA Informatics",
-          "description": "We have developed HLAtools, an R package that automates the consumption of IPD-IMGT/HLA resources, renders them computable, and makes them available alongside tools for data analysis, visualization...PubMed · 🪝 1 · ⭐ 4 ·",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-07-28T05:40:01Z",
-            "owner": "sjmack",
-            "repo": "HLAtools",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Data & Nomenclature"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:34:43.605Z",
+    "last_updated": "2026-08-19T12:57:00.953Z",
     "original_repository": "slowkow/awesome-vdj",
+    "original_repository_id": 232637997,
     "original_repository_sha": "fa725fd8a066efc798ae1ac1f71eaa49e69d2291",
     "enhanced_repository": "enhansome/enhansome-vdj",
     "enhanced_repository_description": null,
