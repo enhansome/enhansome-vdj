@@ -87,7 +87,7 @@
                 "archived": false,
                 "id": 232568640,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:14:31Z",
+                "last_commit": "2026-08-21T08:14:32Z",
                 "owner": "scverse",
                 "repo": "scirpy",
                 "stars": 265
@@ -364,7 +364,7 @@
                 "archived": false,
                 "id": 299273889,
                 "language": "Python",
-                "last_commit": "2026-08-18T07:45:47Z",
+                "last_commit": "2026-08-21T10:13:08Z",
                 "owner": "uio-bmi",
                 "repo": "immuneML",
                 "stars": 76
@@ -554,7 +554,7 @@
                 "last_commit": "2026-01-02T15:33:42Z",
                 "owner": "UberClifford",
                 "repo": "BepiPred-3.0",
-                "stars": 24
+                "stars": 25
               }
             },
             {
@@ -890,7 +890,7 @@
                 "last_commit": "2026-05-23T12:49:30Z",
                 "owner": "csi-greifflab",
                 "repo": "Absolut",
-                "stars": 114
+                "stars": 113
               }
             },
             {
@@ -1506,7 +1506,7 @@
                 "archived": false,
                 "id": 121410722,
                 "language": "Python",
-                "last_commit": "2026-08-17T21:27:32Z",
+                "last_commit": "2026-08-20T21:40:51Z",
                 "owner": "nmdp-bioinformatics",
                 "repo": "py-ard",
                 "stars": 19
@@ -1537,7 +1537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:35:13.947Z",
+    "last_updated": "2026-08-21T18:32:49.257Z",
     "original_repository": "slowkow/awesome-vdj",
     "original_repository_id": 232637997,
     "original_repository_sha": "fa725fd8a066efc798ae1ac1f71eaa49e69d2291",
