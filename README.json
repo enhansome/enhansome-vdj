@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "description": "Table of Contents\nRelated Work",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Contributions are welcome!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 232637997,
+            "language": null,
+            "last_commit": "2026-02-12T11:49:50Z",
+            "owner": "slowkow",
+            "repo": "awesome-vdj",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ming Tang's list: TCR-BCR-seq-analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70820912,
+            "language": null,
+            "last_commit": "2024-12-01T23:14:02Z",
+            "owner": "crazyhottommy",
+            "repo": "TCR-BCR-seq-analysis",
+            "stars": 281
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -39,6 +75,28 @@
           "description": null,
           "node_type": "group",
           "title": "Specificity Databases"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "immuneACCESS",
+              "description": "Dive into the world’s largest collection of TCR and BCR sequences. Easily incorporate millions of sequences worth of public data into your next papers and projects using immunoSEQ Analyzer. Constru...Docs · Homepage",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232637997,
+                "language": null,
+                "last_commit": "2026-02-12T11:49:50Z",
+                "owner": "slowkow",
+                "repo": "awesome-vdj",
+                "stars": 242
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sequence Repositories"
         }
       ],
       "title": "🗄️ VDJ Databases"
@@ -75,7 +133,7 @@
                 "last_commit": "2026-08-03T19:05:27Z",
                 "owner": "liulab-dfci",
                 "repo": "TRUST4",
-                "stars": 361
+                "stars": 362
               }
             },
             {
@@ -364,7 +422,7 @@
                 "archived": false,
                 "id": 299273889,
                 "language": "Python",
-                "last_commit": "2026-08-21T10:13:08Z",
+                "last_commit": "2026-08-24T12:25:24Z",
                 "owner": "uio-bmi",
                 "repo": "immuneML",
                 "stars": 76
@@ -1195,7 +1253,7 @@
                 "last_commit": "2024-08-20T12:14:59Z",
                 "owner": "RabadanLab",
                 "repo": "arcasHLA",
-                "stars": 161
+                "stars": 162
               }
             },
             {
@@ -1397,7 +1455,7 @@
                 "last_commit": "2025-12-17T17:47:08Z",
                 "owner": "KarchinLab",
                 "repo": "bigmhc",
-                "stars": 69
+                "stars": 70
               }
             },
             {
@@ -1469,7 +1527,7 @@
                 "archived": false,
                 "id": 814723176,
                 "language": "R",
-                "last_commit": "2026-08-20T14:38:53Z",
+                "last_commit": "2026-08-23T20:13:40Z",
                 "owner": "k96nb01",
                 "repo": "immunogenetr_package",
                 "stars": 6
@@ -1537,7 +1595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:25:17.255Z",
+    "last_updated": "2026-08-24T14:34:05.728Z",
     "original_repository": "slowkow/awesome-vdj",
     "original_repository_id": 232637997,
     "original_repository_sha": "fa725fd8a066efc798ae1ac1f71eaa49e69d2291",
