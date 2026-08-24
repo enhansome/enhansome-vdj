@@ -145,7 +145,7 @@
                 "archived": false,
                 "id": 232568640,
                 "language": "Python",
-                "last_commit": "2026-08-21T08:14:32Z",
+                "last_commit": "2026-08-24T18:02:17Z",
                 "owner": "scverse",
                 "repo": "scirpy",
                 "stars": 265
@@ -1595,7 +1595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:34:05.728Z",
+    "last_updated": "2026-08-24T18:36:26.420Z",
     "original_repository": "slowkow/awesome-vdj",
     "original_repository_id": 232637997,
     "original_repository_sha": "fa725fd8a066efc798ae1ac1f71eaa49e69d2291",
