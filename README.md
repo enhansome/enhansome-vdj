@@ -178,9 +178,9 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Epitope Prediction
 
-* [**epitopepredict**](https://github.com/dmnfarrell/epitopepredict) ⭐ 54 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-08-02 — Python package and command line tool for epitope prediction<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/36824339/) · 🪝 [6](https://www.semanticscholar.org/paper/073554e81b4370b4f409fa7bdedaa9c36e78d83f) · ⭐ [52](https://github.com/dmnfarrell/epitopepredict/stargazers) ⭐ 54 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-08-02 · `Jupyter Notebook`
+* [**epitopeprediction**](https://github.com/nf-core/epitopeprediction) ⭐ 55 | 🐛 28 | 🌐 Nextflow | 📅 2026-08-07 — A bioinformatics best-practice analysis pipeline for epitope prediction and annotation<br>⭐ [49](https://github.com/nf-core/epitopeprediction/stargazers) ⭐ 55 | 🐛 28 | 🌐 Nextflow | 📅 2026-08-07 · [Homepage](https://nf-co.re/epitopeprediction) · `Nextflow`
 
-* [**epitopeprediction**](https://github.com/nf-core/epitopeprediction) ⭐ 54 | 🐛 28 | 🌐 Nextflow | 📅 2026-08-07 — A bioinformatics best-practice analysis pipeline for epitope prediction and annotation<br>⭐ [49](https://github.com/nf-core/epitopeprediction/stargazers) ⭐ 54 | 🐛 28 | 🌐 Nextflow | 📅 2026-08-07 · [Homepage](https://nf-co.re/epitopeprediction) · `Nextflow`
+* [**epitopepredict**](https://github.com/dmnfarrell/epitopepredict) ⭐ 54 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-08-02 — Python package and command line tool for epitope prediction<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/36824339/) · 🪝 [6](https://www.semanticscholar.org/paper/073554e81b4370b4f409fa7bdedaa9c36e78d83f) · ⭐ [52](https://github.com/dmnfarrell/epitopepredict/stargazers) ⭐ 54 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-08-02 · `Jupyter Notebook`
 
 * [**MuPeXI**](https://github.com/ambj/MuPeXI) ⭐ 52 | 🐛 19 | 🌐 Python | 📅 2019-09-12 — MuPeXI: the mutant peptide extractor and informer, a tool for predicting neo-epitopes from tumor sequencing data.<br>⭐ [52](https://github.com/ambj/MuPeXI/stargazers) ⭐ 52 | 🐛 19 | 🌐 Python | 📅 2019-09-12 · `Python`
 
@@ -190,7 +190,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 6 | 🌐 Python | 📅 2026-08-26 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 6 | 🌐 Python | 📅 2026-08-26 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2026-08-27 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2026-08-27 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -276,7 +276,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**scHLAcount**](https://github.com/10XGenomics/scHLAcount) ⭐ 64 | 🐛 15 | 🌐 TeX | 📅 2021-11-05 — Count HLA alleles in single-cell RNA-seq data<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32330223/) · 🪝 [20](https://www.semanticscholar.org/paper/f38834e9b0845e743e8e41604c0ee9d327d3fe48) · ⭐ [63](https://github.com/10XGenomics/scHLAcount/stargazers) ⭐ 64 | 🐛 15 | 🌐 TeX | 📅 2021-11-05 · `TeX`
 
-* [**SpecHLA**](https://github.com/deepomicslab/SpecHLA) ⭐ 60 | 🐛 8 | 🌐 C++ | 📅 2026-07-27 — SpecHLA reconstructs entire diploid sequences of HLA genes and infers LOH events. It supports HLA-A, -B, -C, -DPA1, -DPB1, -DQA1, -DQB1, and -DRB1 genes. Also, it supports both short- and long-read...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/37714157/) · 🪝 [11](https://www.semanticscholar.org/paper/78feeabf537fe7503ff5fe2421b2668f635fa504) · ⭐ [53](https://github.com/deepomicslab/SpecHLA/stargazers) ⭐ 60 | 🐛 8 | 🌐 C++ | 📅 2026-07-27 · `C++`
+* [**SpecHLA**](https://github.com/deepomicslab/SpecHLA) ⭐ 61 | 🐛 8 | 🌐 C++ | 📅 2026-07-27 — SpecHLA reconstructs entire diploid sequences of HLA genes and infers LOH events. It supports HLA-A, -B, -C, -DPA1, -DPB1, -DQA1, -DQB1, and -DRB1 genes. Also, it supports both short- and long-read...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/37714157/) · 🪝 [11](https://www.semanticscholar.org/paper/78feeabf537fe7503ff5fe2421b2668f635fa504) · ⭐ [53](https://github.com/deepomicslab/SpecHLA/stargazers) ⭐ 61 | 🐛 8 | 🌐 C++ | 📅 2026-07-27 · `C++`
 
 * [**seq2HLA: HLA typing from RNA-Seq sequence reads**](https://github.com/TRON-Bioinformatics/seq2HLA) ⭐ 52 | 🐛 17 | 🌐 Python | 📅 2025-08-09 — In-silico method written in Python and R to determine HLA genotypes of a sample. seq2HLA takes standard RNA-Seq sequence reads in fastq format as input, uses a bowtie index comprising all HLA allel...<br>⭐ [50](https://github.com/TRON-Bioinformatics/seq2HLA/stargazers) ⭐ 52 | 🐛 17 | 🌐 Python | 📅 2025-08-09 · `Python` `R`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

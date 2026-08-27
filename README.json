@@ -766,21 +766,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "epitopepredict",
-              "description": "Python package and command line tool for epitope predictionPubMed · 🪝 6 · ⭐ 52 ·",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 28866919,
-                "language": "Jupyter Notebook",
-                "last_commit": "2024-08-02T11:33:40Z",
-                "owner": "dmnfarrell",
-                "repo": "epitopepredict",
-                "stars": 54
-              }
-            },
-            {
-              "node_type": "item",
               "title": "epitopeprediction",
               "description": "A bioinformatics best-practice analysis pipeline for epitope prediction and annotation⭐ 49 · Homepage ·",
               "children": [],
@@ -791,6 +776,21 @@
                 "last_commit": "2026-08-07T16:12:58Z",
                 "owner": "nf-core",
                 "repo": "epitopeprediction",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "epitopepredict",
+              "description": "Python package and command line tool for epitope predictionPubMed · 🪝 6 · ⭐ 52 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28866919,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-08-02T11:33:40Z",
+                "owner": "dmnfarrell",
+                "repo": "epitopepredict",
                 "stars": 54
               }
             },
@@ -863,7 +863,7 @@
                 "archived": false,
                 "id": 33150343,
                 "language": "Python",
-                "last_commit": "2026-08-26T17:27:08Z",
+                "last_commit": "2026-08-27T11:09:09Z",
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30
@@ -1343,7 +1343,7 @@
                 "last_commit": "2026-07-27T19:13:40Z",
                 "owner": "deepomicslab",
                 "repo": "SpecHLA",
-                "stars": 60
+                "stars": 61
               }
             },
             {
@@ -1595,9 +1595,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:44:41.395Z",
-    "original_repository": "slowkow/awesome-vdj",
-    "original_repository_id": 232637997,
+    "last_updated": "2026-08-27T12:14:26.499Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 232637997,
+      "language": null,
+      "last_commit": "2026-02-12T11:49:50Z",
+      "owner": "slowkow",
+      "repo": "awesome-vdj",
+      "stars": 242
+    },
     "original_repository_sha": "fa725fd8a066efc798ae1ac1f71eaa49e69d2291",
     "enhanced_repository": "enhansome/enhansome-vdj",
     "enhanced_repository_description": null,
