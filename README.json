@@ -1354,7 +1354,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T04:44:09Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30,
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:53:06.325Z",
+    "last_updated": "2026-08-29T20:24:00.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
