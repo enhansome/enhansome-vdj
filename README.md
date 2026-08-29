@@ -98,7 +98,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**CONGA: Clonotype Neighbor Graph Analysis**](https://github.com/phbradley/conga) ⭐ 100 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-06-15 — CONGA was developed to detect correlation between T cell gene expression profile and TCR sequence in single-cell datasets.<br>[Paper](https://doi.org/10.1101/2020.06.04.134536) · 🪝 [9](https://www.semanticscholar.org/paper/d0a9125325f851f69dbc486e2b2e75f9ba63d4f5) · ⭐ [93](https://github.com/phbradley/conga/stargazers) ⭐ 100 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-06-15 · `Python`
 
-* [**airrflow**](https://github.com/nf-core/airrflow) ⭐ 78 | 🐛 52 | 🌐 Nextflow | 📅 2026-08-27 — B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38293151/) · 🪝 [10](https://www.semanticscholar.org/paper/https://www.semanticscholar.org/paper/04c2e0be97ba6d6035506595694eb22e2093037b) · ⭐ [73](https://github.com/nf-core/airrflow/stargazers) ⭐ 78 | 🐛 52 | 🌐 Nextflow | 📅 2026-08-27 · [Homepage](https://nf-co.re/airrflow) · `Nextflow`
+* [**airrflow**](https://github.com/nf-core/airrflow) ⭐ 78 | 🐛 51 | 🌐 Nextflow | 📅 2026-08-28 — B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38293151/) · 🪝 [10](https://www.semanticscholar.org/paper/https://www.semanticscholar.org/paper/04c2e0be97ba6d6035506595694eb22e2093037b) · ⭐ [73](https://github.com/nf-core/airrflow/stargazers) ⭐ 78 | 🐛 51 | 🌐 Nextflow | 📅 2026-08-28 · [Homepage](https://nf-co.re/airrflow) · `Nextflow`
 
 * [**mvTCR**](https://github.com/SchubertLab/mvTCR) ⭐ 60 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-11-01 — A multi-view Variational Autoencoder (mvTCR) to jointly embed transcriptomic and TCR sequence information at a single-cell level to better capture the phenotypic behavior of T cells.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38956082/) · 🪝 [17](https://www.semanticscholar.org/paper/62559a2f08e304d5a6149f4605e45529ac2c150e) · ⭐ [56](https://github.com/SchubertLab/mvTCR/stargazers) ⭐ 60 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-11-01 · [Homepage](https://zenodo.org/record/5006839) · `Python`
 
@@ -190,7 +190,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2026-08-27 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2026-08-27 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 10 | 🌐 Python | 📅 2026-08-28 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 10 | 🌐 Python | 📅 2026-08-28 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -266,7 +266,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**arcasHLA: Fast and accurate in silico inference of HLA genotypes from RNA-seq**](https://github.com/RabadanLab/arcasHLA) ⭐ 162 | 🐛 52 | 🌐 Python | 📅 2024-08-20 — arcasHLA performs high resolution genotyping for HLA class I and class II genes from RNA sequencing, supporting both paired and single-end samples.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/31173059/) · 🪝 [157](https://www.semanticscholar.org/paper/9fccbea05592fb2c8d0cf8ff0fe330729ad81db8) · ⭐ [152](https://github.com/RabadanLab/arcasHLA/stargazers) ⭐ 162 | 🐛 52 | 🌐 Python | 📅 2024-08-20 · `Python`
 
-* [**HLA-LA: Fast HLA type inference from whole-genome data**](https://github.com/DiltheyLab/HLA-LA) ⭐ 146 | 🐛 57 | 🌐 C++ | 📅 2025-04-03 — HLA typing based on a population reference graph and employs a new linear projection method to align reads to the graph.<br>⭐ [141](https://github.com/DiltheyLab/HLA-LA/stargazers) ⭐ 146 | 🐛 57 | 🌐 C++ | 📅 2025-04-03 · `Perl`
+* [**HLA-LA: Fast HLA type inference from whole-genome data**](https://github.com/DiltheyLab/HLA-LA) ⭐ 147 | 🐛 57 | 🌐 C++ | 📅 2025-04-03 — HLA typing based on a population reference graph and employs a new linear projection method to align reads to the graph.<br>⭐ [141](https://github.com/DiltheyLab/HLA-LA/stargazers) ⭐ 147 | 🐛 57 | 🌐 C++ | 📅 2025-04-03 · `Perl`
 
 * [**xHLA: Fast and accurate HLA typing from short read sequence data**](https://github.com/humanlongevity/HLA) ⭐ 117 | 🐛 47 | 🌐 Jupyter Notebook | 📅 2023-10-13 — xHLA iteratively refines the mapping results at the amino acid level to achieve 99 to 100% 4-digit typing accuracy for both class I and II HLA genes, taking only about 3 minutes to process a 30X wh...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28674023/) · 🪝 [125](https://www.semanticscholar.org/paper/0e7b3c0eb32913f710c93bfe149610bc2d2ce8e3) · ⭐ [113](https://github.com/humanlongevity/HLA/stargazers) ⭐ 117 | 🐛 47 | 🌐 Jupyter Notebook | 📅 2023-10-13 · [Homepage](https://pubmed.ncbi.nlm.nih.gov/28674023) · `Python` `R` `Perl` `Bash`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

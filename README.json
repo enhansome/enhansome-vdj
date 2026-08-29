@@ -16,7 +16,8 @@
             "owner": "slowkow",
             "repo": "awesome-vdj",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-29T01:27:41.249Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "crazyhottommy",
             "repo": "TCR-BCR-seq-analysis",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-29T01:27:41.249Z"
         }
       ],
       "title": "Overview"
@@ -54,7 +56,8 @@
                 "owner": "antigenomics",
                 "repo": "vdjdb-db",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -69,7 +72,8 @@
                 "owner": "antigenomics",
                 "repo": "vdjmatch",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             }
           ],
           "description": null,
@@ -91,7 +95,8 @@
                 "owner": "slowkow",
                 "repo": "awesome-vdj",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             }
           ],
           "description": null,
@@ -119,7 +124,8 @@
                 "owner": "BorchLab",
                 "repo": "scRepertoire",
                 "stars": 374
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -134,7 +140,8 @@
                 "owner": "liulab-dfci",
                 "repo": "TRUST4",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -149,7 +156,8 @@
                 "owner": "scverse",
                 "repo": "scirpy",
                 "stars": 265
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -164,7 +172,8 @@
                 "owner": "Japrin",
                 "repo": "STARTRAC",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -179,7 +188,8 @@
                 "owner": "sidhomj",
                 "repo": "DeepTCR",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -194,7 +204,8 @@
                 "owner": "phbradley",
                 "repo": "conga",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -205,11 +216,12 @@
                 "archived": false,
                 "id": 160348245,
                 "language": "Nextflow",
-                "last_commit": "2026-08-27T14:45:28Z",
+                "last_commit": "2026-08-28T12:55:06Z",
                 "owner": "nf-core",
                 "repo": "airrflow",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -224,7 +236,8 @@
                 "owner": "SchubertLab",
                 "repo": "mvTCR",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -239,7 +252,8 @@
                 "owner": "10XGenomics",
                 "repo": "enclone",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -254,7 +268,8 @@
                 "owner": "immunomind",
                 "repo": "covid19",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -269,7 +284,8 @@
                 "owner": "alexyermanos",
                 "repo": "Platypus",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -284,7 +300,8 @@
                 "owner": "emmijokinen",
                 "repo": "TCRGP",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -299,7 +316,8 @@
                 "owner": "seshadrilab",
                 "repo": "tcrconvert",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -314,7 +332,8 @@
                 "owner": "seshadrilab",
                 "repo": "tcrconvertr",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -329,7 +348,8 @@
                 "owner": "zktuong",
                 "repo": "dandelion",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             }
           ],
           "description": null,
@@ -351,7 +371,8 @@
                 "owner": "immunomind",
                 "repo": "immunarch",
                 "stars": 341
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -366,7 +387,8 @@
                 "owner": "jostmey",
                 "repo": "msm",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -381,7 +403,8 @@
                 "owner": "antigenomics",
                 "repo": "vdjtools",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -396,7 +419,8 @@
                 "owner": "ml-jku",
                 "repo": "DeepRC",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -411,7 +435,8 @@
                 "owner": "jostmey",
                 "repo": "dkm",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -426,7 +451,8 @@
                 "owner": "uio-bmi",
                 "repo": "immuneML",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -441,7 +467,8 @@
                 "owner": "brineylab",
                 "repo": "abstar",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -456,7 +483,8 @@
                 "owner": "mozack",
                 "repo": "vdjer",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -471,7 +499,8 @@
                 "owner": "GuoBioinfoLab",
                 "repo": "CATT",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -486,7 +515,8 @@
                 "owner": "brandonsie",
                 "repo": "epitopefindr",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -501,7 +531,8 @@
                 "owner": "ArnaoutLab",
                 "repo": "Recon",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             }
           ],
           "description": null,
@@ -523,7 +554,8 @@
                 "owner": "milaboratory",
                 "repo": "mixcr",
                 "stars": 399
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -538,7 +570,8 @@
                 "owner": "JamieHeather",
                 "repo": "stitchr",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -553,7 +586,8 @@
                 "owner": "antigenomics",
                 "repo": "arda",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -568,7 +602,8 @@
                 "owner": "crowelab",
                 "repo": "PyIR",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -583,7 +618,8 @@
                 "owner": "vidjil",
                 "repo": "vidjil",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -598,7 +634,8 @@
                 "owner": "antigenomics",
                 "repo": "vdjviz",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -613,7 +650,8 @@
                 "owner": "UberClifford",
                 "repo": "BepiPred-3.0",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -628,7 +666,8 @@
                 "owner": "lkuchenb",
                 "repo": "imseq",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -643,7 +682,8 @@
                 "owner": "immcantation",
                 "repo": "presto",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             }
           ],
           "description": null,
@@ -665,7 +705,8 @@
                 "owner": "phbradley",
                 "repo": "tcr-dist",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -680,7 +721,8 @@
                 "owner": "s175573",
                 "repo": "GIANA",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -695,7 +737,8 @@
                 "owner": "kmayerb",
                 "repo": "tcrdist3",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -710,7 +753,8 @@
                 "owner": "svalkiers",
                 "repo": "clusTCR",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -725,7 +769,8 @@
                 "owner": "GreiffLab",
                 "repo": "immuneSIM",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -740,7 +785,8 @@
                 "owner": "pogorely",
                 "repo": "ALICE",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -755,7 +801,8 @@
                 "owner": "Mangul-Lab-USC",
                 "repo": "imrep",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             }
           ],
           "description": null,
@@ -777,7 +824,8 @@
                 "owner": "nf-core",
                 "repo": "epitopeprediction",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -792,7 +840,8 @@
                 "owner": "dmnfarrell",
                 "repo": "epitopepredict",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -807,7 +856,8 @@
                 "owner": "ambj",
                 "repo": "MuPeXI",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -822,7 +872,8 @@
                 "owner": "umccr",
                 "repo": "neoantigens",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -837,7 +888,8 @@
                 "owner": "GfellerLab",
                 "repo": "MixTCRpred",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -852,7 +904,8 @@
                 "owner": "biochunan",
                 "repo": "AsEP-dataset",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -863,11 +916,12 @@
                 "archived": false,
                 "id": 33150343,
                 "language": "Python",
-                "last_commit": "2026-08-27T18:06:51Z",
+                "last_commit": "2026-08-28T20:23:12Z",
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -882,7 +936,8 @@
                 "owner": "masato-ogishi",
                 "repo": "Repitope",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -897,7 +952,8 @@
                 "owner": "rnajena",
                 "repo": "EpiDope",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -912,7 +968,8 @@
                 "owner": "andim",
                 "repo": "pyrepseq",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -927,7 +984,8 @@
                 "owner": "pmoris",
                 "repo": "ImRex",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             }
           ],
           "description": null,
@@ -949,7 +1007,8 @@
                 "owner": "csi-greifflab",
                 "repo": "Absolut",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -964,7 +1023,8 @@
                 "owner": "phbradley",
                 "repo": "TCRdock",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -979,7 +1039,8 @@
                 "owner": "wukevin",
                 "repo": "tcr-bert",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -994,7 +1055,8 @@
                 "owner": "pengxingang",
                 "repo": "TEIM",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1009,7 +1071,8 @@
                 "owner": "piercelab",
                 "repo": "tcrmodel2",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1024,7 +1087,8 @@
                 "owner": "PaccMann",
                 "repo": "TITAN",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1039,7 +1103,8 @@
                 "owner": "uio-bmi",
                 "repo": "compairr",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1054,7 +1119,8 @@
                 "owner": "emmijokinen",
                 "repo": "TCRconv",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1069,7 +1135,8 @@
                 "owner": "matsengrp",
                 "repo": "vampire",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1084,7 +1151,8 @@
                 "owner": "jiangdada1221",
                 "repo": "TEINet",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             }
           ],
           "description": null,
@@ -1112,7 +1180,8 @@
                 "owner": "immunogenomics",
                 "repo": "HLA_analyses_tutorial",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1127,7 +1196,8 @@
                 "owner": "immunogenomics",
                 "repo": "HLA-TAPAS",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1142,7 +1212,8 @@
                 "owner": "felixfan",
                 "repo": "PyHLA",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1157,7 +1228,8 @@
                 "owner": "WansonChoi",
                 "repo": "HATK",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1172,7 +1244,8 @@
                 "owner": "immunogenomics",
                 "repo": "cdr3-QTL",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1187,7 +1260,8 @@
                 "owner": "slowkow",
                 "repo": "hlabud",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1202,7 +1276,8 @@
                 "owner": "Genentech",
                 "repo": "midasHLA",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1217,7 +1292,8 @@
                 "owner": "IgDAWG",
                 "repo": "BIGDAWG",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             }
           ],
           "description": null,
@@ -1239,7 +1315,8 @@
                 "owner": "FRED-2",
                 "repo": "OptiType",
                 "stars": 223
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1254,7 +1331,8 @@
                 "owner": "RabadanLab",
                 "repo": "arcasHLA",
                 "stars": 162
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1268,8 +1346,9 @@
                 "last_commit": "2025-04-03T20:21:17Z",
                 "owner": "DiltheyLab",
                 "repo": "HLA-LA",
-                "stars": 146
-              }
+                "stars": 147
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1284,7 +1363,8 @@
                 "owner": "humanlongevity",
                 "repo": "HLA",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1299,7 +1379,8 @@
                 "owner": "mourisl",
                 "repo": "T1K",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1314,7 +1395,8 @@
                 "owner": "nf-core",
                 "repo": "hlatyping",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1329,7 +1411,8 @@
                 "owner": "10XGenomics",
                 "repo": "scHLAcount",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1344,7 +1427,8 @@
                 "owner": "deepomicslab",
                 "repo": "SpecHLA",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1359,7 +1443,8 @@
                 "owner": "TRON-Bioinformatics",
                 "repo": "seq2HLA",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1374,7 +1459,8 @@
                 "owner": "Kingsford-Group",
                 "repo": "kourami",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1389,7 +1475,8 @@
                 "owner": "ExpressionAnalysis",
                 "repo": "HLAProfiler",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1404,7 +1491,8 @@
                 "owner": "lkuchenb",
                 "repo": "MultiHLA",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1419,7 +1507,8 @@
                 "owner": "kmayerb",
                 "repo": "hla3",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             }
           ],
           "description": null,
@@ -1441,7 +1530,8 @@
                 "owner": "CHB-learner",
                 "repo": "NeoBert",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1456,7 +1546,8 @@
                 "owner": "KarchinLab",
                 "repo": "bigmhc",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1471,7 +1562,8 @@
                 "owner": "GfellerLab",
                 "repo": "MixMHC2pred",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1486,7 +1578,8 @@
                 "owner": "GfellerLab",
                 "repo": "MixMHCpred",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1501,7 +1594,8 @@
                 "owner": "KarchinLab",
                 "repo": "mhcnuggets",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1516,7 +1610,8 @@
                 "owner": "gopuvenkat",
                 "repo": "MHCAttnNet",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1531,7 +1626,8 @@
                 "owner": "k96nb01",
                 "repo": "immunogenetr_package",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             }
           ],
           "description": null,
@@ -1553,7 +1649,8 @@
                 "owner": "AlexanderDilthey",
                 "repo": "MHC-PRG",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1568,7 +1665,8 @@
                 "owner": "nmdp-bioinformatics",
                 "repo": "py-ard",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             },
             {
               "node_type": "item",
@@ -1583,7 +1681,8 @@
                 "owner": "sjmack",
                 "repo": "HLAtools",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
             }
           ],
           "description": null,
@@ -1595,7 +1694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:01:38.713Z",
+    "last_updated": "2026-08-29T01:27:41.249Z",
     "original_repository_info": {
       "archived": false,
       "id": 232637997,
