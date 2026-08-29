@@ -10,12 +10,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
+            "homepage": null,
             "id": 232637997,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-02-12T11:49:50Z",
+            "open_issues": 0,
             "owner": "slowkow",
             "repo": "awesome-vdj",
-            "stars": 242
+            "stars": 242,
+            "topics": [
+              "antibody",
+              "awesome-list",
+              "b-cell-receptor",
+              "bcr",
+              "bioinformatics",
+              "hla",
+              "hla-database",
+              "hla-typing",
+              "immunology",
+              "t-cell-receptor",
+              "tcr",
+              "vdj"
+            ]
           },
           "first_seen": "2026-08-29T01:27:41.249Z"
         },
@@ -26,12 +44,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "T/B cell receptor sequencing analysis notes",
+            "homepage": null,
             "id": 70820912,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-12-01T23:14:02Z",
+            "open_issues": 0,
             "owner": "crazyhottommy",
             "repo": "TCR-BCR-seq-analysis",
-            "stars": 281
+            "stars": 281,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:27:41.249Z"
         }
@@ -50,12 +73,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Git-based antigen specificity database storage & management.",
+                "homepage": "https://vdjdb.com",
                 "id": 49149680,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T02:44:16Z",
+                "open_issues": 125,
                 "owner": "antigenomics",
                 "repo": "vdjdb-db",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "antigen",
+                  "binding",
+                  "bioinformatics",
+                  "database",
+                  "hla",
+                  "immunology",
+                  "mhc",
+                  "receptor",
+                  "recognition",
+                  "t-cell"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -66,12 +105,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Matching T-cell receptor repertoires to a database of antigen specificities",
+                "homepage": "https://docs.isalgo.dev/vdjmatch/",
                 "id": 26707493,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-18T23:30:46Z",
+                "open_issues": 0,
                 "owner": "antigenomics",
                 "repo": "vdjmatch",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "antigen",
+                  "bioinformatics",
+                  "rep-seq",
+                  "specificity",
+                  "t-cell",
+                  "vdjdb"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             }
@@ -89,12 +140,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
+                "homepage": null,
                 "id": 232637997,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-02-12T11:49:50Z",
+                "open_issues": 0,
                 "owner": "slowkow",
                 "repo": "awesome-vdj",
-                "stars": 242
+                "stars": 242,
+                "topics": [
+                  "antibody",
+                  "awesome-list",
+                  "b-cell-receptor",
+                  "bcr",
+                  "bioinformatics",
+                  "hla",
+                  "hla-database",
+                  "hla-typing",
+                  "immunology",
+                  "t-cell-receptor",
+                  "tcr",
+                  "vdj"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             }
@@ -118,12 +187,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit for single-cell immune profiling",
+                "homepage": "https://www.borch.dev/uploads/screpertoire/",
                 "id": 234732643,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-14T13:09:29Z",
+                "open_issues": 0,
                 "owner": "BorchLab",
                 "repo": "scRepertoire",
-                "stars": 374
+                "stars": 374,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -134,12 +208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TCR and BCR assembly from RNA-seq data",
+                "homepage": null,
                 "id": 206697335,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-27T14:42:19Z",
+                "open_issues": 125,
                 "owner": "liulab-dfci",
                 "repo": "TRUST4",
-                "stars": 362
+                "stars": 362,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -150,12 +229,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A scanpy extension to analyse single-cell TCR and BCR data.",
+                "homepage": "https://scirpy.scverse.org/en/latest/",
                 "id": 232568640,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-26T11:15:21Z",
+                "open_issues": 46,
                 "owner": "scverse",
                 "repo": "scirpy",
-                "stars": 265
+                "stars": 265,
+                "topics": [
+                  "airr",
+                  "scverse"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -166,12 +253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "STARTRAC(Single T-cell Analysis by Rna-seq and Tcr TRACking)",
+                "homepage": null,
                 "id": 123892363,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-26T08:00:46Z",
+                "open_issues": 10,
                 "owner": "Japrin",
                 "repo": "STARTRAC",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -182,12 +274,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning Methods for Parsing T-Cell Receptor Sequencing (TCRSeq) Data",
+                "homepage": "https://sidhomj.github.io/DeepTCR/",
                 "id": 156019789,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-09-16T19:51:52Z",
+                "open_issues": 15,
                 "owner": "sidhomj",
                 "repo": "DeepTCR",
-                "stars": 123
+                "stars": 123,
+                "topics": [
+                  "adaptive-immunity",
+                  "deep-learning",
+                  "immunology",
+                  "repertoire",
+                  "tcr",
+                  "tcr-repertoire"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -198,12 +302,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clonotype Neighbor Graph Analysis",
+                "homepage": null,
                 "id": 255368337,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-06-15T20:49:42Z",
+                "open_issues": 29,
                 "owner": "phbradley",
                 "repo": "conga",
-                "stars": 100
+                "stars": 100,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -214,12 +323,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework",
+                "homepage": "https://nf-co.re/airrflow",
                 "id": 160348245,
                 "language": "Nextflow",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:55:06Z",
+                "open_issues": 51,
                 "owner": "nf-core",
                 "repo": "airrflow",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "airr",
+                  "b-cell",
+                  "immcantation",
+                  "immunorepertoire",
+                  "nextflow",
+                  "nf-core",
+                  "pipeline",
+                  "repseq",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -230,12 +354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 339668221,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-11-01T20:26:25Z",
+                "open_issues": 2,
                 "owner": "SchubertLab",
                 "repo": "mvTCR",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -246,12 +375,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VDJ Clonotyping & Analysis Tools",
+                "homepage": "https://10xgenomics.github.io/enclone/",
                 "id": 231675458,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-07T20:41:25Z",
+                "open_issues": 4,
                 "owner": "10XGenomics",
                 "repo": "enclone",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "bioinformatics"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -262,12 +398,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦠 List of publicly available datasets with single-cell (scRNAseq) and T-cell/antibody immune repertoire (AIRR / RepSeq / immunosequencing) data of COVID-19 patients with SARS-CoV-2.",
+                "homepage": null,
                 "id": 263604905,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-05-21T20:08:06Z",
+                "open_issues": 1,
                 "owner": "immunomind",
                 "repo": "covid19",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "airr",
+                  "bcr-repertoire",
+                  "bioinformatics",
+                  "covid19",
+                  "covid19-data",
+                  "immune-repertoire",
+                  "immunomics",
+                  "immunotherapy",
+                  "vaccine"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -278,12 +429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package for the analysis of single-cell immune repertoires",
+                "homepage": null,
                 "id": 297313954,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-07T10:29:06Z",
+                "open_issues": 21,
                 "owner": "alexyermanos",
                 "repo": "Platypus",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -294,12 +450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TCRGP, a novel Gaussian process method that can predict if TCRs recognize certain epitopes. This method can utilize different CDR sequences from both TCRα and TCRβ chains from single-cell data and learn which CDRs are important in recognizing the different epitopes.",
+                "homepage": null,
                 "id": 168714273,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-01-31T08:49:52Z",
+                "open_issues": 1,
                 "owner": "emmijokinen",
                 "repo": "TCRGP",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -310,12 +471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert TCR gene names",
+                "homepage": "https://tcrconvert.readthedocs.io/en/latest/",
                 "id": 764400325,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-26T22:13:16Z",
+                "open_issues": 6,
                 "owner": "seshadrilab",
                 "repo": "tcrconvert",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -326,12 +492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert TCR gene names",
+                "homepage": "https://seshadrilab.github.io/tcrconvertr/",
                 "id": 913062249,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-28T01:18:38Z",
+                "open_issues": 6,
                 "owner": "seshadrilab",
                 "repo": "tcrconvertr",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -342,12 +513,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "dandelion - A single cell BCR/TCR V(D)J-seq analysis package for 10X Chromium 5' data",
+                "homepage": "https://sc-dandelion.readthedocs.io/",
                 "id": 1138655055,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-03-02T01:53:50Z",
+                "open_issues": 0,
                 "owner": "zktuong",
                 "repo": "dandelion",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             }
@@ -365,12 +541,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧬 immunarch [R package] – Multi-Modal Immune Repertoire Analytics for Immunotherapy and Vaccine Design",
+                "homepage": "https://immunomind.github.io/docs/",
                 "id": 172738067,
                 "language": "R",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T18:15:05Z",
+                "open_issues": 9,
                 "owner": "immunomind",
                 "repo": "immunarch",
-                "stars": 341
+                "stars": 341,
+                "topics": [
+                  "airr",
+                  "bioinformatics",
+                  "biomarker-discovery",
+                  "data-science",
+                  "immune-repertoire",
+                  "immunomics",
+                  "immunotherapy",
+                  "vaccine"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -381,12 +571,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improved statistical classifier for immune repertoires",
+                "homepage": null,
                 "id": 537200146,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-05-01T11:46:29Z",
+                "open_issues": 0,
                 "owner": "jostmey",
                 "repo": "msm",
-                "stars": 176
+                "stars": 176,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -397,12 +592,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Analysis of immune repertoire sequencing results",
+                "homepage": "https://docs.isalgo.dev/vdjtools/",
                 "id": 20546990,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-20T01:03:11Z",
+                "open_issues": 0,
                 "owner": "antigenomics",
                 "repo": "vdjtools",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "antibody",
+                  "bioinformatics",
+                  "immunology",
+                  "rep-seq",
+                  "repertoire",
+                  "stat",
+                  "t-cell",
+                  "t-cell-receptor"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -413,12 +622,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeepRC: Immune repertoire classification with attention-based deep massive multiple instance learning",
+                "homepage": null,
                 "id": 254913081,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-12T11:36:33Z",
+                "open_issues": 4,
                 "owner": "ml-jku",
                 "repo": "DeepRC",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -429,12 +643,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic Kernel Matching (DKM) for Classifying Data with Non-conforming Features",
+                "homepage": null,
                 "id": 231257156,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2023-05-16T17:55:12Z",
+                "open_issues": 0,
                 "owner": "jostmey",
                 "repo": "dkm",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "dkm",
+                  "genomics",
+                  "machine-learning",
+                  "nonconforming-data",
+                  "repertoire",
+                  "statistical-classifiers",
+                  "tcell-receptors",
+                  "unstructured-data"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -445,12 +673,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.",
+                "homepage": "https://immuneml.uio.no",
                 "id": 299273889,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T11:39:13Z",
+                "open_issues": 1,
                 "owner": "uio-bmi",
                 "repo": "immuneML",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "adaptive-immune-receptors",
+                  "airr",
+                  "bcr",
+                  "benchmarking",
+                  "classification",
+                  "immune-repertoire",
+                  "machine-learning-analysis",
+                  "tcr"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -461,12 +703,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.",
+                "homepage": "https://abstar.readthedocs.io",
                 "id": 46077907,
                 "language": "Pkl",
+                "license": "MIT",
                 "last_commit": "2026-03-30T17:05:42Z",
+                "open_issues": 6,
                 "owner": "brineylab",
                 "repo": "abstar",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -477,12 +724,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "V'DJer -  B Cell Receptor Repertoire Reconstruction from short read mRNA-Seq data",
+                "homepage": null,
                 "id": 32866258,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-09T21:01:31Z",
+                "open_issues": 8,
                 "owner": "mozack",
                 "repo": "vdjer",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -493,12 +745,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ultra-sensitive and precise tool for characterizing T cell CDR3 sequences in TCR-seq and RNA-seq data.",
+                "homepage": "http://bioinfo.life.hust.edu.cn/CATT/",
                 "id": 152699695,
                 "language": "Julia",
+                "license": null,
                 "last_commit": "2025-11-19T09:05:36Z",
+                "open_issues": 16,
                 "owner": "GuoBioinfoLab",
                 "repo": "CATT",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "bioinformatics",
+                  "bioinformatics-tool",
+                  "tcr",
+                  "tcr-repertoire"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -509,12 +771,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package to BLAST peptide sequences against each other and identify the minimal overlap of aligning regions.",
+                "homepage": "https://brandonsie.github.io/epitopefindr/",
                 "id": 154220769,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2025-08-26T17:51:09Z",
+                "open_issues": 0,
                 "owner": "brandonsie",
                 "repo": "epitopefindr",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "alignment",
+                  "antibody",
+                  "blastp",
+                  "epitope-discovery",
+                  "peptides"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -525,12 +798,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Software and test files for Recon: Reconstruction of Estimated Communities from Observed Numbers",
+                "homepage": "http://arnaoutlab.github.io/Recon/",
                 "id": 39451483,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-16T19:10:26Z",
+                "open_issues": 8,
                 "owner": "ArnaoutLab",
                 "repo": "Recon",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             }
@@ -548,12 +826,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MiXCR is an ultimate software platform for analysis of Next-Generation Sequencing (NGS) data for immune profiling.",
+                "homepage": "https://mixcr.com",
                 "id": 33134597,
                 "language": "Kotlin",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-10T16:34:30Z",
+                "open_issues": 127,
                 "owner": "milaboratory",
                 "repo": "mixcr",
-                "stars": 399
+                "stars": 399,
+                "topics": [
+                  "10x",
+                  "antibody",
+                  "bioinformatics",
+                  "immunology",
+                  "rep-seq",
+                  "rna-seq",
+                  "sequencing",
+                  "single-cell",
+                  "t-cell",
+                  "t-cell-receptor"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -564,12 +858,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stitchr - a Python script to stitch together coding TCR nucleotide sequences from V, J, and CDR3 info",
+                "homepage": "https://jamieheather.github.io/stitchr/",
                 "id": 156881770,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-12T15:24:35Z",
+                "open_issues": 4,
                 "owner": "JamieHeather",
                 "repo": "stitchr",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "bioinformatics-tool",
+                  "immunology",
+                  "tcr"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -580,12 +883,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-throughput mapping and domain partitioning of antigen receptor sequences",
+                "homepage": "https://docs.isalgo.dev/arda/",
                 "id": 20132994,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-15T23:09:06Z",
+                "open_issues": 0,
                 "owner": "antigenomics",
                 "repo": "arda",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "antibody",
+                  "bioinformatics",
+                  "immunology",
+                  "ngs",
+                  "rep-seq",
+                  "sequencing",
+                  "t-cell",
+                  "t-cell-receptor"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -596,12 +913,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Immunoglobulin and T-Cell receptor rearrangement software",
+                "homepage": null,
                 "id": 105039360,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-09T22:16:45Z",
+                "open_issues": 5,
                 "owner": "crowelab",
                 "repo": "PyIR",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -612,12 +934,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vidjil -- High-throughput Analysis of V(D)J Immune Repertoire (mirror, please go to http://gitlab.vidjil.org)",
+                "homepage": "http://gitlab.vidjil.org",
                 "id": 16959257,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-29T17:49:47Z",
+                "open_issues": 3,
                 "owner": "vidjil",
                 "repo": "vidjil",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -628,12 +955,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛜 A lightweight immune repertoire browser",
+                "homepage": "https://vdjviz.cdr3.net",
                 "id": 24148786,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2019-12-10T10:04:18Z",
+                "open_issues": 12,
                 "owner": "antigenomics",
                 "repo": "vdjviz",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "bioinformatics",
+                  "browser",
+                  "immunology",
+                  "rep-seq",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -644,12 +982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BepiPred3.0 predicts B-cell epitopes from proteins sequences in fasta format.",
+                "homepage": null,
                 "id": 454799140,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-01-02T15:33:42Z",
+                "open_issues": 1,
                 "owner": "UberClifford",
                 "repo": "BepiPred-3.0",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -660,12 +1003,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IMSEQ - IMmunogenetic SEQuence Analysis",
+                "homepage": "http://www.imtools.org",
                 "id": 30064233,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2018-08-10T11:02:09Z",
+                "open_issues": 2,
                 "owner": "lkuchenb",
                 "repo": "imseq",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -676,12 +1024,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pRESTO is part of the Immcantation analysis framework for Adaptive Immune Receptor Repertoire sequencing (AIRR-seq). pRESTO is a bioinformatics toolkit for processing high-throughput lymphocyte receptor sequencing data.",
+                "homepage": "https://presto.readthedocs.io",
                 "id": 865968162,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-04-14T14:03:12Z",
+                "open_issues": 10,
                 "owner": "immcantation",
                 "repo": "presto",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             }
@@ -699,12 +1052,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Software tools for the analysis of epitope-specific T cell receptor (TCR) repertoires    (scroll down for the README)",
+                "homepage": null,
                 "id": 85329347,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-10-06T23:19:08Z",
+                "open_issues": 17,
                 "owner": "phbradley",
                 "repo": "tcr-dist",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -715,12 +1073,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ultrafast TCR clustering algorithm based on geometric isometry",
+                "homepage": null,
                 "id": 286625292,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-16T20:27:42Z",
+                "open_issues": 20,
                 "owner": "s175573",
                 "repo": "GIANA",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -731,12 +1094,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "flexible CDR based distance metrics",
+                "homepage": null,
                 "id": 278150009,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-16T01:25:34Z",
+                "open_issues": 48,
                 "owner": "kmayerb",
                 "repo": "tcrdist3",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -747,12 +1115,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CDR3 clustering module providing a new method for fast and accurate clustering of large data sets of CDR3 amino acid sequences, and offering functionalities for downstream analysis of clustering results.",
+                "homepage": null,
                 "id": 315335375,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-03T06:15:17Z",
+                "open_issues": 13,
                 "owner": "svalkiers",
                 "repo": "clusTCR",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "faiss",
+                  "immunoinformatics",
+                  "markov-clustering-algorithm"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -763,12 +1140,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 193957540,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2023-11-27T12:24:47Z",
+                "open_issues": 2,
                 "owner": "GreiffLab",
                 "repo": "immuneSIM",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -779,12 +1161,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Detecting TCR involved in immune responses from single RepSeq datasets",
+                "homepage": null,
                 "id": 141993362,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2019-06-17T12:22:02Z",
+                "open_issues": 14,
                 "owner": "pogorely",
                 "repo": "ALICE",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -795,12 +1182,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ImReP is a computational method for rapid and accurate profiling of the adaptive immune repertoire from regular RNA-Seq data.",
+                "homepage": "https://github.com/Mangul-Lab-USC/imrep",
                 "id": 212595951,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-04-11T22:04:54Z",
+                "open_issues": 0,
                 "owner": "Mangul-Lab-USC",
                 "repo": "imrep",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             }
@@ -818,12 +1210,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bioinformatics best-practice analysis pipeline for epitope prediction and annotation",
+                "homepage": "https://nf-co.re/epitopeprediction",
                 "id": 159524795,
                 "language": "Nextflow",
+                "license": "MIT",
                 "last_commit": "2026-08-07T16:12:58Z",
+                "open_issues": 28,
                 "owner": "nf-core",
                 "repo": "epitopeprediction",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "epitope",
+                  "epitope-prediction",
+                  "mhc-binding-prediction",
+                  "nextflow",
+                  "nf-core",
+                  "pipeline",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -834,12 +1239,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package  and command line tool for epitope prediction",
+                "homepage": null,
                 "id": 28866919,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-02T11:33:40Z",
+                "open_issues": 5,
                 "owner": "dmnfarrell",
                 "repo": "epitopepredict",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "bioinformatics",
+                  "epitope-prediction-methods",
+                  "immunology"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -850,12 +1264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MuPeXI: the mutant peptide extractor and informer, a tool for predicting neo-epitopes from tumor sequencing data. ",
+                "homepage": null,
                 "id": 69357332,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-09-12T16:11:18Z",
+                "open_issues": 19,
                 "owner": "ambj",
                 "repo": "MuPeXI",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -866,12 +1285,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🏺 Exploring novel tumor epitope identification",
+                "homepage": null,
                 "id": 145960197,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-10-07T08:30:25Z",
+                "open_issues": 0,
                 "owner": "umccr",
                 "repo": "neoantigens",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -882,12 +1306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Predictor of TCR-epitope interactions",
+                "homepage": null,
                 "id": 571945724,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-09T13:17:13Z",
+                "open_issues": 1,
                 "owner": "GfellerLab",
                 "repo": "MixTCRpred",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -898,12 +1327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NeurIPS 2024 Dataset and Benchmark Submission \"AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction\"",
+                "homepage": null,
                 "id": 808073807,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-08-12T16:05:17Z",
+                "open_issues": 0,
                 "owner": "biochunan",
                 "repo": "AsEP-dataset",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -914,12 +1348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Predict mutated T-cell epitopes from sequencing data",
+                "homepage": null,
                 "id": 33150343,
                 "language": "Python",
-                "last_commit": "2026-08-28T20:23:12Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:44:09Z",
+                "open_issues": 4,
                 "owner": "openvax",
                 "repo": "topiary",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -930,12 +1369,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.",
+                "homepage": null,
                 "id": 93932170,
                 "language": "R",
+                "license": "MIT",
                 "last_commit": "2023-11-17T09:37:45Z",
+                "open_issues": 2,
                 "owner": "masato-ogishi",
                 "repo": "Repitope",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "epitope-datasets",
+                  "epitope-immunogenicity-prediction",
+                  "machine-learning",
+                  "r"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -946,12 +1395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prediction of B-cell epitopes from amino acid sequences using deep neural networks.",
+                "homepage": null,
                 "id": 227843194,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-07T19:59:17Z",
+                "open_issues": 0,
                 "owner": "rnajena",
                 "repo": "EpiDope",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -962,12 +1416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for immune repertoire analysis",
+                "homepage": null,
                 "id": 355959013,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-06T17:00:36Z",
+                "open_issues": 10,
                 "owner": "andim",
                 "repo": "pyrepseq",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -978,12 +1437,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generic TCR-epitope recognition prediction using CNN approach on both known and novel epitopes",
+                "homepage": null,
                 "id": 221470901,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2023-05-22T22:50:06Z",
+                "open_issues": 6,
                 "owner": "pmoris",
                 "repo": "ImRex",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             }
@@ -1001,12 +1465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unconstrained lattice antibody-antigen bindings generator",
+                "homepage": null,
                 "id": 301980293,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-05-23T12:49:30Z",
+                "open_issues": 7,
                 "owner": "csi-greifflab",
                 "repo": "Absolut",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1017,12 +1486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "python tools for TCR:peptide-MHC modeling and analysis",
+                "homepage": null,
                 "id": 520281959,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-26T18:02:45Z",
+                "open_issues": 17,
                 "owner": "phbradley",
                 "repo": "TCRdock",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1033,12 +1507,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large language modeling applied to T-cell receptor (TCR) sequences. ",
+                "homepage": null,
                 "id": 427452614,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-04T23:33:39Z",
+                "open_issues": 10,
                 "owner": "wukevin",
                 "repo": "tcr-bert",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "bert",
+                  "machine-learning",
+                  "tcr"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1049,12 +1532,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TEIM: TCR-Epitope Interaction Modeling",
+                "homepage": null,
                 "id": 424463720,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-26T12:46:25Z",
+                "open_issues": 4,
                 "owner": "pengxingang",
                 "repo": "TEIM",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "deep-learning",
+                  "tcr",
+                  "tcr-epitope"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1065,12 +1557,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 608840664,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-30T17:45:34Z",
+                "open_issues": 1,
                 "owner": "piercelab",
                 "repo": "tcrmodel2",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1081,12 +1578,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"T Cell Receptor Specificity Prediction with Bimodal Attention Networks\" (https://doi.org/10.1093/bioinformatics/btab294, ISMB 2021)",
+                "homepage": null,
                 "id": 350377706,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-07-12T02:44:38Z",
+                "open_issues": 0,
                 "owner": "PaccMann",
                 "repo": "TITAN",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "compound-protein-interaction",
+                  "deep-learning",
+                  "immunology",
+                  "protein-ligand",
+                  "tcr-epitope"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1097,12 +1605,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Comparison of Adaptive Immune Receptor Repertoires",
+                "homepage": null,
                 "id": 353091132,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-01-29T16:20:08Z",
+                "open_issues": 11,
                 "owner": "uio-bmi",
                 "repo": "compairr",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "airr",
+                  "bioinformatics",
+                  "immune-repertoire",
+                  "immunoinformatics",
+                  "immunology",
+                  "rep-seq",
+                  "repertoire-analysis"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1113,12 +1634,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TCRconv is a deep learning model for predicting recognition between T cell receptors and epitopes. It uses protBERT embeddings for the TCRs and convolutional neural networks for the prediction.",
+                "homepage": null,
                 "id": 492812402,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-10-18T11:49:48Z",
+                "open_issues": 3,
                 "owner": "emmijokinen",
                 "repo": "TCRconv",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1129,12 +1655,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧛 Deep generative models for TCR sequences 🧛",
+                "homepage": null,
                 "id": 138357838,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-04T23:07:03Z",
+                "open_issues": 8,
                 "owner": "matsengrp",
                 "repo": "vampire",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1145,12 +1676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TEINet: a deep learning framework for prediction of TCR-epitope binding specificity",
+                "homepage": null,
                 "id": 544740527,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-30T05:53:51Z",
+                "open_issues": 0,
                 "owner": "jiangdada1221",
                 "repo": "TEINet",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             }
@@ -1174,12 +1710,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A thorough tutorial on HLA imputation and association, accompanying our manuscript \"Tutorial: A statistical genetics guide to identifying HLA alleles driving complex disease\"",
+                "homepage": null,
                 "id": 516843236,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2024-10-10T20:34:11Z",
+                "open_issues": 0,
                 "owner": "immunogenomics",
                 "repo": "HLA_analyses_tutorial",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1190,12 +1731,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HLA-TAPAS pipeline for HLA association and fine-mapping studies",
+                "homepage": null,
                 "id": 223208422,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-12-19T12:03:52Z",
+                "open_issues": 20,
                 "owner": "immunogenomics",
                 "repo": "HLA-TAPAS",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1206,12 +1752,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python for HLA analysis: summary, association analysis, zygosity test and interaction test",
+                "homepage": null,
                 "id": 34704200,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-08T01:36:08Z",
+                "open_issues": 3,
                 "owner": "felixfan",
                 "repo": "PyHLA",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1222,12 +1773,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of modules to process and analyze IMGT-HLA sequences.",
+                "homepage": null,
                 "id": 143300990,
                 "language": "Parrot",
+                "license": null,
                 "last_commit": "2022-12-18T06:03:53Z",
+                "open_issues": 12,
                 "owner": "WansonChoi",
                 "repo": "HATK",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "fine-mapping",
+                  "hla",
+                  "imgt"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1238,12 +1798,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trans-association between HLA and TCR-CDR3",
+                "homepage": null,
                 "id": 306212645,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-03-29T00:12:24Z",
+                "open_issues": 0,
                 "owner": "immunogenomics",
                 "repo": "cdr3-QTL",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1254,12 +1819,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐶 hlabud: HLA genotype analysis in R",
+                "homepage": "https://slowkow.github.io/hlabud/",
                 "id": 624125072,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-11T20:43:39Z",
+                "open_issues": 3,
                 "owner": "slowkow",
                 "repo": "hlabud",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "bioinformatics",
+                  "genetics",
+                  "hla",
+                  "hla-database",
+                  "immunoinformatics",
+                  "immunology"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1270,12 +1847,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package enabling statistical association analysis and using immunogenetic data transformation functions for HLA amino acid fine mapping, analysis of HLA evolutionary divergence as well as HLA-KIR interactions.",
+                "homepage": "https://genentech.github.io/MiDAS",
                 "id": 301934927,
                 "language": "R",
+                "license": "MIT",
                 "last_commit": "2024-01-31T19:02:42Z",
+                "open_issues": 11,
                 "owner": "Genentech",
                 "repo": "midasHLA",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "hla",
+                  "immunogenetic",
+                  "kir",
+                  "r"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1286,12 +1873,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 333326966,
                 "language": "R",
+                "license": null,
                 "last_commit": "2026-05-04T18:45:45Z",
+                "open_issues": 4,
                 "owner": "IgDAWG",
                 "repo": "BIGDAWG",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             }
@@ -1309,12 +1901,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Precision HLA typing from next-generation sequencing data",
+                "homepage": null,
                 "id": 19533024,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-05-20T07:42:26Z",
+                "open_issues": 51,
                 "owner": "FRED-2",
                 "repo": "OptiType",
-                "stars": 223
+                "stars": 223,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1325,12 +1922,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and accurate in silico inference of HLA genotypes from RNA-seq",
+                "homepage": null,
                 "id": 155271316,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-20T12:14:59Z",
+                "open_issues": 52,
                 "owner": "RabadanLab",
                 "repo": "arcasHLA",
-                "stars": 162
+                "stars": 162,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1341,12 +1943,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast HLA type inference from whole-genome data",
+                "homepage": null,
                 "id": 84989691,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-03T20:21:17Z",
+                "open_issues": 57,
                 "owner": "DiltheyLab",
                 "repo": "HLA-LA",
-                "stars": 147
+                "stars": 147,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1357,12 +1964,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "xHLA: Fast and accurate HLA typing from short read sequence data",
+                "homepage": null,
                 "id": 94831891,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-13T15:01:05Z",
+                "open_issues": 47,
                 "owner": "humanlongevity",
                 "repo": "HLA",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "genomics",
+                  "hla-typing",
+                  "sequencing",
+                  "variant-calling",
+                  "variants"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1373,12 +1991,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "T1K is a versatile methods to genotype highly polymorphic genes (e.g. KIR, HLA) with bulk or single-cell RNA-seq, WGS or WES data.",
+                "homepage": null,
                 "id": 372967942,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-18T16:09:08Z",
+                "open_issues": 1,
                 "owner": "mourisl",
                 "repo": "T1K",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1389,12 +2012,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Precision HLA typing from next-generation sequencing data",
+                "homepage": "https://nf-co.re/hlatyping",
                 "id": 140573587,
                 "language": "Nextflow",
+                "license": "MIT",
                 "last_commit": "2026-08-20T08:03:31Z",
+                "open_issues": 13,
                 "owner": "nf-core",
                 "repo": "hlatyping",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "dna",
+                  "hla",
+                  "hla-typing",
+                  "immunology",
+                  "nextflow",
+                  "nf-core",
+                  "optitype",
+                  "personalized-medicine",
+                  "pipeline",
+                  "rna",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1405,12 +2045,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Count HLA alleles in single-cell RNA-seq data",
+                "homepage": null,
                 "id": 197242538,
                 "language": "TeX",
+                "license": "MIT",
                 "last_commit": "2021-11-05T16:13:52Z",
+                "open_issues": 15,
                 "owner": "10XGenomics",
                 "repo": "scHLAcount",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1421,12 +2066,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SpecHLA reconstructs entire diploid sequences of HLA genes and infers LOH events. It supports HLA-A, -B, -C, -DPA1, -DPB1, -DQA1, -DQB1, and -DRB1 genes. Also, it supports both short- and long-read data.",
+                "homepage": null,
                 "id": 365199742,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-07-27T19:13:40Z",
+                "open_issues": 8,
                 "owner": "deepomicslab",
                 "repo": "SpecHLA",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "allelic-imbalance",
+                  "cancer",
+                  "genotype-frequency",
+                  "haplotype",
+                  "hla-sequence",
+                  "hla-typing",
+                  "human-leukocyte-antigens",
+                  "immunity",
+                  "local-assembly",
+                  "loh",
+                  "loss-of-heterozygosity",
+                  "nanopore",
+                  "pacbio-data",
+                  "phase",
+                  "reads-binning"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1437,12 +2103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "In-silico method written in Python and R to determine HLA genotypes of a sample. seq2HLA takes standard RNA-Seq sequence reads in fastq format as input, uses a bowtie index comprising all HLA alleles and outputs the most likely HLA class I and class II genotypes (in 4 digit resolution), a p-value for each call, and the expression of each class.",
+                "homepage": null,
                 "id": 99008203,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-09T10:36:01Z",
+                "open_issues": 17,
                 "owner": "TRON-Bioinformatics",
                 "repo": "seq2HLA",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1453,12 +2124,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kourami: Graph-guided assembly for HLA alleles",
+                "homepage": null,
                 "id": 88066886,
                 "language": "Java",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-05-21T15:32:10Z",
+                "open_issues": 19,
                 "owner": "Kingsford-Group",
                 "repo": "kourami",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "hla",
+                  "hla-database",
+                  "hla-typing",
+                  "imgt",
+                  "sequence-search",
+                  "wgs"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1469,12 +2152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using k-mers to call HLA alleles in RNA sequencing data",
+                "homepage": "https://expressionanalysis.github.io/HLAProfiler/",
                 "id": 88547258,
                 "language": "Perl",
+                "license": "NOASSERTION",
                 "last_commit": "2018-07-26T18:37:02Z",
+                "open_issues": 3,
                 "owner": "ExpressionAnalysis",
                 "repo": "HLAProfiler",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1485,12 +2173,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WES HLA Typing based on multiple alternative tools",
+                "homepage": null,
                 "id": 271025274,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-03-08T18:56:25Z",
+                "open_issues": 3,
                 "owner": "lkuchenb",
                 "repo": "MultiHLA",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "exome",
+                  "genome",
+                  "immunoinformatics",
+                  "immunology",
+                  "sequencing",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1501,12 +2201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "weight of evidence of HLA allele expression based on bulk TCR beta-chain repertoires",
+                "homepage": null,
                 "id": 387904822,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-02-23T05:34:17Z",
+                "open_issues": 0,
                 "owner": "kmayerb",
                 "repo": "hla3",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             }
@@ -1524,12 +2229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NeoBERT is an advanced model designed specifically for predicting the binding affinity between neoantigens and HLA. It is a variant of the original BERT model, enhanced to integrate biological features with deep learning techniques.",
+                "homepage": null,
                 "id": 849915640,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-21T15:33:54Z",
+                "open_issues": 2,
                 "owner": "CHB-learner",
                 "repo": "NeoBert",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1540,12 +2250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BigMHC predicts MHC-I (neo)epitope presentation and immunogenicity",
+                "homepage": null,
                 "id": 530254502,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-17T17:47:08Z",
+                "open_issues": 2,
                 "owner": "KarchinLab",
                 "repo": "bigmhc",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1556,12 +2271,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HLA-II ligand predictor.",
+                "homepage": null,
                 "id": 169597609,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T13:57:12Z",
+                "open_issues": 0,
                 "owner": "GfellerLab",
                 "repo": "MixMHC2pred",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "hla",
+                  "mhc-binding-prediction",
+                  "t-cell"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1572,12 +2296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HLA-I ligand predictor",
+                "homepage": null,
                 "id": 99564109,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-19T15:54:28Z",
+                "open_issues": 2,
                 "owner": "GfellerLab",
                 "repo": "MixMHCpred",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1588,12 +2317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MHC Class I and Class II neoantigen binding prediction",
+                "homepage": null,
                 "id": 132156030,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-23T12:00:08Z",
+                "open_issues": 9,
                 "owner": "KarchinLab",
                 "repo": "mhcnuggets",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1604,12 +2338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MHCAttnNet: Allele-Peptide predictions for class I & class II MHC alleles",
+                "homepage": null,
                 "id": 202865094,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-02-14T09:43:59Z",
+                "open_issues": 1,
                 "owner": "gopuvenkat",
                 "repo": "MHCAttnNet",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1620,12 +2359,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An R library for HLA informatics",
+                "homepage": "https://k96nb01.github.io/immunogenetr_package/",
                 "id": 814723176,
                 "language": "R",
+                "license": null,
                 "last_commit": "2026-08-23T20:13:40Z",
+                "open_issues": 3,
                 "owner": "k96nb01",
                 "repo": "immunogenetr_package",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "hla",
+                  "hla-typing",
+                  "informatics",
+                  "r",
+                  "tidyverse"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             }
@@ -1643,12 +2393,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Population Reference Graphs for the HLA and MHC.",
+                "homepage": null,
                 "id": 15875569,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2018-12-18T10:20:49Z",
+                "open_issues": 4,
                 "owner": "AlexanderDilthey",
                 "repo": "MHC-PRG",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1659,12 +2414,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HLA ARD Reduction in Python",
+                "homepage": "https://py-ard.org/",
                 "id": 121410722,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-20T21:40:51Z",
+                "open_issues": 12,
                 "owner": "nmdp-bioinformatics",
                 "repo": "py-ard",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "hla"
+                ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             },
@@ -1675,12 +2437,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Development of the HLAtools R package",
+                "homepage": null,
                 "id": 750506679,
                 "language": "R",
+                "license": null,
                 "last_commit": "2026-07-28T05:40:01Z",
+                "open_issues": 1,
                 "owner": "sjmack",
                 "repo": "HLAtools",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
             }
@@ -1694,15 +2461,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:27:41.249Z",
+    "last_updated": "2026-08-29T04:53:06.325Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
+      "homepage": null,
       "id": 232637997,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-02-12T11:49:50Z",
+      "open_issues": 0,
       "owner": "slowkow",
       "repo": "awesome-vdj",
-      "stars": 242
+      "stars": 242,
+      "topics": [
+        "antibody",
+        "awesome-list",
+        "b-cell-receptor",
+        "bcr",
+        "bioinformatics",
+        "hla",
+        "hla-database",
+        "hla-typing",
+        "immunology",
+        "t-cell-receptor",
+        "tcr",
+        "vdj"
+      ]
     },
     "original_repository_sha": "fa725fd8a066efc798ae1ac1f71eaa49e69d2291",
     "enhanced_repository": "enhansome/enhansome-vdj",
