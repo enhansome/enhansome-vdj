@@ -118,7 +118,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Repertoire Analysis
 
-* [**immunarch: An R Package for Painless Bioinformatics Analysis of T-cell and B-cell Immune Repertoire Data**](https://github.com/immunomind/immunarch) ⭐ 341 | 🐛 9 | 🌐 R | 📅 2026-08-18 — immunarch is an R package designed to analyse T-cell receptor (TCR) and B-cell receptor (BCR) repertoires, aimed at medical scientists and bioinformaticians. The mission of immunarch is to make imm...<br>⭐ [334](https://github.com/immunomind/immunarch/stargazers) ⭐ 341 | 🐛 9 | 🌐 R | 📅 2026-08-18 · `R`
+* [**immunarch: An R Package for Painless Bioinformatics Analysis of T-cell and B-cell Immune Repertoire Data**](https://github.com/immunomind/immunarch) ⭐ 342 | 🐛 9 | 🌐 R | 📅 2026-08-18 — immunarch is an R package designed to analyse T-cell receptor (TCR) and B-cell receptor (BCR) repertoires, aimed at medical scientists and bioinformaticians. The mission of immunarch is to make imm...<br>⭐ [334](https://github.com/immunomind/immunarch/stargazers) ⭐ 342 | 🐛 9 | 🌐 R | 📅 2026-08-18 · `R`
 
 * [**msm: Max Snippet Model**](https://github.com/jostmey/msm) ⭐ 176 | 🐛 0 | 🌐 Python | 📅 2023-05-01 — Improved statistical classifier for immune repertoires<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33868241/) · 🪝 [8](https://www.semanticscholar.org/paper/77b6920d6e016f551c73c7d6eb5ac385128772f5) · ⭐ [177](https://github.com/jostmey/msm/stargazers) ⭐ 176 | 🐛 0 | 🌐 Python | 📅 2023-05-01 · `Python`
 
@@ -178,7 +178,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Epitope Prediction
 
-* [**epitopeprediction**](https://github.com/nf-core/epitopeprediction) ⭐ 55 | 🐛 28 | 🌐 Nextflow | 📅 2026-08-07 — A bioinformatics best-practice analysis pipeline for epitope prediction and annotation<br>⭐ [49](https://github.com/nf-core/epitopeprediction/stargazers) ⭐ 55 | 🐛 28 | 🌐 Nextflow | 📅 2026-08-07 · [Homepage](https://nf-co.re/epitopeprediction) · `Nextflow`
+* [**epitopeprediction**](https://github.com/nf-core/epitopeprediction) ⭐ 56 | 🐛 28 | 🌐 Nextflow | 📅 2026-08-07 — A bioinformatics best-practice analysis pipeline for epitope prediction and annotation<br>⭐ [49](https://github.com/nf-core/epitopeprediction/stargazers) ⭐ 56 | 🐛 28 | 🌐 Nextflow | 📅 2026-08-07 · [Homepage](https://nf-co.re/epitopeprediction) · `Nextflow`
 
 * [**epitopepredict**](https://github.com/dmnfarrell/epitopepredict) ⭐ 54 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-08-02 — Python package and command line tool for epitope prediction<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/36824339/) · 🪝 [6](https://www.semanticscholar.org/paper/073554e81b4370b4f409fa7bdedaa9c36e78d83f) · ⭐ [52](https://github.com/dmnfarrell/epitopepredict/stargazers) ⭐ 54 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-08-02 · `Jupyter Notebook`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

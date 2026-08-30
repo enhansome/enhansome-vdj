@@ -550,7 +550,7 @@
                 "open_issues": 9,
                 "owner": "immunomind",
                 "repo": "immunarch",
-                "stars": 341,
+                "stars": 342,
                 "topics": [
                   "airr",
                   "bioinformatics",
@@ -1219,7 +1219,7 @@
                 "open_issues": 28,
                 "owner": "nf-core",
                 "repo": "epitopeprediction",
-                "stars": 55,
+                "stars": 56,
                 "topics": [
                   "epitope",
                   "epitope-prediction",
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T20:24:00.147Z",
+    "last_updated": "2026-08-30T20:33:17.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
