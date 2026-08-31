@@ -4,7 +4,7 @@
 
 Here, researchers can find links to tools and resources for computational analysis of HLA and VDJ data.
 
-[Contributions are welcome!](https://github.com/slowkow/awesome-vdj/blob/master/CONTRIBUTING.md) ⭐ 242 | 🐛 0 | 📅 2026-02-12
+[Contributions are welcome!](https://github.com/slowkow/awesome-vdj/blob/master/CONTRIBUTING.md) ⭐ 243 | 🐛 0 | 📅 2026-02-12
 
 [Antigen]: https://en.wikipedia.org/wiki/Antigen
 
@@ -12,7 +12,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 [HLA genes]: https://en.wikipedia.org/wiki/Human_leukocyte_antigen
 
-[![CI](https://github.com/slowkow/awesome-vdj/workflows/CI/badge.svg)](https://github.com/slowkow/awesome-vdj/actions) ⭐ 242 | 🐛 0 | 📅 2026-02-12
+[![CI](https://github.com/slowkow/awesome-vdj/workflows/CI/badge.svg)](https://github.com/slowkow/awesome-vdj/actions) ⭐ 243 | 🐛 0 | 📅 2026-02-12
 
 **Table of Contents**
 
@@ -66,7 +66,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Sequence Repositories
 
-* [**immuneACCESS**](https://clients.adaptivebiotech.com/immuneaccess) — Dive into the world’s largest collection of TCR and BCR sequences. Easily incorporate millions of sequences worth of public data into your next papers and projects using immunoSEQ Analyzer. Constru...<br>[Docs](https://github.com/slowkow/awesome-vdj/blob/master/download-from-immuneaccess.md) ⭐ 242 | 🐛 0 | 📅 2026-02-12 · [Homepage](https://clients.adaptivebiotech.com/immuneaccess)
+* [**immuneACCESS**](https://clients.adaptivebiotech.com/immuneaccess) — Dive into the world’s largest collection of TCR and BCR sequences. Easily incorporate millions of sequences worth of public data into your next papers and projects using immunoSEQ Analyzer. Constru...<br>[Docs](https://github.com/slowkow/awesome-vdj/blob/master/download-from-immuneaccess.md) ⭐ 243 | 🐛 0 | 📅 2026-02-12 · [Homepage](https://clients.adaptivebiotech.com/immuneaccess)
 
 * [**iReceptor**](https://gateway.ireceptor.org/home) — iReceptor facilitates the curation, analysis and sharing of antibody/B-cell and T-cell receptor repertoires (Adaptive Immune Receptor Repertoire or AIRR-seq data) from multiple labs and institution...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/29944754/) · 🪝 [133](https://www.semanticscholar.org/paper/5d764e3cb11d09a8f2ec8bdce3b390d6e42d3f8a) · [Homepage](https://gateway.ireceptor.org/home)
 
@@ -90,7 +90,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**TRUST4: TCR and BCR assembly from RNA-seq data**](https://github.com/liulab-dfci/TRUST4) ⭐ 362 | 🐛 125 | 🌐 C | 📅 2026-08-27 — Tcr Receptor Utilities for Solid Tissue (TRUST) is a computational tool to analyze TCR and BCR sequences using unselected RNA sequencing data, profiled from solid tissues, including tumors. TRUST4 ...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33986545/) · 🪝 [227](https://www.semanticscholar.org/paper/7564c0e07f7135c0ec2eddb4009e6a51febdc991) · ⭐ [337](https://github.com/liulab-dfci/TRUST4/stargazers) ⭐ 362 | 🐛 125 | 🌐 C | 📅 2026-08-27 · `C` `C++` `Perl`
 
-* [**Scirpy: a Scanpy extension for analyzing single-cell T-cell receptor-sequencing data**](https://github.com/scverse/scirpy) ⭐ 265 | 🐛 46 | 🌐 Python | 📅 2026-08-26 — A scalable Python toolkit that provides simplified access to the analysis and visualization of immune repertoires from single cells and seamless integration with transcriptomic data.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32614448/) · 🪝 [212](https://www.semanticscholar.org/paper/fcd27b7bd7ba5b02c64910cf80c2b5b7fabd12e4) · ⭐ [243](https://github.com/scverse/scirpy/stargazers) ⭐ 265 | 🐛 46 | 🌐 Python | 📅 2026-08-26 · [Homepage](https://scirpy.scverse.org/en/latest/) · `Python`
+* [**Scirpy: a Scanpy extension for analyzing single-cell T-cell receptor-sequencing data**](https://github.com/scverse/scirpy) ⭐ 265 | 🐛 46 | 🌐 Python | 📅 2026-08-31 — A scalable Python toolkit that provides simplified access to the analysis and visualization of immune repertoires from single cells and seamless integration with transcriptomic data.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32614448/) · 🪝 [212](https://www.semanticscholar.org/paper/fcd27b7bd7ba5b02c64910cf80c2b5b7fabd12e4) · ⭐ [243](https://github.com/scverse/scirpy/stargazers) ⭐ 265 | 🐛 46 | 🌐 Python | 📅 2026-08-31 · [Homepage](https://scirpy.scverse.org/en/latest/) · `Python`
 
 * [**STARTRAC**](https://github.com/Japrin/STARTRAC) ⭐ 124 | 🐛 10 | 🌐 HTML | 📅 2025-04-26 — STARTRAC(Single T-cell Analysis by Rna-seq and Tcr TRACking)<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33900375/) · 🪝 [27](https://www.semanticscholar.org/paper/11c92257f87b515bc46af2b874ff14890120fadd) · ⭐ [114](https://github.com/Japrin/STARTRAC/stargazers) ⭐ 124 | 🐛 10 | 🌐 HTML | 📅 2025-04-26 · `HTML`
 
@@ -118,7 +118,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Repertoire Analysis
 
-* [**immunarch: An R Package for Painless Bioinformatics Analysis of T-cell and B-cell Immune Repertoire Data**](https://github.com/immunomind/immunarch) ⭐ 342 | 🐛 9 | 🌐 R | 📅 2026-08-18 — immunarch is an R package designed to analyse T-cell receptor (TCR) and B-cell receptor (BCR) repertoires, aimed at medical scientists and bioinformaticians. The mission of immunarch is to make imm...<br>⭐ [334](https://github.com/immunomind/immunarch/stargazers) ⭐ 342 | 🐛 9 | 🌐 R | 📅 2026-08-18 · `R`
+* [**immunarch: An R Package for Painless Bioinformatics Analysis of T-cell and B-cell Immune Repertoire Data**](https://github.com/immunomind/immunarch) ⭐ 342 | 🐛 8 | 🌐 R | 📅 2026-08-18 — immunarch is an R package designed to analyse T-cell receptor (TCR) and B-cell receptor (BCR) repertoires, aimed at medical scientists and bioinformaticians. The mission of immunarch is to make imm...<br>⭐ [334](https://github.com/immunomind/immunarch/stargazers) ⭐ 342 | 🐛 8 | 🌐 R | 📅 2026-08-18 · `R`
 
 * [**msm: Max Snippet Model**](https://github.com/jostmey/msm) ⭐ 176 | 🐛 0 | 🌐 Python | 📅 2023-05-01 — Improved statistical classifier for immune repertoires<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33868241/) · 🪝 [8](https://www.semanticscholar.org/paper/77b6920d6e016f551c73c7d6eb5ac385128772f5) · ⭐ [177](https://github.com/jostmey/msm/stargazers) ⭐ 176 | 🐛 0 | 🌐 Python | 📅 2023-05-01 · `Python`
 
@@ -190,7 +190,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2026-08-29 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2026-08-29 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2026-08-31 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2026-08-31 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -232,7 +232,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**Allele Frequency Net Database**](http://www.allelefrequencies.net/collaborators.asp) — AFND is a public resource that collects information on allele, genotype and haplotype frequencies from different polymorphic areas in the human genome such as human leukocyte antigens (HLA), killer...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/31722398/) · 🪝 [641](https://www.semanticscholar.org/paper/3ee580308b6c1e1f3fadc00690fe871587a70885) · [Homepage](http://www.allelefrequencies.net/collaborators.asp)
 
-* [**IMGTHLA**](https://github.com/ANHIG/IMGTHLA) ⭐ 265 | 🐛 3 | 🌐 Parrot | 📅 2026-08-26 — The IPD-IMGT/HLA Database provides a specialist database for sequences of the human major histocompatibility complex (MHC) and includes the official sequences named by the WHO Nomenclature Committe...<br>⭐ [246](https://github.com/ANHIG/IMGTHLA/stargazers) ⭐ 265 | 🐛 3 | 🌐 Parrot | 📅 2026-08-26 · [Homepage](https://www.ebi.ac.uk/ipd/imgt/hla/)
+* [**IMGTHLA**](https://github.com/ANHIG/IMGTHLA) ⭐ 266 | 🐛 3 | 🌐 Parrot | 📅 2026-08-26 — The IPD-IMGT/HLA Database provides a specialist database for sequences of the human major histocompatibility complex (MHC) and includes the official sequences named by the WHO Nomenclature Committe...<br>⭐ [246](https://github.com/ANHIG/IMGTHLA/stargazers) ⭐ 266 | 🐛 3 | 🌐 Parrot | 📅 2026-08-26 · [Homepage](https://www.ebi.ac.uk/ipd/imgt/hla/)
 
 * [**pHLA3D: An online database of predicted three-dimensional structures of HLA molecules**](https://www.phla3d.com.br/) — The limited number of solved HLA structures available in the literature led our research group to develop, in 2019, the pHLA3D, an online database of predicted three-dimensional structures of HLA m...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/31239187/) · 🪝 [98](https://www.semanticscholar.org/paper/810def2f2bb6693affa9a449255555ea71fdc064) · [Homepage](https://www.phla3d.com.br/)
 
@@ -256,7 +256,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**MATER: Minimizer RNAseq HLA typer**](https://github.com/genentech/midasHLA) ⭐ 14 | 🐛 11 | 🌐 R | 📅 2024-01-31 — MATER is a minimizer-based HLA typer for RNAseq read dataset. In a typical RNAseq dataset, the reads sampled from HLA genes are less uniform and may miss regions that makes assembly or variant call...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/34228721/) · 🪝 [24](https://www.semanticscholar.org/paper/16f5a5d9b7119ea85eab9aae4650445770a03b3b) · ⭐ [14](https://github.com/genentech/midasHLA/stargazers) ⭐ 14 | 🐛 11 | 🌐 R | 📅 2024-01-31 · `Python` `R` `C`
 
-* [**BIGDAWG: Case-Control Analysis of Multi-Allelic Loci**](https://github.com/IgDAWG/BIGDAWG) ⭐ 4 | 🐛 4 | 🌐 R | 📅 2026-05-04 — Data sets and functions for chi-squared Hardy-Weinberg and case-control association tests of highly polymorphic genetic data \[e.g., human leukocyte antigen (HLA) data]. Performs association tests a...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26708359/) · 🪝 [82](https://www.semanticscholar.org/paper/8e4c6ba503b7d729681e09f60b22782fd36b3ad4) · ⭐ [3](https://github.com/IgDAWG/BIGDAWG/stargazers) ⭐ 4 | 🐛 4 | 🌐 R | 📅 2026-05-04 · `R`
+* [**BIGDAWG: Case-Control Analysis of Multi-Allelic Loci**](https://github.com/IgDAWG/BIGDAWG) ⭐ 4 | 🐛 6 | 🌐 R | 📅 2026-05-04 — Data sets and functions for chi-squared Hardy-Weinberg and case-control association tests of highly polymorphic genetic data \[e.g., human leukocyte antigen (HLA) data]. Performs association tests a...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26708359/) · 🪝 [82](https://www.semanticscholar.org/paper/8e4c6ba503b7d729681e09f60b22782fd36b3ad4) · ⭐ [3](https://github.com/IgDAWG/BIGDAWG/stargazers) ⭐ 4 | 🐛 6 | 🌐 R | 📅 2026-05-04 · `R`
 
 * [**HLA Electrostatic Potential**](https://pubmed.ncbi.nlm.nih.gov/30429288/) — A method for predicting humoral alloimmunity from differences in donor and recipient HLA surface electrostatic potential, enabling assessment of immunological compatibility in transplantation.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/30429288/) · 🪝 [53](https://www.semanticscholar.org/paper/1c38ce8e6f0a43a1c806a8cd65d105879459bdb4)
 
@@ -270,13 +270,13 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**xHLA: Fast and accurate HLA typing from short read sequence data**](https://github.com/humanlongevity/HLA) ⭐ 117 | 🐛 47 | 🌐 Jupyter Notebook | 📅 2023-10-13 — xHLA iteratively refines the mapping results at the amino acid level to achieve 99 to 100% 4-digit typing accuracy for both class I and II HLA genes, taking only about 3 minutes to process a 30X wh...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28674023/) · 🪝 [125](https://www.semanticscholar.org/paper/0e7b3c0eb32913f710c93bfe149610bc2d2ce8e3) · ⭐ [113](https://github.com/humanlongevity/HLA/stargazers) ⭐ 117 | 🐛 47 | 🌐 Jupyter Notebook | 📅 2023-10-13 · [Homepage](https://pubmed.ncbi.nlm.nih.gov/28674023) · `Python` `R` `Perl` `Bash`
 
-* [**T1K: efficient and accurate inference of KIR or HLA alleles from RNA-seq, whole-genome sequencing, or whole-exome sequencing data**](https://github.com/mourisl/T1K) ⭐ 111 | 🐛 1 | 🌐 C | 📅 2026-08-18 — T1K (The ONE genotyper for Kir and HLA) is a computational tool to infer the alleles for the polymorphic genes such as KIR and HLA. T1K calculates the allele abundances based on the RNA-seq/WES/WGS...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/37169596/) · 🪝 [25](https://www.semanticscholar.org/paper/c8ff85a07e0dc87973ba73daccc10731f225a914) · ⭐ [94](https://github.com/mourisl/T1K/stargazers) ⭐ 111 | 🐛 1 | 🌐 C | 📅 2026-08-18 · `C` `C++` `Python` `Perl`
+* [**T1K: efficient and accurate inference of KIR or HLA alleles from RNA-seq, whole-genome sequencing, or whole-exome sequencing data**](https://github.com/mourisl/T1K) ⭐ 112 | 🐛 1 | 🌐 C | 📅 2026-08-18 — T1K (The ONE genotyper for Kir and HLA) is a computational tool to infer the alleles for the polymorphic genes such as KIR and HLA. T1K calculates the allele abundances based on the RNA-seq/WES/WGS...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/37169596/) · 🪝 [25](https://www.semanticscholar.org/paper/c8ff85a07e0dc87973ba73daccc10731f225a914) · ⭐ [94](https://github.com/mourisl/T1K/stargazers) ⭐ 112 | 🐛 1 | 🌐 C | 📅 2026-08-18 · `C` `C++` `Python` `Perl`
 
 * [**hlatyping**](https://github.com/nf-core/hlatyping) ⭐ 81 | 🐛 13 | 🌐 Nextflow | 📅 2026-08-20 — Precision HLA typing from next-generation sequencing data<br>⭐ [76](https://github.com/nf-core/hlatyping/stargazers) ⭐ 81 | 🐛 13 | 🌐 Nextflow | 📅 2026-08-20 · [Homepage](https://nf-co.re/hlatyping) · `Nextflow`
 
 * [**scHLAcount**](https://github.com/10XGenomics/scHLAcount) ⭐ 64 | 🐛 15 | 🌐 TeX | 📅 2021-11-05 — Count HLA alleles in single-cell RNA-seq data<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32330223/) · 🪝 [20](https://www.semanticscholar.org/paper/f38834e9b0845e743e8e41604c0ee9d327d3fe48) · ⭐ [63](https://github.com/10XGenomics/scHLAcount/stargazers) ⭐ 64 | 🐛 15 | 🌐 TeX | 📅 2021-11-05 · `TeX`
 
-* [**SpecHLA**](https://github.com/deepomicslab/SpecHLA) ⭐ 61 | 🐛 8 | 🌐 C++ | 📅 2026-07-27 — SpecHLA reconstructs entire diploid sequences of HLA genes and infers LOH events. It supports HLA-A, -B, -C, -DPA1, -DPB1, -DQA1, -DQB1, and -DRB1 genes. Also, it supports both short- and long-read...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/37714157/) · 🪝 [11](https://www.semanticscholar.org/paper/78feeabf537fe7503ff5fe2421b2668f635fa504) · ⭐ [53](https://github.com/deepomicslab/SpecHLA/stargazers) ⭐ 61 | 🐛 8 | 🌐 C++ | 📅 2026-07-27 · `C++`
+* [**SpecHLA**](https://github.com/deepomicslab/SpecHLA) ⭐ 62 | 🐛 8 | 🌐 C++ | 📅 2026-07-27 — SpecHLA reconstructs entire diploid sequences of HLA genes and infers LOH events. It supports HLA-A, -B, -C, -DPA1, -DPB1, -DQA1, -DQB1, and -DRB1 genes. Also, it supports both short- and long-read...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/37714157/) · 🪝 [11](https://www.semanticscholar.org/paper/78feeabf537fe7503ff5fe2421b2668f635fa504) · ⭐ [53](https://github.com/deepomicslab/SpecHLA/stargazers) ⭐ 62 | 🐛 8 | 🌐 C++ | 📅 2026-07-27 · `C++`
 
 * [**seq2HLA: HLA typing from RNA-Seq sequence reads**](https://github.com/TRON-Bioinformatics/seq2HLA) ⭐ 52 | 🐛 17 | 🌐 Python | 📅 2025-08-09 — In-silico method written in Python and R to determine HLA genotypes of a sample. seq2HLA takes standard RNA-Seq sequence reads in fastq format as input, uses a bowtie index comprising all HLA allel...<br>⭐ [50](https://github.com/TRON-Bioinformatics/seq2HLA/stargazers) ⭐ 52 | 🐛 17 | 🌐 Python | 📅 2025-08-09 · `Python` `R`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

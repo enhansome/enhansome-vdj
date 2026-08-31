@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "slowkow",
             "repo": "awesome-vdj",
-            "stars": 242,
+            "stars": 243,
             "topics": [
               "antibody",
               "awesome-list",
@@ -149,7 +149,7 @@
                 "open_issues": 0,
                 "owner": "slowkow",
                 "repo": "awesome-vdj",
-                "stars": 242,
+                "stars": 243,
                 "topics": [
                   "antibody",
                   "awesome-list",
@@ -234,7 +234,7 @@
                 "id": 232568640,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-26T11:15:21Z",
+                "last_commit": "2026-08-31T18:09:28Z",
                 "open_issues": 46,
                 "owner": "scverse",
                 "repo": "scirpy",
@@ -547,7 +547,7 @@
                 "language": "R",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-18T18:15:05Z",
-                "open_issues": 9,
+                "open_issues": 8,
                 "owner": "immunomind",
                 "repo": "immunarch",
                 "stars": 342,
@@ -1353,8 +1353,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T04:44:09Z",
-                "open_issues": 5,
+                "last_commit": "2026-08-31T22:23:07Z",
+                "open_issues": 4,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30,
@@ -1879,7 +1879,7 @@
                 "language": "R",
                 "license": null,
                 "last_commit": "2026-05-04T18:45:45Z",
-                "open_issues": 4,
+                "open_issues": 6,
                 "owner": "IgDAWG",
                 "repo": "BIGDAWG",
                 "stars": 4,
@@ -2000,7 +2000,7 @@
                 "open_issues": 1,
                 "owner": "mourisl",
                 "repo": "T1K",
-                "stars": 111,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -2075,7 +2075,7 @@
                 "open_issues": 8,
                 "owner": "deepomicslab",
                 "repo": "SpecHLA",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "allelic-imbalance",
                   "cancer",
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T20:33:17.655Z",
+    "last_updated": "2026-08-31T22:26:27.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
@@ -2473,7 +2473,7 @@
       "open_issues": 0,
       "owner": "slowkow",
       "repo": "awesome-vdj",
-      "stars": 242,
+      "stars": 243,
       "topics": [
         "antibody",
         "awesome-list",
