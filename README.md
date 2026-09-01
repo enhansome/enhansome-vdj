@@ -98,7 +98,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**CONGA: Clonotype Neighbor Graph Analysis**](https://github.com/phbradley/conga) ⭐ 100 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-06-15 — CONGA was developed to detect correlation between T cell gene expression profile and TCR sequence in single-cell datasets.<br>[Paper](https://doi.org/10.1101/2020.06.04.134536) · 🪝 [9](https://www.semanticscholar.org/paper/d0a9125325f851f69dbc486e2b2e75f9ba63d4f5) · ⭐ [93](https://github.com/phbradley/conga/stargazers) ⭐ 100 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-06-15 · `Python`
 
-* [**airrflow**](https://github.com/nf-core/airrflow) ⭐ 78 | 🐛 51 | 🌐 Nextflow | 📅 2026-08-28 — B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38293151/) · 🪝 [10](https://www.semanticscholar.org/paper/https://www.semanticscholar.org/paper/04c2e0be97ba6d6035506595694eb22e2093037b) · ⭐ [73](https://github.com/nf-core/airrflow/stargazers) ⭐ 78 | 🐛 51 | 🌐 Nextflow | 📅 2026-08-28 · [Homepage](https://nf-co.re/airrflow) · `Nextflow`
+* [**airrflow**](https://github.com/nf-core/airrflow) ⭐ 81 | 🐛 53 | 🌐 Nextflow | 📅 2026-08-28 — B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38293151/) · 🪝 [10](https://www.semanticscholar.org/paper/https://www.semanticscholar.org/paper/04c2e0be97ba6d6035506595694eb22e2093037b) · ⭐ [73](https://github.com/nf-core/airrflow/stargazers) ⭐ 81 | 🐛 53 | 🌐 Nextflow | 📅 2026-08-28 · [Homepage](https://nf-co.re/airrflow) · `Nextflow`
 
 * [**mvTCR**](https://github.com/SchubertLab/mvTCR) ⭐ 60 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-11-01 — A multi-view Variational Autoencoder (mvTCR) to jointly embed transcriptomic and TCR sequence information at a single-cell level to better capture the phenotypic behavior of T cells.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38956082/) · 🪝 [17](https://www.semanticscholar.org/paper/62559a2f08e304d5a6149f4605e45529ac2c150e) · ⭐ [56](https://github.com/SchubertLab/mvTCR/stargazers) ⭐ 60 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-11-01 · [Homepage](https://zenodo.org/record/5006839) · `Python`
 
@@ -142,7 +142,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Sequence Processing
 
-* [**MiXCR: a universal tool for fast and accurate analysis of T- and B- cell receptor repertoire sequencing data**](https://github.com/milaboratory/mixcr) ⭐ 399 | 🐛 127 | 🌐 Kotlin | 📅 2026-07-10 — MiXCR is a universal framework that processes big immunome data from raw sequences to quantitated clonotypes. MiXCR efficiently handles paired- and single-end reads, considers sequence quality, cor...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/39433438/) · 🪝 [4](https://www.semanticscholar.org/paper/0eaa429866419cf0a165ccae340447d6f2a4c925) · ⭐ [380](https://github.com/milaboratory/mixcr/stargazers) ⭐ 399 | 🐛 127 | 🌐 Kotlin | 📅 2026-07-10 · `Java`
+* [**MiXCR: a universal tool for fast and accurate analysis of T- and B- cell receptor repertoire sequencing data**](https://github.com/milaboratory/mixcr) ⭐ 400 | 🐛 126 | 🌐 Kotlin | 📅 2026-07-10 — MiXCR is a universal framework that processes big immunome data from raw sequences to quantitated clonotypes. MiXCR efficiently handles paired- and single-end reads, considers sequence quality, cor...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/39433438/) · 🪝 [4](https://www.semanticscholar.org/paper/0eaa429866419cf0a165ccae340447d6f2a4c925) · ⭐ [380](https://github.com/milaboratory/mixcr/stargazers) ⭐ 400 | 🐛 126 | 🌐 Kotlin | 📅 2026-07-10 · `Java`
 
 * [**stitchr**](https://github.com/JamieHeather/stitchr) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2026-03-12 — Stitchr - a Python script to stitch together coding TCR nucleotide sequences from V, J, and CDR3 info<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/35325179/) · 🪝 [22](https://www.semanticscholar.org/paper/aeaf4f3d97ca02f2b25cf040d6ad39a62db41a1e) · ⭐ [64](https://github.com/JamieHeather/stitchr/stargazers) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2026-03-12 · [Homepage](https://jamieheather.github.io/stitchr/) · `Python`
 
@@ -178,7 +178,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Epitope Prediction
 
-* [**epitopeprediction**](https://github.com/nf-core/epitopeprediction) ⭐ 56 | 🐛 28 | 🌐 Nextflow | 📅 2026-08-07 — A bioinformatics best-practice analysis pipeline for epitope prediction and annotation<br>⭐ [49](https://github.com/nf-core/epitopeprediction/stargazers) ⭐ 56 | 🐛 28 | 🌐 Nextflow | 📅 2026-08-07 · [Homepage](https://nf-co.re/epitopeprediction) · `Nextflow`
+* [**epitopeprediction**](https://github.com/nf-core/epitopeprediction) ⭐ 56 | 🐛 29 | 🌐 Nextflow | 📅 2026-09-01 — A bioinformatics best-practice analysis pipeline for epitope prediction and annotation<br>⭐ [49](https://github.com/nf-core/epitopeprediction/stargazers) ⭐ 56 | 🐛 29 | 🌐 Nextflow | 📅 2026-09-01 · [Homepage](https://nf-co.re/epitopeprediction) · `Nextflow`
 
 * [**epitopepredict**](https://github.com/dmnfarrell/epitopepredict) ⭐ 54 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-08-02 — Python package and command line tool for epitope prediction<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/36824339/) · 🪝 [6](https://www.semanticscholar.org/paper/073554e81b4370b4f409fa7bdedaa9c36e78d83f) · ⭐ [52](https://github.com/dmnfarrell/epitopepredict/stargazers) ⭐ 54 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-08-02 · `Jupyter Notebook`
 
@@ -190,7 +190,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2026-08-31 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2026-08-31 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2026-09-01 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2026-09-01 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -272,7 +272,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**T1K: efficient and accurate inference of KIR or HLA alleles from RNA-seq, whole-genome sequencing, or whole-exome sequencing data**](https://github.com/mourisl/T1K) ⭐ 112 | 🐛 1 | 🌐 C | 📅 2026-08-18 — T1K (The ONE genotyper for Kir and HLA) is a computational tool to infer the alleles for the polymorphic genes such as KIR and HLA. T1K calculates the allele abundances based on the RNA-seq/WES/WGS...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/37169596/) · 🪝 [25](https://www.semanticscholar.org/paper/c8ff85a07e0dc87973ba73daccc10731f225a914) · ⭐ [94](https://github.com/mourisl/T1K/stargazers) ⭐ 112 | 🐛 1 | 🌐 C | 📅 2026-08-18 · `C` `C++` `Python` `Perl`
 
-* [**hlatyping**](https://github.com/nf-core/hlatyping) ⭐ 81 | 🐛 13 | 🌐 Nextflow | 📅 2026-08-20 — Precision HLA typing from next-generation sequencing data<br>⭐ [76](https://github.com/nf-core/hlatyping/stargazers) ⭐ 81 | 🐛 13 | 🌐 Nextflow | 📅 2026-08-20 · [Homepage](https://nf-co.re/hlatyping) · `Nextflow`
+* [**hlatyping**](https://github.com/nf-core/hlatyping) ⭐ 81 | 🐛 13 | 🌐 Nextflow | 📅 2026-09-01 — Precision HLA typing from next-generation sequencing data<br>⭐ [76](https://github.com/nf-core/hlatyping/stargazers) ⭐ 81 | 🐛 13 | 🌐 Nextflow | 📅 2026-09-01 · [Homepage](https://nf-co.re/hlatyping) · `Nextflow`
 
 * [**scHLAcount**](https://github.com/10XGenomics/scHLAcount) ⭐ 64 | 🐛 15 | 🌐 TeX | 📅 2021-11-05 — Count HLA alleles in single-cell RNA-seq data<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32330223/) · 🪝 [20](https://www.semanticscholar.org/paper/f38834e9b0845e743e8e41604c0ee9d327d3fe48) · ⭐ [63](https://github.com/10XGenomics/scHLAcount/stargazers) ⭐ 64 | 🐛 15 | 🌐 TeX | 📅 2021-11-05 · `TeX`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
