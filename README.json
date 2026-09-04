@@ -79,7 +79,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T02:44:16Z",
-                "open_issues": 125,
+                "open_issues": 126,
                 "owner": "antigenomics",
                 "repo": "vdjdb-db",
                 "stars": 155,
@@ -196,7 +196,7 @@
                 "open_issues": 0,
                 "owner": "BorchLab",
                 "repo": "scRepertoire",
-                "stars": 374,
+                "stars": 375,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -708,7 +708,7 @@
                 "id": 46077907,
                 "language": "Pkl",
                 "license": "MIT",
-                "last_commit": "2026-03-30T17:05:42Z",
+                "last_commit": "2026-09-03T23:10:51Z",
                 "open_issues": 6,
                 "owner": "brineylab",
                 "repo": "abstar",
@@ -831,8 +831,8 @@
                 "id": 33134597,
                 "language": "Kotlin",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T12:16:12Z",
-                "open_issues": 127,
+                "last_commit": "2026-09-04T16:51:10Z",
+                "open_issues": 126,
                 "owner": "milaboratory",
                 "repo": "mixcr",
                 "stars": 400,
@@ -1353,8 +1353,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T17:33:15Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-04T19:46:23Z",
+                "open_issues": 7,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30,
@@ -2000,7 +2000,7 @@
                 "open_issues": 1,
                 "owner": "mourisl",
                 "repo": "T1K",
-                "stars": 112,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -2017,8 +2017,8 @@
                 "id": 140573587,
                 "language": "Nextflow",
                 "license": "MIT",
-                "last_commit": "2026-09-01T12:58:38Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-03T23:11:01Z",
+                "open_issues": 14,
                 "owner": "nf-core",
                 "repo": "hlatyping",
                 "stars": 81,
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T20:29:52.399Z",
+    "last_updated": "2026-09-04T20:16:09.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
