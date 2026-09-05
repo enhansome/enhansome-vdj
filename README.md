@@ -130,7 +130,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**immuneML**](https://github.com/uio-bmi/immuneML) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-09-03 — immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.<br>⭐ [73](https://github.com/uio-bmi/immuneML/stargazers) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-09-03 · [Homepage](https://immuneml.uio.no) · `Python`
 
-* [**abstar**](https://github.com/brineylab/abstar) ⭐ 45 | 🐛 6 | 🌐 Pkl | 📅 2026-09-03 — VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.<br>⭐ [44](https://github.com/brineylab/abstar/stargazers) ⭐ 45 | 🐛 6 | 🌐 Pkl | 📅 2026-09-03 · `Pkl`
+* [**abstar**](https://github.com/brineylab/abstar) ⭐ 45 | 🐛 6 | 🌐 Pkl | 📅 2026-09-04 — VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.<br>⭐ [44](https://github.com/brineylab/abstar/stargazers) ⭐ 45 | 🐛 6 | 🌐 Pkl | 📅 2026-09-04 · `Pkl`
 
 * [**vdjer**](https://github.com/mozack/vdjer) ⭐ 29 | 🐛 8 | 🌐 C | 📅 2022-08-09 — V'DJer -  B Cell Receptor Repertoire Reconstruction from short read mRNA-Seq data<br>⭐ [29](https://github.com/mozack/vdjer/stargazers) ⭐ 29 | 🐛 8 | 🌐 C | 📅 2022-08-09 · `C`
 
@@ -186,11 +186,11 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**neoantigens**](https://github.com/umccr/neoantigens) ⚠️ Archived — Exploring novel tumor epitope identification<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/36604431/) · 🪝 [624](https://www.semanticscholar.org/paper/327da2a2b6bdbb3eea81e8a11b832c1955dd33d7) · ⭐ [37](https://github.com/umccr/neoantigens/stargazers) ⚠️ Archived · `Python`
 
-* [**MixTCRpred**](https://github.com/GfellerLab/MixTCRpred) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2025-09-09 — Predictor of TCR-epitope interactions<br>⭐ [34](https://github.com/GfellerLab/MixTCRpred/stargazers) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2025-09-09 · `Python`
+* [**MixTCRpred**](https://github.com/GfellerLab/MixTCRpred) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2025-09-09 — Predictor of TCR-epitope interactions<br>⭐ [34](https://github.com/GfellerLab/MixTCRpred/stargazers) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2025-09-09 · `Python`
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 7 | 🌐 Python | 📅 2026-09-04 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 7 | 🌐 Python | 📅 2026-09-04 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 6 | 🌐 Python | 📅 2026-09-05 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 6 | 🌐 Python | 📅 2026-09-05 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -272,7 +272,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**T1K: efficient and accurate inference of KIR or HLA alleles from RNA-seq, whole-genome sequencing, or whole-exome sequencing data**](https://github.com/mourisl/T1K) ⭐ 113 | 🐛 1 | 🌐 C | 📅 2026-08-18 — T1K (The ONE genotyper for Kir and HLA) is a computational tool to infer the alleles for the polymorphic genes such as KIR and HLA. T1K calculates the allele abundances based on the RNA-seq/WES/WGS...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/37169596/) · 🪝 [25](https://www.semanticscholar.org/paper/c8ff85a07e0dc87973ba73daccc10731f225a914) · ⭐ [94](https://github.com/mourisl/T1K/stargazers) ⭐ 113 | 🐛 1 | 🌐 C | 📅 2026-08-18 · `C` `C++` `Python` `Perl`
 
-* [**hlatyping**](https://github.com/nf-core/hlatyping) ⭐ 81 | 🐛 14 | 🌐 Nextflow | 📅 2026-09-03 — Precision HLA typing from next-generation sequencing data<br>⭐ [76](https://github.com/nf-core/hlatyping/stargazers) ⭐ 81 | 🐛 14 | 🌐 Nextflow | 📅 2026-09-03 · [Homepage](https://nf-co.re/hlatyping) · `Nextflow`
+* [**hlatyping**](https://github.com/nf-core/hlatyping) ⭐ 81 | 🐛 12 | 🌐 Nextflow | 📅 2026-09-04 — Precision HLA typing from next-generation sequencing data<br>⭐ [76](https://github.com/nf-core/hlatyping/stargazers) ⭐ 81 | 🐛 12 | 🌐 Nextflow | 📅 2026-09-04 · [Homepage](https://nf-co.re/hlatyping) · `Nextflow`
 
 * [**scHLAcount**](https://github.com/10XGenomics/scHLAcount) ⭐ 64 | 🐛 15 | 🌐 TeX | 📅 2021-11-05 — Count HLA alleles in single-cell RNA-seq data<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32330223/) · 🪝 [20](https://www.semanticscholar.org/paper/f38834e9b0845e743e8e41604c0ee9d327d3fe48) · ⭐ [63](https://github.com/10XGenomics/scHLAcount/stargazers) ⭐ 64 | 🐛 15 | 🌐 TeX | 📅 2021-11-05 · `TeX`
 
@@ -300,7 +300,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**MixMHC2pred**](https://github.com/GfellerLab/MixMHC2pred) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2026-08-25 — HLA-II ligand predictor.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38907900/) · 🪝 [4](https://www.semanticscholar.org/paper/951c39da3e761004836a22ef928c3ff7a8772542) · ⭐ [46](https://github.com/GfellerLab/MixMHC2pred/stargazers) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2026-08-25 · `C++`
 
-* [**MixMHCpred**](https://github.com/GfellerLab/MixMHCpred) ⭐ 47 | 🐛 2 | 🌐 Python | 📅 2026-03-19 — HLA-I ligand predictor<br>⭐ [43](https://github.com/GfellerLab/MixMHCpred/stargazers) ⭐ 47 | 🐛 2 | 🌐 Python | 📅 2026-03-19 · `Python`
+* [**MixMHCpred**](https://github.com/GfellerLab/MixMHCpred) ⭐ 48 | 🐛 2 | 🌐 Python | 📅 2026-03-19 — HLA-I ligand predictor<br>⭐ [43](https://github.com/GfellerLab/MixMHCpred/stargazers) ⭐ 48 | 🐛 2 | 🌐 Python | 📅 2026-03-19 · `Python`
 
 * [**High-Throughput Prediction of MHC Class I and II Neoantigens with MHCnuggets**](https://github.com/KarchinLab/mhcnuggets) ⭐ 38 | 🐛 9 | 🌐 Python | 📅 2025-07-23 — MHC Class I and Class II neoantigen binding prediction<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/31871119/) · 🪝 [131](https://www.semanticscholar.org/paper/33d23cc483e4b077b1f637444b10e98cb1f6bab7) · ⭐ [33](https://github.com/KarchinLab/mhcnuggets/stargazers) ⭐ 38 | 🐛 9 | 🌐 Python | 📅 2025-07-23 · `Python`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

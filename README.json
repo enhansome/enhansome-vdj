@@ -708,7 +708,7 @@
                 "id": 46077907,
                 "language": "Pkl",
                 "license": "MIT",
-                "last_commit": "2026-09-03T23:10:51Z",
+                "last_commit": "2026-09-04T23:55:58Z",
                 "open_issues": 6,
                 "owner": "brineylab",
                 "repo": "abstar",
@@ -1312,7 +1312,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-09-09T13:17:13Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "GfellerLab",
                 "repo": "MixTCRpred",
                 "stars": 38,
@@ -1353,8 +1353,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T19:46:23Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-05T19:01:12Z",
+                "open_issues": 6,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30,
@@ -2017,8 +2017,8 @@
                 "id": 140573587,
                 "language": "Nextflow",
                 "license": "MIT",
-                "last_commit": "2026-09-03T23:11:01Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-04T20:18:53Z",
+                "open_issues": 12,
                 "owner": "nf-core",
                 "repo": "hlatyping",
                 "stars": 81,
@@ -2305,7 +2305,7 @@
                 "open_issues": 2,
                 "owner": "GfellerLab",
                 "repo": "MixMHCpred",
-                "stars": 47,
+                "stars": 48,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T20:16:09.988Z",
+    "last_updated": "2026-09-05T19:55:48.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
