@@ -53,7 +53,7 @@
             "open_issues": 0,
             "owner": "crazyhottommy",
             "repo": "TCR-BCR-seq-analysis",
-            "stars": 281,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-29T01:27:41.249Z"
@@ -234,8 +234,8 @@
                 "id": 232568640,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-07T18:04:23Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-10T06:37:46Z",
+                "open_issues": 45,
                 "owner": "scverse",
                 "repo": "scirpy",
                 "stars": 265,
@@ -832,7 +832,7 @@
                 "language": "Kotlin",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-08T18:26:12Z",
-                "open_issues": 126,
+                "open_issues": 127,
                 "owner": "milaboratory",
                 "repo": "mixcr",
                 "stars": 401,
@@ -1216,7 +1216,7 @@
                 "language": "Nextflow",
                 "license": "MIT",
                 "last_commit": "2026-09-08T06:30:46Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "nf-core",
                 "repo": "epitopeprediction",
                 "stars": 56,
@@ -1353,8 +1353,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T18:56:53Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-10T19:33:40Z",
+                "open_issues": 8,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30,
@@ -2072,7 +2072,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-07-27T19:13:40Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "deepomicslab",
                 "repo": "SpecHLA",
                 "stars": 62,
@@ -2305,7 +2305,7 @@
                 "open_issues": 2,
                 "owner": "GfellerLab",
                 "repo": "MixMHCpred",
-                "stars": 48,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T20:24:21.460Z",
+    "last_updated": "2026-09-10T20:25:13.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
