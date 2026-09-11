@@ -328,8 +328,8 @@
                 "id": 160348245,
                 "language": "Nextflow",
                 "license": "MIT",
-                "last_commit": "2026-08-28T12:55:06Z",
-                "open_issues": 54,
+                "last_commit": "2026-09-11T14:42:49Z",
+                "open_issues": 55,
                 "owner": "nf-core",
                 "repo": "airrflow",
                 "stars": 81,
@@ -580,7 +580,7 @@
                 "open_issues": 0,
                 "owner": "jostmey",
                 "repo": "msm",
-                "stars": 176,
+                "stars": 175,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -1353,8 +1353,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T19:33:40Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-11T14:09:36Z",
+                "open_issues": 6,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30,
@@ -2000,7 +2000,7 @@
                 "open_issues": 1,
                 "owner": "mourisl",
                 "repo": "T1K",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -2072,7 +2072,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-07-27T19:13:40Z",
-                "open_issues": 9,
+                "open_issues": 8,
                 "owner": "deepomicslab",
                 "repo": "SpecHLA",
                 "stars": 62,
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T20:25:13.141Z",
+    "last_updated": "2026-09-11T20:26:03.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
