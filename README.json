@@ -79,7 +79,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T02:44:16Z",
-                "open_issues": 127,
+                "open_issues": 128,
                 "owner": "antigenomics",
                 "repo": "vdjdb-db",
                 "stars": 155,
@@ -196,7 +196,7 @@
                 "open_issues": 0,
                 "owner": "BorchLab",
                 "repo": "scRepertoire",
-                "stars": 375,
+                "stars": 376,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -2017,8 +2017,8 @@
                 "id": 140573587,
                 "language": "Nextflow",
                 "license": "MIT",
-                "last_commit": "2026-09-04T20:18:53Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-12T12:57:30Z",
+                "open_issues": 11,
                 "owner": "nf-core",
                 "repo": "hlatyping",
                 "stars": 81,
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T20:26:03.576Z",
+    "last_updated": "2026-09-12T20:12:07.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
