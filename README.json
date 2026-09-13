@@ -1215,8 +1215,8 @@
                 "id": 159524795,
                 "language": "Nextflow",
                 "license": "MIT",
-                "last_commit": "2026-09-08T06:30:46Z",
-                "open_issues": 32,
+                "last_commit": "2026-09-13T18:58:21Z",
+                "open_issues": 30,
                 "owner": "nf-core",
                 "repo": "epitopeprediction",
                 "stars": 56,
@@ -2000,7 +2000,7 @@
                 "open_issues": 1,
                 "owner": "mourisl",
                 "repo": "T1K",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T20:12:07.766Z",
+    "last_updated": "2026-09-13T20:18:59.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
