@@ -82,7 +82,7 @@
                 "open_issues": 128,
                 "owner": "antigenomics",
                 "repo": "vdjdb-db",
-                "stars": 155,
+                "stars": 156,
                 "topics": [
                   "antigen",
                   "binding",
@@ -234,8 +234,8 @@
                 "id": 232568640,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-10T06:37:46Z",
-                "open_issues": 45,
+                "last_commit": "2026-09-14T18:07:46Z",
+                "open_issues": 44,
                 "owner": "scverse",
                 "repo": "scirpy",
                 "stars": 265,
@@ -262,7 +262,7 @@
                 "open_issues": 10,
                 "owner": "Japrin",
                 "repo": "STARTRAC",
-                "stars": 125,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -867,7 +867,7 @@
                 "open_issues": 4,
                 "owner": "JamieHeather",
                 "repo": "stitchr",
-                "stars": 70,
+                "stars": 71,
                 "topics": [
                   "bioinformatics-tool",
                   "immunology",
@@ -1215,8 +1215,8 @@
                 "id": 159524795,
                 "language": "Nextflow",
                 "license": "MIT",
-                "last_commit": "2026-09-13T18:58:21Z",
-                "open_issues": 30,
+                "last_commit": "2026-09-14T14:16:59Z",
+                "open_issues": 29,
                 "owner": "nf-core",
                 "repo": "epitopeprediction",
                 "stars": 56,
@@ -1353,8 +1353,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T14:09:36Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-14T16:35:51Z",
+                "open_issues": 16,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30,
@@ -2365,7 +2365,7 @@
                 "language": "R",
                 "license": null,
                 "last_commit": "2026-08-23T20:13:40Z",
-                "open_issues": 3,
+                "open_issues": 5,
                 "owner": "k96nb01",
                 "repo": "immunogenetr_package",
                 "stars": 6,
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T20:18:59.649Z",
+    "last_updated": "2026-09-14T21:28:22.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
