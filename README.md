@@ -58,7 +58,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Specificity Databases
 
-* [**VDJDB: A curated database of T-cell receptor sequences of known antigen specificity**](https://github.com/antigenomics/vdjdb-db) ⭐ 156 | 🐛 128 | 🌐 Python | 📅 2026-08-26 — The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28977646/) · 🪝 [491](https://www.semanticscholar.org/paper/cfd86d8ddd03ccacd18343d091ac93745e4187d6) · ⭐ [149](https://github.com/antigenomics/vdjdb-db/stargazers) ⭐ 156 | 🐛 128 | 🌐 Python | 📅 2026-08-26 · [Homepage](https://vdjdb.cdr3.net)
+* [**VDJDB: A curated database of T-cell receptor sequences of known antigen specificity**](https://github.com/antigenomics/vdjdb-db) ⭐ 156 | 🐛 129 | 🌐 Python | 📅 2026-08-26 — The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28977646/) · 🪝 [491](https://www.semanticscholar.org/paper/cfd86d8ddd03ccacd18343d091ac93745e4187d6) · ⭐ [149](https://github.com/antigenomics/vdjdb-db/stargazers) ⭐ 156 | 🐛 129 | 🌐 Python | 📅 2026-08-26 · [Homepage](https://vdjdb.cdr3.net)
 
 * [**vdjmatch**](https://github.com/antigenomics/vdjmatch) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-08-18 — Matching T-cell repertoire against a database of TCR antigen specificities<br>⭐ [39](https://github.com/antigenomics/vdjmatch/stargazers) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-08-18 · [Homepage](https://vdjdb.cdr3.net) · `Groovy`
 
@@ -98,7 +98,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**CONGA: Clonotype Neighbor Graph Analysis**](https://github.com/phbradley/conga) ⭐ 100 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-06-15 — CONGA was developed to detect correlation between T cell gene expression profile and TCR sequence in single-cell datasets.<br>[Paper](https://doi.org/10.1101/2020.06.04.134536) · 🪝 [9](https://www.semanticscholar.org/paper/d0a9125325f851f69dbc486e2b2e75f9ba63d4f5) · ⭐ [93](https://github.com/phbradley/conga/stargazers) ⭐ 100 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-06-15 · `Python`
 
-* [**airrflow**](https://github.com/nf-core/airrflow) ⭐ 81 | 🐛 55 | 🌐 Nextflow | 📅 2026-09-11 — B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38293151/) · 🪝 [10](https://www.semanticscholar.org/paper/https://www.semanticscholar.org/paper/04c2e0be97ba6d6035506595694eb22e2093037b) · ⭐ [73](https://github.com/nf-core/airrflow/stargazers) ⭐ 81 | 🐛 55 | 🌐 Nextflow | 📅 2026-09-11 · [Homepage](https://nf-co.re/airrflow) · `Nextflow`
+* [**airrflow**](https://github.com/nf-core/airrflow) ⭐ 81 | 🐛 54 | 🌐 Nextflow | 📅 2026-09-11 — B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38293151/) · 🪝 [10](https://www.semanticscholar.org/paper/https://www.semanticscholar.org/paper/04c2e0be97ba6d6035506595694eb22e2093037b) · ⭐ [73](https://github.com/nf-core/airrflow/stargazers) ⭐ 81 | 🐛 54 | 🌐 Nextflow | 📅 2026-09-11 · [Homepage](https://nf-co.re/airrflow) · `Nextflow`
 
 * [**mvTCR**](https://github.com/SchubertLab/mvTCR) ⭐ 60 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-11-01 — A multi-view Variational Autoencoder (mvTCR) to jointly embed transcriptomic and TCR sequence information at a single-cell level to better capture the phenotypic behavior of T cells.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38956082/) · 🪝 [17](https://www.semanticscholar.org/paper/62559a2f08e304d5a6149f4605e45529ac2c150e) · ⭐ [56](https://github.com/SchubertLab/mvTCR/stargazers) ⭐ 60 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-11-01 · [Homepage](https://zenodo.org/record/5006839) · `Python`
 
@@ -178,7 +178,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Epitope Prediction
 
-* [**epitopeprediction**](https://github.com/nf-core/epitopeprediction) ⭐ 56 | 🐛 29 | 🌐 Nextflow | 📅 2026-09-14 — A bioinformatics best-practice analysis pipeline for epitope prediction and annotation<br>⭐ [49](https://github.com/nf-core/epitopeprediction/stargazers) ⭐ 56 | 🐛 29 | 🌐 Nextflow | 📅 2026-09-14 · [Homepage](https://nf-co.re/epitopeprediction) · `Nextflow`
+* [**epitopeprediction**](https://github.com/nf-core/epitopeprediction) ⭐ 56 | 🐛 29 | 🌐 Nextflow | 📅 2026-09-15 — A bioinformatics best-practice analysis pipeline for epitope prediction and annotation<br>⭐ [49](https://github.com/nf-core/epitopeprediction/stargazers) ⭐ 56 | 🐛 29 | 🌐 Nextflow | 📅 2026-09-15 · [Homepage](https://nf-co.re/epitopeprediction) · `Nextflow`
 
 * [**epitopepredict**](https://github.com/dmnfarrell/epitopepredict) ⭐ 54 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-08-02 — Python package and command line tool for epitope prediction<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/36824339/) · 🪝 [6](https://www.semanticscholar.org/paper/073554e81b4370b4f409fa7bdedaa9c36e78d83f) · ⭐ [52](https://github.com/dmnfarrell/epitopepredict/stargazers) ⭐ 54 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-08-02 · `Jupyter Notebook`
 
@@ -186,11 +186,11 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**neoantigens**](https://github.com/umccr/neoantigens) ⚠️ Archived — Exploring novel tumor epitope identification<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/36604431/) · 🪝 [624](https://www.semanticscholar.org/paper/327da2a2b6bdbb3eea81e8a11b832c1955dd33d7) · ⭐ [37](https://github.com/umccr/neoantigens/stargazers) ⚠️ Archived · `Python`
 
-* [**MixTCRpred**](https://github.com/GfellerLab/MixTCRpred) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2025-09-09 — Predictor of TCR-epitope interactions<br>⭐ [34](https://github.com/GfellerLab/MixTCRpred/stargazers) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2025-09-09 · `Python`
+* [**MixTCRpred**](https://github.com/GfellerLab/MixTCRpred) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2025-09-09 — Predictor of TCR-epitope interactions<br>⭐ [34](https://github.com/GfellerLab/MixTCRpred/stargazers) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2025-09-09 · `Python`
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 16 | 🌐 Python | 📅 2026-09-14 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 16 | 🌐 Python | 📅 2026-09-14 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 21 | 🌐 Python | 📅 2026-09-15 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 21 | 🌐 Python | 📅 2026-09-15 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._

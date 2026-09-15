@@ -79,7 +79,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T02:44:16Z",
-                "open_issues": 128,
+                "open_issues": 129,
                 "owner": "antigenomics",
                 "repo": "vdjdb-db",
                 "stars": 156,
@@ -329,7 +329,7 @@
                 "language": "Nextflow",
                 "license": "MIT",
                 "last_commit": "2026-09-11T14:42:49Z",
-                "open_issues": 55,
+                "open_issues": 54,
                 "owner": "nf-core",
                 "repo": "airrflow",
                 "stars": 81,
@@ -1215,7 +1215,7 @@
                 "id": 159524795,
                 "language": "Nextflow",
                 "license": "MIT",
-                "last_commit": "2026-09-14T14:16:59Z",
+                "last_commit": "2026-09-15T11:24:58Z",
                 "open_issues": 29,
                 "owner": "nf-core",
                 "repo": "epitopeprediction",
@@ -1315,7 +1315,7 @@
                 "open_issues": 2,
                 "owner": "GfellerLab",
                 "repo": "MixTCRpred",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -1353,8 +1353,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T16:35:51Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-15T20:12:50Z",
+                "open_issues": 21,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30,
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T21:28:22.356Z",
+    "last_updated": "2026-09-15T20:51:52.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
