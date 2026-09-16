@@ -235,7 +235,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-14T18:07:46Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "scverse",
                 "repo": "scirpy",
                 "stars": 265,
@@ -329,10 +329,10 @@
                 "language": "Nextflow",
                 "license": "MIT",
                 "last_commit": "2026-09-11T14:42:49Z",
-                "open_issues": 54,
+                "open_issues": 52,
                 "owner": "nf-core",
                 "repo": "airrflow",
-                "stars": 81,
+                "stars": 82,
                 "topics": [
                   "airr",
                   "b-cell",
@@ -580,7 +580,7 @@
                 "open_issues": 0,
                 "owner": "jostmey",
                 "repo": "msm",
-                "stars": 175,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -678,7 +678,7 @@
                 "id": 299273889,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-03T11:06:55Z",
+                "last_commit": "2026-09-16T12:51:13Z",
                 "open_issues": 1,
                 "owner": "uio-bmi",
                 "repo": "immuneML",
@@ -1215,7 +1215,7 @@
                 "id": 159524795,
                 "language": "Nextflow",
                 "license": "MIT",
-                "last_commit": "2026-09-15T11:24:58Z",
+                "last_commit": "2026-09-16T09:04:23Z",
                 "open_issues": 29,
                 "owner": "nf-core",
                 "repo": "epitopeprediction",
@@ -1353,8 +1353,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T20:12:50Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-16T02:28:34Z",
+                "open_issues": 18,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30,
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T20:51:52.546Z",
+    "last_updated": "2026-09-16T20:52:16.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
