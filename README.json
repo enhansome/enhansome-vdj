@@ -82,7 +82,7 @@
                 "open_issues": 129,
                 "owner": "antigenomics",
                 "repo": "vdjdb-db",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "antigen",
                   "binding",
@@ -234,8 +234,8 @@
                 "id": 232568640,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-17T07:41:44Z",
-                "open_issues": 44,
+                "last_commit": "2026-09-18T06:56:19Z",
+                "open_issues": 42,
                 "owner": "scverse",
                 "repo": "scirpy",
                 "stars": 265,
@@ -1353,8 +1353,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T19:20:44Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-18T18:57:43Z",
+                "open_issues": 22,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30,
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T20:56:56.688Z",
+    "last_updated": "2026-09-18T20:23:54.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
