@@ -190,7 +190,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 34 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 22 | 🌐 Python | 📅 2026-09-18 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 22 | 🌐 Python | 📅 2026-09-18 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 21 | 🌐 Python | 📅 2026-09-19 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 21 | 🌐 Python | 📅 2026-09-19 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -298,7 +298,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**bigmhc**](https://github.com/KarchinLab/bigmhc) ⭐ 70 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-12-17 — BigMHC predicts MHC-I (neo)epitope presentation and immunogenicity<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/37829001/) · 🪝 [60](https://www.semanticscholar.org/paper/ef7763384b5f987dc546cdd9ece14b3e81b89190) · ⭐ [59](https://github.com/KarchinLab/bigmhc/stargazers) ⭐ 70 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-12-17 · `Jupyter Notebook`
 
-* [**MixMHC2pred**](https://github.com/GfellerLab/MixMHC2pred) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2026-08-25 — HLA-II ligand predictor.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38907900/) · 🪝 [4](https://www.semanticscholar.org/paper/951c39da3e761004836a22ef928c3ff7a8772542) · ⭐ [46](https://github.com/GfellerLab/MixMHC2pred/stargazers) ⭐ 51 | 🐛 0 | 🌐 C++ | 📅 2026-08-25 · `C++`
+* [**MixMHC2pred**](https://github.com/GfellerLab/MixMHC2pred) ⭐ 52 | 🐛 0 | 🌐 C++ | 📅 2026-08-25 — HLA-II ligand predictor.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38907900/) · 🪝 [4](https://www.semanticscholar.org/paper/951c39da3e761004836a22ef928c3ff7a8772542) · ⭐ [46](https://github.com/GfellerLab/MixMHC2pred/stargazers) ⭐ 52 | 🐛 0 | 🌐 C++ | 📅 2026-08-25 · `C++`
 
 * [**MixMHCpred**](https://github.com/GfellerLab/MixMHCpred) ⭐ 47 | 🐛 2 | 🌐 Python | 📅 2026-03-19 — HLA-I ligand predictor<br>⭐ [43](https://github.com/GfellerLab/MixMHCpred/stargazers) ⭐ 47 | 🐛 2 | 🌐 Python | 📅 2026-03-19 · `Python`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

@@ -1353,8 +1353,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T18:57:43Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-19T17:56:45Z",
+                "open_issues": 21,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30,
@@ -2280,7 +2280,7 @@
                 "open_issues": 0,
                 "owner": "GfellerLab",
                 "repo": "MixMHC2pred",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "hla",
                   "mhc-binding-prediction",
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T20:23:54.452Z",
+    "last_updated": "2026-09-19T20:01:55.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
