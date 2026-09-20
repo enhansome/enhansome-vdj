@@ -631,7 +631,7 @@
                 "open_issues": 4,
                 "owner": "ml-jku",
                 "repo": "DeepRC",
-                "stars": 130,
+                "stars": 131,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -1353,8 +1353,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T17:56:45Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-20T19:49:21Z",
+                "open_issues": 20,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30,
@@ -1931,7 +1931,7 @@
                 "open_issues": 52,
                 "owner": "RabadanLab",
                 "repo": "arcasHLA",
-                "stars": 162,
+                "stars": 163,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -1952,7 +1952,7 @@
                 "open_issues": 57,
                 "owner": "DiltheyLab",
                 "repo": "HLA-LA",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -2365,7 +2365,7 @@
                 "language": "R",
                 "license": null,
                 "last_commit": "2026-08-23T20:13:40Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "k96nb01",
                 "repo": "immunogenetr_package",
                 "stars": 6,
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T20:01:55.742Z",
+    "last_updated": "2026-09-20T20:19:17.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
