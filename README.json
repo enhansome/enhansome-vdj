@@ -217,7 +217,7 @@
                 "open_issues": 125,
                 "owner": "liulab-dfci",
                 "repo": "TRUST4",
-                "stars": 362,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -678,7 +678,7 @@
                 "id": 299273889,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-21T10:33:47Z",
+                "last_commit": "2026-09-22T12:05:14Z",
                 "open_issues": 1,
                 "owner": "uio-bmi",
                 "repo": "immuneML",
@@ -835,7 +835,7 @@
                 "open_issues": 126,
                 "owner": "milaboratory",
                 "repo": "mixcr",
-                "stars": 402,
+                "stars": 403,
                 "topics": [
                   "10x",
                   "antibody",
@@ -1215,8 +1215,8 @@
                 "id": 159524795,
                 "language": "Nextflow",
                 "license": "MIT",
-                "last_commit": "2026-09-21T09:29:39Z",
-                "open_issues": 28,
+                "last_commit": "2026-09-22T08:37:20Z",
+                "open_issues": 29,
                 "owner": "nf-core",
                 "repo": "epitopeprediction",
                 "stars": 56,
@@ -1353,8 +1353,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T21:05:51Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-22T18:15:11Z",
+                "open_issues": 27,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30,
@@ -2017,7 +2017,7 @@
                 "id": 140573587,
                 "language": "Nextflow",
                 "license": "MIT",
-                "last_commit": "2026-09-17T13:19:26Z",
+                "last_commit": "2026-09-22T20:24:41Z",
                 "open_issues": 11,
                 "owner": "nf-core",
                 "repo": "hlatyping",
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:41:59.747Z",
+    "last_updated": "2026-09-22T20:53:18.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
