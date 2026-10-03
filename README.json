@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "crazyhottommy",
             "repo": "TCR-BCR-seq-analysis",
-            "stars": 284,
+            "stars": 285,
             "topics": []
           },
           "first_seen": "2026-08-29T01:27:41.249Z"
@@ -44,8 +44,8 @@
                 "id": 49149680,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T03:52:44Z",
-                "open_issues": 109,
+                "last_commit": "2026-10-03T20:34:16Z",
+                "open_issues": 64,
                 "owner": "antigenomics",
                 "repo": "vdjdb-db",
                 "stars": 157,
@@ -2386,7 +2386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:11:15.854Z",
+    "last_updated": "2026-10-03T20:35:28.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",

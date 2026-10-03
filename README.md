@@ -24,7 +24,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 **Related Work**
 
-* Ming Tang's list: [TCR-BCR-seq-analysis](https://github.com/crazyhottommy/TCR-BCR-seq-analysis) ⭐ 284 | 🐛 0 | 📅 2024-12-01
+* Ming Tang's list: [TCR-BCR-seq-analysis](https://github.com/crazyhottommy/TCR-BCR-seq-analysis) ⭐ 285 | 🐛 0 | 📅 2024-12-01
 
 ***
 
@@ -58,7 +58,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Specificity Databases
 
-* [**VDJDB: A curated database of T-cell receptor sequences of known antigen specificity**](https://github.com/antigenomics/vdjdb-db) ⭐ 157 | 🐛 109 | 🌐 Python | 📅 2026-10-03 — The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28977646/) · 🪝 [491](https://www.semanticscholar.org/paper/cfd86d8ddd03ccacd18343d091ac93745e4187d6) · ⭐ [149](https://github.com/antigenomics/vdjdb-db/stargazers) ⭐ 157 | 🐛 109 | 🌐 Python | 📅 2026-10-03 · [Homepage](https://vdjdb.cdr3.net)
+* [**VDJDB: A curated database of T-cell receptor sequences of known antigen specificity**](https://github.com/antigenomics/vdjdb-db) ⭐ 157 | 🐛 64 | 🌐 Python | 📅 2026-10-03 — The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28977646/) · 🪝 [491](https://www.semanticscholar.org/paper/cfd86d8ddd03ccacd18343d091ac93745e4187d6) · ⭐ [149](https://github.com/antigenomics/vdjdb-db/stargazers) ⭐ 157 | 🐛 64 | 🌐 Python | 📅 2026-10-03 · [Homepage](https://vdjdb.cdr3.net)
 
 * [**vdjmatch**](https://github.com/antigenomics/vdjmatch) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-08-18 — Matching T-cell repertoire against a database of TCR antigen specificities<br>⭐ [39](https://github.com/antigenomics/vdjmatch/stargazers) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-08-18 · [Homepage](https://vdjdb.cdr3.net) · `Groovy`
 
