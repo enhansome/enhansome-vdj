@@ -4,7 +4,7 @@
 
 Here, researchers can find links to tools and resources for computational analysis of HLA and VDJ data.
 
-[Contributions are welcome!](https://github.com/slowkow/awesome-vdj/blob/master/CONTRIBUTING.md) ⭐ 244 | 🐛 0 | 📅 2026-02-12
+[Contributions are welcome!](https://github.com/slowkow/awesome-vdj/blob/master/CONTRIBUTING.md)
 
 [Antigen]: https://en.wikipedia.org/wiki/Antigen
 
@@ -12,7 +12,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 [HLA genes]: https://en.wikipedia.org/wiki/Human_leukocyte_antigen
 
-[![CI](https://github.com/slowkow/awesome-vdj/workflows/CI/badge.svg)](https://github.com/slowkow/awesome-vdj/actions) ⭐ 244 | 🐛 0 | 📅 2026-02-12
+[![CI](https://github.com/slowkow/awesome-vdj/workflows/CI/badge.svg)](https://github.com/slowkow/awesome-vdj/actions)
 
 **Table of Contents**
 
@@ -58,7 +58,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Specificity Databases
 
-* [**VDJDB: A curated database of T-cell receptor sequences of known antigen specificity**](https://github.com/antigenomics/vdjdb-db) ⭐ 157 | 🐛 166 | 🌐 Python | 📅 2026-10-02 — The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28977646/) · 🪝 [491](https://www.semanticscholar.org/paper/cfd86d8ddd03ccacd18343d091ac93745e4187d6) · ⭐ [149](https://github.com/antigenomics/vdjdb-db/stargazers) ⭐ 157 | 🐛 166 | 🌐 Python | 📅 2026-10-02 · [Homepage](https://vdjdb.cdr3.net)
+* [**VDJDB: A curated database of T-cell receptor sequences of known antigen specificity**](https://github.com/antigenomics/vdjdb-db) ⭐ 157 | 🐛 109 | 🌐 Python | 📅 2026-10-03 — The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28977646/) · 🪝 [491](https://www.semanticscholar.org/paper/cfd86d8ddd03ccacd18343d091ac93745e4187d6) · ⭐ [149](https://github.com/antigenomics/vdjdb-db/stargazers) ⭐ 157 | 🐛 109 | 🌐 Python | 📅 2026-10-03 · [Homepage](https://vdjdb.cdr3.net)
 
 * [**vdjmatch**](https://github.com/antigenomics/vdjmatch) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-08-18 — Matching T-cell repertoire against a database of TCR antigen specificities<br>⭐ [39](https://github.com/antigenomics/vdjmatch/stargazers) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-08-18 · [Homepage](https://vdjdb.cdr3.net) · `Groovy`
 
@@ -66,11 +66,11 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Sequence Repositories
 
-* [**immuneACCESS**](https://clients.adaptivebiotech.com/immuneaccess) — Dive into the world’s largest collection of TCR and BCR sequences. Easily incorporate millions of sequences worth of public data into your next papers and projects using immunoSEQ Analyzer. Constru...<br>[Docs](https://github.com/slowkow/awesome-vdj/blob/master/download-from-immuneaccess.md) ⭐ 244 | 🐛 0 | 📅 2026-02-12 · [Homepage](https://clients.adaptivebiotech.com/immuneaccess)
-
 * [**iReceptor**](https://gateway.ireceptor.org/home) — iReceptor facilitates the curation, analysis and sharing of antibody/B-cell and T-cell receptor repertoires (Adaptive Immune Receptor Repertoire or AIRR-seq data) from multiple labs and institution...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/29944754/) · 🪝 [133](https://www.semanticscholar.org/paper/5d764e3cb11d09a8f2ec8bdce3b390d6e42d3f8a) · [Homepage](https://gateway.ireceptor.org/home)
 
 * [**A Public Database of Memory and Naive B-Cell Receptor Sequences**](https://datadryad.org/stash/dataset/doi:10.5061/dryad.35ks2) — We present a public database of more than 37 million unique BCR sequences from three healthy adult donors that is many fold deeper than any existing resource, together with a set of online tools de...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/27513338/) · 🪝 [104](https://www.semanticscholar.org/paper/0296d2dce034afee35366908584f9daa81ea7319) · [Homepage](https://datadryad.org/stash/dataset/doi:10.5061/dryad.35ks2)
+
+* [**immuneACCESS**](https://clients.adaptivebiotech.com/immuneaccess) — Dive into the world’s largest collection of TCR and BCR sequences. Easily incorporate millions of sequences worth of public data into your next papers and projects using immunoSEQ Analyzer. Constru...<br>[Docs](https://github.com/slowkow/awesome-vdj/blob/master/download-from-immuneaccess.md) · [Homepage](https://clients.adaptivebiotech.com/immuneaccess)
 
 * [**PIRD: Pan immune repertoire database**](https://db.cngb.org/pird/) — Pan immune repertoire database (PIRD) collects raw and processed sequences of immunoglobulins (IGs) and T cell receptors (TCRs) of human and other vertebrate species with different phenotypes. You ...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/31373607/) · [Homepage](https://db.cngb.org/pird/)
 
@@ -190,7 +190,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 35 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 35 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 17 | 🌐 Python | 📅 2026-10-02 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 17 | 🌐 Python | 📅 2026-10-02 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 15 | 🌐 Python | 📅 2026-10-02 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 15 | 🌐 Python | 📅 2026-10-02 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

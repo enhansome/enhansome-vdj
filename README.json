@@ -5,42 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Contributions are welcome!",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
-            "homepage": null,
-            "id": 232637997,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-02-12T11:49:50Z",
-            "open_issues": 0,
-            "owner": "slowkow",
-            "repo": "awesome-vdj",
-            "stars": 244,
-            "topics": [
-              "antibody",
-              "awesome-list",
-              "b-cell-receptor",
-              "bcr",
-              "bioinformatics",
-              "hla",
-              "hla-database",
-              "hla-typing",
-              "immunology",
-              "t-cell-receptor",
-              "tcr",
-              "vdj"
-            ]
-          },
-          "first_seen": "2026-08-29T01:27:41.249Z"
-        },
-        {
-          "node_type": "item",
           "title": "Ming Tang's list: TCR-BCR-seq-analysis",
-          "description": null,
+          "description": "crazyhottommy/TCR-BCR-seq-analysis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -78,8 +44,8 @@
                 "id": 49149680,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T21:35:03Z",
-                "open_issues": 166,
+                "last_commit": "2026-10-03T03:52:44Z",
+                "open_issues": 109,
                 "owner": "antigenomics",
                 "repo": "vdjdb-db",
                 "stars": 157,
@@ -130,47 +96,6 @@
           "description": null,
           "node_type": "group",
           "title": "Specificity Databases"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "immuneACCESS",
-              "description": "Dive into the world’s largest collection of TCR and BCR sequences. Easily incorporate millions of sequences worth of public data into your next papers and projects using immunoSEQ Analyzer. Constru...Docs · Homepage",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
-                "homepage": null,
-                "id": 232637997,
-                "language": null,
-                "license": "CC0-1.0",
-                "last_commit": "2026-02-12T11:49:50Z",
-                "open_issues": 0,
-                "owner": "slowkow",
-                "repo": "awesome-vdj",
-                "stars": 244,
-                "topics": [
-                  "antibody",
-                  "awesome-list",
-                  "b-cell-receptor",
-                  "bcr",
-                  "bioinformatics",
-                  "hla",
-                  "hla-database",
-                  "hla-typing",
-                  "immunology",
-                  "t-cell-receptor",
-                  "tcr",
-                  "vdj"
-                ]
-              },
-              "first_seen": "2026-08-29T01:27:41.249Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Sequence Repositories"
         }
       ],
       "title": "🗄️ VDJ Databases"
@@ -1353,8 +1278,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T21:36:25Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-02T22:35:31Z",
+                "open_issues": 15,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30,
@@ -2461,7 +2386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:48:57.397Z",
+    "last_updated": "2026-10-03T05:11:15.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
