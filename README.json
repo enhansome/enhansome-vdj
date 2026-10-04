@@ -44,8 +44,8 @@
                 "id": 49149680,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T20:34:16Z",
-                "open_issues": 64,
+                "last_commit": "2026-10-04T01:50:33Z",
+                "open_issues": 57,
                 "owner": "antigenomics",
                 "repo": "vdjdb-db",
                 "stars": 157,
@@ -142,7 +142,7 @@
                 "open_issues": 125,
                 "owner": "liulab-dfci",
                 "repo": "TRUST4",
-                "stars": 364,
+                "stars": 365,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -1420,7 +1420,7 @@
                 "open_issues": 17,
                 "owner": "phbradley",
                 "repo": "TCRdock",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -2386,7 +2386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T20:35:28.962Z",
+    "last_updated": "2026-10-04T20:51:43.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
