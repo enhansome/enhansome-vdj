@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "BorchLab",
                 "repo": "scRepertoire",
-                "stars": 376,
+                "stars": 377,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -159,7 +159,7 @@
                 "id": 232568640,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-30T11:14:14Z",
+                "last_commit": "2026-10-05T18:43:22Z",
                 "open_issues": 46,
                 "owner": "scverse",
                 "repo": "scirpy",
@@ -603,7 +603,7 @@
                 "id": 299273889,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T11:42:07Z",
+                "last_commit": "2026-10-05T10:00:28Z",
                 "open_issues": 1,
                 "owner": "uio-bmi",
                 "repo": "immuneML",
@@ -756,8 +756,8 @@
                 "id": 33134597,
                 "language": "Kotlin",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T12:02:04Z",
-                "open_issues": 128,
+                "last_commit": "2026-10-05T14:08:20Z",
+                "open_issues": 130,
                 "owner": "milaboratory",
                 "repo": "mixcr",
                 "stars": 405,
@@ -1278,8 +1278,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:35:31Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-05T20:35:57Z",
+                "open_issues": 16,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 30,
@@ -1329,7 +1329,7 @@
                 "open_issues": 0,
                 "owner": "rnajena",
                 "repo": "EpiDope",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -2163,7 +2163,7 @@
                 "open_issues": 2,
                 "owner": "CHB-learner",
                 "repo": "NeoBert",
-                "stars": 139,
+                "stars": 138,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -2345,7 +2345,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-09-28T21:55:27Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "nmdp-bioinformatics",
                 "repo": "py-ard",
                 "stars": 20,
@@ -2386,7 +2386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T20:51:43.759Z",
+    "last_updated": "2026-10-05T23:43:49.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
