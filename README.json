@@ -44,8 +44,8 @@
                 "id": 49149680,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T22:30:57Z",
-                "open_issues": 75,
+                "last_commit": "2026-10-09T22:14:31Z",
+                "open_issues": 74,
                 "owner": "antigenomics",
                 "repo": "vdjdb-db",
                 "stars": 157,
@@ -76,8 +76,8 @@
                 "id": 26707493,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-18T23:30:46Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-09T17:16:16Z",
+                "open_issues": 1,
                 "owner": "antigenomics",
                 "repo": "vdjmatch",
                 "stars": 39,
@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "BorchLab",
                 "repo": "scRepertoire",
-                "stars": 376,
+                "stars": 377,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -254,7 +254,7 @@
                 "language": "Nextflow",
                 "license": "MIT",
                 "last_commit": "2026-10-08T08:00:56Z",
-                "open_issues": 52,
+                "open_issues": 54,
                 "owner": "nf-core",
                 "repo": "airrflow",
                 "stars": 82,
@@ -1140,8 +1140,8 @@
                 "id": 159524795,
                 "language": "Nextflow",
                 "license": "MIT",
-                "last_commit": "2026-10-08T16:31:14Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-09T13:47:51Z",
+                "open_issues": 28,
                 "owner": "nf-core",
                 "repo": "epitopeprediction",
                 "stars": 56,
@@ -2163,7 +2163,7 @@
                 "open_issues": 2,
                 "owner": "CHB-learner",
                 "repo": "NeoBert",
-                "stars": 138,
+                "stars": 136,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -2368,7 +2368,7 @@
                 "language": "R",
                 "license": null,
                 "last_commit": "2026-07-28T05:40:01Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "sjmack",
                 "repo": "HLAtools",
                 "stars": 4,
@@ -2386,7 +2386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T22:53:02.733Z",
+    "last_updated": "2026-10-09T22:14:40.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
