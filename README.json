@@ -44,8 +44,8 @@
                 "id": 49149680,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T22:14:31Z",
-                "open_issues": 74,
+                "last_commit": "2026-10-10T15:55:39Z",
+                "open_issues": 4,
                 "owner": "antigenomics",
                 "repo": "vdjdb-db",
                 "stars": 157,
@@ -76,7 +76,7 @@
                 "id": 26707493,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T17:16:16Z",
+                "last_commit": "2026-10-10T15:14:03Z",
                 "open_issues": 1,
                 "owner": "antigenomics",
                 "repo": "vdjmatch",
@@ -142,7 +142,7 @@
                 "open_issues": 125,
                 "owner": "liulab-dfci",
                 "repo": "TRUST4",
-                "stars": 365,
+                "stars": 366,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -603,8 +603,8 @@
                 "id": 299273889,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-05T10:00:28Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-10T15:20:08Z",
+                "open_issues": 2,
                 "owner": "uio-bmi",
                 "repo": "immuneML",
                 "stars": 76,
@@ -868,7 +868,7 @@
                 "open_issues": 3,
                 "owner": "vidjil",
                 "repo": "vidjil",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -2386,7 +2386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T22:14:40.145Z",
+    "last_updated": "2026-10-10T21:09:23.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
