@@ -58,9 +58,9 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Specificity Databases
 
-* [**VDJDB: A curated database of T-cell receptor sequences of known antigen specificity**](https://github.com/antigenomics/vdjdb-db) ⭐ 157 | 🐛 6 | 🌐 Python | 📅 2026-10-16 — The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28977646/) · 🪝 [491](https://www.semanticscholar.org/paper/cfd86d8ddd03ccacd18343d091ac93745e4187d6) · ⭐ [149](https://github.com/antigenomics/vdjdb-db/stargazers) ⭐ 157 | 🐛 6 | 🌐 Python | 📅 2026-10-16 · [Homepage](https://vdjdb.cdr3.net)
+* [**VDJDB: A curated database of T-cell receptor sequences of known antigen specificity**](https://github.com/antigenomics/vdjdb-db) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2026-10-17 — The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28977646/) · 🪝 [491](https://www.semanticscholar.org/paper/cfd86d8ddd03ccacd18343d091ac93745e4187d6) · ⭐ [149](https://github.com/antigenomics/vdjdb-db/stargazers) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2026-10-17 · [Homepage](https://vdjdb.cdr3.net)
 
-* [**vdjmatch**](https://github.com/antigenomics/vdjmatch) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2026-10-15 — Matching T-cell repertoire against a database of TCR antigen specificities<br>⭐ [39](https://github.com/antigenomics/vdjmatch/stargazers) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2026-10-15 · [Homepage](https://vdjdb.cdr3.net) · `Groovy`
+* [**vdjmatch**](https://github.com/antigenomics/vdjmatch) ⭐ 39 | 🐛 3 | 🌐 Python | 📅 2026-10-17 — Matching T-cell repertoire against a database of TCR antigen specificities<br>⭐ [39](https://github.com/antigenomics/vdjmatch/stargazers) ⭐ 39 | 🐛 3 | 🌐 Python | 📅 2026-10-17 · [Homepage](https://vdjdb.cdr3.net) · `Groovy`
 
 * [**McPAS-TCR: A manually curated catalogue of pathology associated T-cell receptor sequences**](https://friedmanlab.weizmann.ac.il/McPAS-TCR/) — McPAS-TCR is a manually curated catalogue of T cell receptor (TCR) sequences that were found in T cells associated with various pathological conditions in humans and in mice. It is meant to link TC...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28481982/) · 🪝 [449](https://www.semanticscholar.org/paper/af8ef665e0cd44a7cf69b811626519a3fcf323b4) · [Homepage](https://friedmanlab.weizmann.ac.il/McPAS-TCR/)
 
@@ -122,7 +122,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**msm: Max Snippet Model**](https://github.com/jostmey/msm) ⭐ 176 | 🐛 0 | 🌐 Python | 📅 2023-05-01 — Improved statistical classifier for immune repertoires<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33868241/) · 🪝 [8](https://www.semanticscholar.org/paper/77b6920d6e016f551c73c7d6eb5ac385128772f5) · ⭐ [177](https://github.com/jostmey/msm/stargazers) ⭐ 176 | 🐛 0 | 🌐 Python | 📅 2023-05-01 · `Python`
 
-* [**VDJtools**](https://github.com/mikessh/vdjtools) ⭐ 147 | 🐛 0 | 🌐 Python | 📅 2026-10-13 — A comprehensive analysis framework for T-cell and B-cell repertoire sequencing data<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26606115/) · 🪝 [529](https://www.semanticscholar.org/paper/c5994d9f6ed808f510cb95a3225c9f8ab0d6b460) · ⭐ [142](https://github.com/mikessh/vdjtools/stargazers) ⭐ 147 | 🐛 0 | 🌐 Python | 📅 2026-10-13 · `Java` `Groovy`
+* [**VDJtools**](https://github.com/mikessh/vdjtools) ⭐ 147 | 🐛 0 | 🌐 Python | 📅 2026-10-17 — A comprehensive analysis framework for T-cell and B-cell repertoire sequencing data<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26606115/) · 🪝 [529](https://www.semanticscholar.org/paper/c5994d9f6ed808f510cb95a3225c9f8ab0d6b460) · ⭐ [142](https://github.com/mikessh/vdjtools/stargazers) ⭐ 147 | 🐛 0 | 🌐 Python | 📅 2026-10-17 · `Java` `Groovy`
 
 * [**DeepRC**](https://github.com/ml-jku/DeepRC) ⭐ 131 | 🐛 4 | 🌐 Python | 📅 2023-09-12 — DeepRC: Immune repertoire classification with attention-based deep massive multiple instance learning<br>⭐ [124](https://github.com/ml-jku/DeepRC/stargazers) ⭐ 131 | 🐛 4 | 🌐 Python | 📅 2023-09-12 · `Python`
 
@@ -146,7 +146,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**stitchr**](https://github.com/JamieHeather/stitchr) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2026-03-12 — Stitchr - a Python script to stitch together coding TCR nucleotide sequences from V, J, and CDR3 info<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/35325179/) · 🪝 [22](https://www.semanticscholar.org/paper/aeaf4f3d97ca02f2b25cf040d6ad39a62db41a1e) · ⭐ [64](https://github.com/JamieHeather/stitchr/stargazers) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2026-03-12 · [Homepage](https://jamieheather.github.io/stitchr/) · `Python`
 
-* [**MiGMAP: mapper for full-length T- and B-cell repertoire sequencing**](https://github.com/mikessh/migmap) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2026-10-15 — In a nutshell, this software is a smart wrapper for IgBlast V-(D)-J mapping tool designed to facilitate analysis immune receptor libraries profiled using high-throughput sequencing. This package in...<br>⭐ [53](https://github.com/mikessh/migmap/stargazers) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2026-10-15 · `Java` `Groovy`
+* [**MiGMAP: mapper for full-length T- and B-cell repertoire sequencing**](https://github.com/mikessh/migmap) ⭐ 56 | 🐛 1 | 🌐 Python | 📅 2026-10-17 — In a nutshell, this software is a smart wrapper for IgBlast V-(D)-J mapping tool designed to facilitate analysis immune receptor libraries profiled using high-throughput sequencing. This package in...<br>⭐ [53](https://github.com/mikessh/migmap/stargazers) ⭐ 56 | 🐛 1 | 🌐 Python | 📅 2026-10-17 · `Java` `Groovy`
 
 * [**pyIR: An IgBLAST wrapper and parser**](https://github.com/crowelab/PyIR) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2026-01-09 — PyIR is a minimally-dependent high-speed wrapper for the IgBLAST immunoglobulin and T-cell analyzer. This is achieved through chunking the input data set and running IgBLAST single-core in parallel...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32677886/) · 🪝 [29](https://www.semanticscholar.org/paper/4c463450d5f5f6d9e1c1f5a21b3b33cbd4ed141c) · ⭐ [50](https://github.com/crowelab/PyIR/stargazers) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2026-01-09 · `Python`
 
@@ -214,7 +214,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**TITAN - Tcr epITope bimodal Attention Networks**](https://github.com/PaccMann/TITAN) ⭐ 31 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-12 — a bimodal neural network that explicitly encodes both TCR sequences and epitopes to enable the independent study of generalization capabilities to unseen TCRs and/or epitopes.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/34252922/) · 🪝 [150](https://www.semanticscholar.org/paper/a732443cae8cd2d6a76f4f3cf785a562baf41137) · ⭐ [30](https://github.com/PaccMann/TITAN/stargazers) ⭐ 31 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-07-12 · `Python`
 
-* [**compairr**](https://github.com/uio-bmi/compairr) ⭐ 30 | 🐛 11 | 🌐 C++ | 📅 2025-01-29 — Comparison of Adaptive Immune Receptor Repertoires<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/35852318/) · 🪝 [15](https://www.semanticscholar.org/paper/d01242ad2ed3bd695117f33a02773fc20f8c0c4d) · ⭐ [28](https://github.com/uio-bmi/compairr/stargazers) ⭐ 30 | 🐛 11 | 🌐 C++ | 📅 2025-01-29 · `C++`
+* [**compairr**](https://github.com/uio-bmi/compairr) ⭐ 31 | 🐛 11 | 🌐 C++ | 📅 2025-01-29 — Comparison of Adaptive Immune Receptor Repertoires<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/35852318/) · 🪝 [15](https://www.semanticscholar.org/paper/d01242ad2ed3bd695117f33a02773fc20f8c0c4d) · ⭐ [28](https://github.com/uio-bmi/compairr/stargazers) ⭐ 31 | 🐛 11 | 🌐 C++ | 📅 2025-01-29 · `C++`
 
 * [**TCRconv**](https://github.com/emmijokinen/TCRconv) ⭐ 27 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2022-10-18 — TCRconv is a deep learning model for predicting recognition between T cell receptors and epitopes. It uses protBERT embeddings for the TCRs and convolutional neural networks for the prediction.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/36477794/) · 🪝 [20](https://www.semanticscholar.org/paper/e7408fe04e2819eecccfe2a2425d7cdfe40145ff) · ⭐ [26](https://github.com/emmijokinen/TCRconv/stargazers) ⭐ 27 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2022-10-18 · `Python` `R`
 
@@ -232,7 +232,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**Allele Frequency Net Database**](http://www.allelefrequencies.net/collaborators.asp) — AFND is a public resource that collects information on allele, genotype and haplotype frequencies from different polymorphic areas in the human genome such as human leukocyte antigens (HLA), killer...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/31722398/) · 🪝 [641](https://www.semanticscholar.org/paper/3ee580308b6c1e1f3fadc00690fe871587a70885) · [Homepage](http://www.allelefrequencies.net/collaborators.asp)
 
-* [**IMGTHLA**](https://github.com/ANHIG/IMGTHLA) ⭐ 267 | 🐛 2 | 🌐 Parrot | 📅 2026-10-14 — The IPD-IMGT/HLA Database provides a specialist database for sequences of the human major histocompatibility complex (MHC) and includes the official sequences named by the WHO Nomenclature Committe...<br>⭐ [246](https://github.com/ANHIG/IMGTHLA/stargazers) ⭐ 267 | 🐛 2 | 🌐 Parrot | 📅 2026-10-14 · [Homepage](https://www.ebi.ac.uk/ipd/imgt/hla/)
+* [**IMGTHLA**](https://github.com/ANHIG/IMGTHLA) ⭐ 268 | 🐛 2 | 🌐 Parrot | 📅 2026-10-14 — The IPD-IMGT/HLA Database provides a specialist database for sequences of the human major histocompatibility complex (MHC) and includes the official sequences named by the WHO Nomenclature Committe...<br>⭐ [246](https://github.com/ANHIG/IMGTHLA/stargazers) ⭐ 268 | 🐛 2 | 🌐 Parrot | 📅 2026-10-14 · [Homepage](https://www.ebi.ac.uk/ipd/imgt/hla/)
 
 * [**pHLA3D: An online database of predicted three-dimensional structures of HLA molecules**](https://www.phla3d.com.br/) — The limited number of solved HLA structures available in the literature led our research group to develop, in 2019, the pHLA3D, an online database of predicted three-dimensional structures of HLA m...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/31239187/) · 🪝 [98](https://www.semanticscholar.org/paper/810def2f2bb6693affa9a449255555ea71fdc064) · [Homepage](https://www.phla3d.com.br/)
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
