@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "crazyhottommy",
             "repo": "TCR-BCR-seq-analysis",
-            "stars": 285,
+            "stars": 286,
             "topics": []
           },
           "first_seen": "2026-08-29T01:27:41.249Z"
@@ -603,7 +603,7 @@
                 "id": 299273889,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-16T19:46:36Z",
+                "last_commit": "2026-10-20T15:06:14Z",
                 "open_issues": 1,
                 "owner": "uio-bmi",
                 "repo": "immuneML",
@@ -756,8 +756,8 @@
                 "id": 33134597,
                 "language": "Kotlin",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T19:07:02Z",
-                "open_issues": 129,
+                "last_commit": "2026-10-20T10:13:32Z",
+                "open_issues": 130,
                 "owner": "milaboratory",
                 "repo": "mixcr",
                 "stars": 405,
@@ -1278,7 +1278,7 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T01:22:36Z",
+                "last_commit": "2026-10-20T16:07:37Z",
                 "open_issues": 18,
                 "owner": "openvax",
                 "repo": "topiary",
@@ -2345,7 +2345,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-10-06T14:48:25Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "nmdp-bioinformatics",
                 "repo": "py-ard",
                 "stars": 20,
@@ -2386,7 +2386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:59:10.197Z",
+    "last_updated": "2026-10-20T21:14:21.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
