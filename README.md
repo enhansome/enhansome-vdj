@@ -58,9 +58,9 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Specificity Databases
 
-* [**VDJDB: A curated database of T-cell receptor sequences of known antigen specificity**](https://github.com/antigenomics/vdjdb-db) ⭐ 157 | 🐛 5 | 🌐 Python | 📅 2026-10-19 — The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28977646/) · 🪝 [491](https://www.semanticscholar.org/paper/cfd86d8ddd03ccacd18343d091ac93745e4187d6) · ⭐ [149](https://github.com/antigenomics/vdjdb-db/stargazers) ⭐ 157 | 🐛 5 | 🌐 Python | 📅 2026-10-19 · [Homepage](https://vdjdb.cdr3.net)
+* [**VDJDB: A curated database of T-cell receptor sequences of known antigen specificity**](https://github.com/antigenomics/vdjdb-db) ⭐ 157 | 🐛 7 | 🌐 Python | 📅 2026-10-21 — The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28977646/) · 🪝 [491](https://www.semanticscholar.org/paper/cfd86d8ddd03ccacd18343d091ac93745e4187d6) · ⭐ [149](https://github.com/antigenomics/vdjdb-db/stargazers) ⭐ 157 | 🐛 7 | 🌐 Python | 📅 2026-10-21 · [Homepage](https://vdjdb.cdr3.net)
 
-* [**vdjmatch**](https://github.com/antigenomics/vdjmatch) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2026-10-19 — Matching T-cell repertoire against a database of TCR antigen specificities<br>⭐ [39](https://github.com/antigenomics/vdjmatch/stargazers) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2026-10-19 · [Homepage](https://vdjdb.cdr3.net) · `Groovy`
+* [**vdjmatch**](https://github.com/antigenomics/vdjmatch) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2026-10-21 — Matching T-cell repertoire against a database of TCR antigen specificities<br>⭐ [39](https://github.com/antigenomics/vdjmatch/stargazers) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2026-10-21 · [Homepage](https://vdjdb.cdr3.net) · `Groovy`
 
 * [**McPAS-TCR: A manually curated catalogue of pathology associated T-cell receptor sequences**](https://friedmanlab.weizmann.ac.il/McPAS-TCR/) — McPAS-TCR is a manually curated catalogue of T cell receptor (TCR) sequences that were found in T cells associated with various pathological conditions in humans and in mice. It is meant to link TC...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28481982/) · 🪝 [449](https://www.semanticscholar.org/paper/af8ef665e0cd44a7cf69b811626519a3fcf323b4) · [Homepage](https://friedmanlab.weizmann.ac.il/McPAS-TCR/)
 
@@ -142,7 +142,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Sequence Processing
 
-* [**MiXCR: a universal tool for fast and accurate analysis of T- and B- cell receptor repertoire sequencing data**](https://github.com/milaboratory/mixcr) ⭐ 405 | 🐛 130 | 🌐 Kotlin | 📅 2026-10-20 — MiXCR is a universal framework that processes big immunome data from raw sequences to quantitated clonotypes. MiXCR efficiently handles paired- and single-end reads, considers sequence quality, cor...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/39433438/) · 🪝 [4](https://www.semanticscholar.org/paper/0eaa429866419cf0a165ccae340447d6f2a4c925) · ⭐ [380](https://github.com/milaboratory/mixcr/stargazers) ⭐ 405 | 🐛 130 | 🌐 Kotlin | 📅 2026-10-20 · `Java`
+* [**MiXCR: a universal tool for fast and accurate analysis of T- and B- cell receptor repertoire sequencing data**](https://github.com/milaboratory/mixcr) ⭐ 405 | 🐛 129 | 🌐 Kotlin | 📅 2026-10-21 — MiXCR is a universal framework that processes big immunome data from raw sequences to quantitated clonotypes. MiXCR efficiently handles paired- and single-end reads, considers sequence quality, cor...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/39433438/) · 🪝 [4](https://www.semanticscholar.org/paper/0eaa429866419cf0a165ccae340447d6f2a4c925) · ⭐ [380](https://github.com/milaboratory/mixcr/stargazers) ⭐ 405 | 🐛 129 | 🌐 Kotlin | 📅 2026-10-21 · `Java`
 
 * [**stitchr**](https://github.com/JamieHeather/stitchr) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2026-03-12 — Stitchr - a Python script to stitch together coding TCR nucleotide sequences from V, J, and CDR3 info<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/35325179/) · 🪝 [22](https://www.semanticscholar.org/paper/aeaf4f3d97ca02f2b25cf040d6ad39a62db41a1e) · ⭐ [64](https://github.com/JamieHeather/stitchr/stargazers) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2026-03-12 · [Homepage](https://jamieheather.github.io/stitchr/) · `Python`
 
@@ -190,7 +190,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 35 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 35 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 18 | 🌐 Python | 📅 2026-10-20 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 18 | 🌐 Python | 📅 2026-10-20 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 18 | 🌐 Python | 📅 2026-10-21 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 18 | 🌐 Python | 📅 2026-10-21 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -298,7 +298,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**bigmhc**](https://github.com/KarchinLab/bigmhc) ⭐ 70 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-10-13 — BigMHC predicts MHC-I (neo)epitope presentation and immunogenicity<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/37829001/) · 🪝 [60](https://www.semanticscholar.org/paper/ef7763384b5f987dc546cdd9ece14b3e81b89190) · ⭐ [59](https://github.com/KarchinLab/bigmhc/stargazers) ⭐ 70 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-10-13 · `Jupyter Notebook`
 
-* [**MixMHC2pred**](https://github.com/GfellerLab/MixMHC2pred) ⭐ 52 | 🐛 0 | 🌐 C++ | 📅 2026-08-25 — HLA-II ligand predictor.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38907900/) · 🪝 [4](https://www.semanticscholar.org/paper/951c39da3e761004836a22ef928c3ff7a8772542) · ⭐ [46](https://github.com/GfellerLab/MixMHC2pred/stargazers) ⭐ 52 | 🐛 0 | 🌐 C++ | 📅 2026-08-25 · `C++`
+* [**MixMHC2pred**](https://github.com/GfellerLab/MixMHC2pred) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2026-08-25 — HLA-II ligand predictor.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38907900/) · 🪝 [4](https://www.semanticscholar.org/paper/951c39da3e761004836a22ef928c3ff7a8772542) · ⭐ [46](https://github.com/GfellerLab/MixMHC2pred/stargazers) ⭐ 53 | 🐛 0 | 🌐 C++ | 📅 2026-08-25 · `C++`
 
 * [**MixMHCpred**](https://github.com/GfellerLab/MixMHCpred) ⭐ 47 | 🐛 2 | 🌐 Python | 📅 2026-03-19 — HLA-I ligand predictor<br>⭐ [43](https://github.com/GfellerLab/MixMHCpred/stargazers) ⭐ 47 | 🐛 2 | 🌐 Python | 📅 2026-03-19 · `Python`
 
@@ -306,7 +306,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**MHCAttnNet**](https://github.com/gopuvenkat/MHCAttnNet) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2021-02-14 — MHCAttnNet: Allele-Peptide predictions for class I & class II MHC alleles<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32657386/) · 🪝 [39](https://www.semanticscholar.org/paper/64fd328e9f126c6277e2ab50f4a4b86be9bfda94) · ⭐ [30](https://github.com/gopuvenkat/MHCAttnNet/stargazers) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2021-02-14 · `Python`
 
-* [**immunogenetr**](https://github.com/k96nb01/immunogenetr_package) ⭐ 6 | 🐛 7 | 🌐 R | 📅 2026-10-19 — immunogenetr is a comprehensive toolkit for clinical HLA informatics. It is built on tidyverse principles and makes use of genotype list string (GL string, <https://glstring.org/>) for storing and us...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/41344288/) · ⭐ [6](https://github.com/k96nb01/immunogenetr_package/stargazers) ⭐ 6 | 🐛 7 | 🌐 R | 📅 2026-10-19 · [Homepage](https://glstring.org/) · `R`
+* [**immunogenetr**](https://github.com/k96nb01/immunogenetr_package) ⭐ 6 | 🐛 6 | 🌐 R | 📅 2026-10-21 — immunogenetr is a comprehensive toolkit for clinical HLA informatics. It is built on tidyverse principles and makes use of genotype list string (GL string, <https://glstring.org/>) for storing and us...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/41344288/) · ⭐ [6](https://github.com/k96nb01/immunogenetr_package/stargazers) ⭐ 6 | 🐛 6 | 🌐 R | 📅 2026-10-21 · [Homepage](https://glstring.org/) · `R`
 
 * [**HLAMatchmaker**](https://pubmed.ncbi.nlm.nih.gov/11975978/) — A molecularly based algorithm for histocompatibility determination that identifies acceptable HLA antigens for highly alloimmunized patients based on amino acid triplets (eplets) on exposed parts o...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/11975978/) · 🪝 [267](https://www.semanticscholar.org/paper/7a00824f5126ab1433ac8fdcfba4dab4854ab3b2)
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
