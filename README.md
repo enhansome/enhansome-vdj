@@ -98,7 +98,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**CONGA: Clonotype Neighbor Graph Analysis**](https://github.com/phbradley/conga) ⭐ 100 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-06-15 — CONGA was developed to detect correlation between T cell gene expression profile and TCR sequence in single-cell datasets.<br>[Paper](https://doi.org/10.1101/2020.06.04.134536) · 🪝 [9](https://www.semanticscholar.org/paper/d0a9125325f851f69dbc486e2b2e75f9ba63d4f5) · ⭐ [93](https://github.com/phbradley/conga/stargazers) ⭐ 100 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-06-15 · `Python`
 
-* [**airrflow**](https://github.com/nf-core/airrflow) ⭐ 82 | 🐛 56 | 🌐 Nextflow | 📅 2026-10-16 — B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38293151/) · 🪝 [10](https://www.semanticscholar.org/paper/https://www.semanticscholar.org/paper/04c2e0be97ba6d6035506595694eb22e2093037b) · ⭐ [73](https://github.com/nf-core/airrflow/stargazers) ⭐ 82 | 🐛 56 | 🌐 Nextflow | 📅 2026-10-16 · [Homepage](https://nf-co.re/airrflow) · `Nextflow`
+* [**airrflow**](https://github.com/nf-core/airrflow) ⭐ 82 | 🐛 56 | 🌐 Nextflow | 📅 2026-10-22 — B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38293151/) · 🪝 [10](https://www.semanticscholar.org/paper/https://www.semanticscholar.org/paper/04c2e0be97ba6d6035506595694eb22e2093037b) · ⭐ [73](https://github.com/nf-core/airrflow/stargazers) ⭐ 82 | 🐛 56 | 🌐 Nextflow | 📅 2026-10-22 · [Homepage](https://nf-co.re/airrflow) · `Nextflow`
 
 * [**mvTCR**](https://github.com/SchubertLab/mvTCR) ⭐ 60 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-11-01 — A multi-view Variational Autoencoder (mvTCR) to jointly embed transcriptomic and TCR sequence information at a single-cell level to better capture the phenotypic behavior of T cells.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38956082/) · 🪝 [17](https://www.semanticscholar.org/paper/62559a2f08e304d5a6149f4605e45529ac2c150e) · ⭐ [56](https://github.com/SchubertLab/mvTCR/stargazers) ⭐ 60 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-11-01 · [Homepage](https://zenodo.org/record/5006839) · `Python`
 
@@ -128,7 +128,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**dkm: Dynamic Kernel Matching**](https://github.com/jostmey/dkm) ⭐ 94 | 🐛 0 | 🌐 HTML | 📅 2023-05-16 — DKM is analogous to a convolutional network, but for sequences. Consider the problem of classifying a sequence. Because some sequences are longer than others, the number of features is irregular. G...<br>⭐ [94](https://github.com/jostmey/dkm/stargazers) ⭐ 94 | 🐛 0 | 🌐 HTML | 📅 2023-05-16 · `Python`
 
-* [**immuneML**](https://github.com/uio-bmi/immuneML) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-10-20 — immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.<br>⭐ [73](https://github.com/uio-bmi/immuneML/stargazers) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-10-20 · [Homepage](https://immuneml.uio.no) · `Python`
+* [**immuneML**](https://github.com/uio-bmi/immuneML) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-10-22 — immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.<br>⭐ [73](https://github.com/uio-bmi/immuneML/stargazers) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-10-22 · [Homepage](https://immuneml.uio.no) · `Python`
 
 * [**abstar**](https://github.com/brineylab/abstar) ⭐ 45 | 🐛 7 | 🌐 Python | 📅 2026-09-08 — VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.<br>⭐ [44](https://github.com/brineylab/abstar/stargazers) ⭐ 45 | 🐛 7 | 🌐 Python | 📅 2026-09-08 · `Pkl`
 
@@ -184,13 +184,13 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**MuPeXI**](https://github.com/ambj/MuPeXI) ⭐ 52 | 🐛 19 | 🌐 Python | 📅 2019-09-12 — MuPeXI: the mutant peptide extractor and informer, a tool for predicting neo-epitopes from tumor sequencing data.<br>⭐ [52](https://github.com/ambj/MuPeXI/stargazers) ⭐ 52 | 🐛 19 | 🌐 Python | 📅 2019-09-12 · `Python`
 
-* [**MixTCRpred**](https://github.com/GfellerLab/MixTCRpred) ⭐ 40 | 🐛 2 | 🌐 Python | 📅 2025-09-09 — Predictor of TCR-epitope interactions<br>⭐ [34](https://github.com/GfellerLab/MixTCRpred/stargazers) ⭐ 40 | 🐛 2 | 🌐 Python | 📅 2025-09-09 · `Python`
-
 * [**neoantigens**](https://github.com/umccr/neoantigens) ⚠️ Archived — Exploring novel tumor epitope identification<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/36604431/) · 🪝 [624](https://www.semanticscholar.org/paper/327da2a2b6bdbb3eea81e8a11b832c1955dd33d7) · ⭐ [37](https://github.com/umccr/neoantigens/stargazers) ⚠️ Archived · `Python`
+
+* [**MixTCRpred**](https://github.com/GfellerLab/MixTCRpred) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2025-09-09 — Predictor of TCR-epitope interactions<br>⭐ [34](https://github.com/GfellerLab/MixTCRpred/stargazers) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2025-09-09 · `Python`
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 35 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 35 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 18 | 🌐 Python | 📅 2026-10-21 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 18 | 🌐 Python | 📅 2026-10-21 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 30 | 🐛 18 | 🌐 Python | 📅 2026-10-22 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 30 | 🐛 18 | 🌐 Python | 📅 2026-10-22 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -204,7 +204,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**Absolut: Unconstrained lattice antibody-antigen bindings generator - One tool to simulate them all!**](https://github.com/csi-greifflab/Absolut) ⭐ 113 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-05-23 — Absolut! is a database and C++ user interface that allows the high-throughput computation for the 3D-lattice binding of any CDRH3 sequence to any antigen, enabling the custom generation of new anti...<br>[Paper](https://doi.org/10.1101/2021.07.06.451258) · 🪝 [20](https://www.semanticscholar.org/paper/77e244e5e7df68c8afeebababc8774a07290964a) · ⭐ [111](https://github.com/csi-greifflab/Absolut/stargazers) ⭐ 113 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-05-23 · `C++`
 
-* [**TCRdock**](https://github.com/phbradley/TCRdock) ⭐ 98 | 🐛 17 | 🌐 Python | 📅 2026-06-26 — Python tools for TCR:peptide-MHC modeling and analysis: - Set up and run TCR-specialized AlphaFold simulations starting from a TSV file with TCR, peptide, and MHC information. - Parse a TCR:peptide...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/36661395/) · 🪝 [93](https://www.semanticscholar.org/paper/daa04b1951a9f7d7390754ea48144ab18ccb9b0c) · ⭐ [86](https://github.com/phbradley/TCRdock/stargazers) ⭐ 98 | 🐛 17 | 🌐 Python | 📅 2026-06-26 · `Python`
+* [**TCRdock**](https://github.com/phbradley/TCRdock) ⭐ 97 | 🐛 17 | 🌐 Python | 📅 2026-06-26 — Python tools for TCR:peptide-MHC modeling and analysis: - Set up and run TCR-specialized AlphaFold simulations starting from a TSV file with TCR, peptide, and MHC information. - Parse a TCR:peptide...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/36661395/) · 🪝 [93](https://www.semanticscholar.org/paper/daa04b1951a9f7d7390754ea48144ab18ccb9b0c) · ⭐ [86](https://github.com/phbradley/TCRdock/stargazers) ⭐ 97 | 🐛 17 | 🌐 Python | 📅 2026-06-26 · `Python`
 
 * [**tcr-bert**](https://github.com/wukevin/tcr-bert) ⭐ 61 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2022-05-04 — TCR-BERT is a large language model trained on T-cell receptor sequences, built using a lightly modified BERT architecture with tweaked pre-training objectives.<br>[Paper](http://dx.doi.org/10.1101/2021.11.18.469186) · 🪝 [74](https://www.semanticscholar.org/paper/7ef95e6164999fe9fc6d30ce2b64e8f0cabaf225) · ⭐ [57](https://github.com/wukevin/tcr-bert/stargazers) ⭐ 61 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2022-05-04 · `Python`
 
@@ -320,7 +320,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**MHC-PRG**](https://github.com/AlexanderDilthey/MHC-PRG) ⭐ 35 | 🐛 4 | 🌐 C++ | 📅 2018-12-18 — Population Reference Graphs for the HLA and MHC.<br>⭐ [35](https://github.com/AlexanderDilthey/MHC-PRG/stargazers) ⭐ 35 | 🐛 4 | 🌐 C++ | 📅 2018-12-18 · `C++`
 
-* [**py-ard**](https://github.com/nmdp-bioinformatics/py-ard) ⭐ 20 | 🐛 14 | 🌐 Python | 📅 2026-10-06 — HLA ARD Reduction in Python. Although HLA nomenclature has not always conformed to the same standard, it is now defined by The WHO Nomenclature Committee for Factors of the HLA System. py-ard is aw\...<br>⭐ [19](https://github.com/nmdp-bioinformatics/py-ard/stargazers) ⭐ 20 | 🐛 14 | 🌐 Python | 📅 2026-10-06 · `Python`
+* [**py-ard**](https://github.com/nmdp-bioinformatics/py-ard) ⭐ 20 | 🐛 12 | 🌐 Python | 📅 2026-10-22 — HLA ARD Reduction in Python. Although HLA nomenclature has not always conformed to the same standard, it is now defined by The WHO Nomenclature Committee for Factors of the HLA System. py-ard is aw\...<br>⭐ [19](https://github.com/nmdp-bioinformatics/py-ard/stargazers) ⭐ 20 | 🐛 12 | 🌐 Python | 📅 2026-10-22 · `Python`
 
 * [**HLAtools: Functions and Datasets for HLA Informatics**](https://github.com/sjmack/HLAtools) ⭐ 4 | 🐛 1 | 🌐 R | 📅 2026-10-12 — We have developed HLAtools, an R package that automates the consumption of IPD-IMGT/HLA resources, renders them computable, and makes them available alongside tools for data analysis, visualization...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/40947766/) · 🪝 [1](https://www.semanticscholar.org/paper/a47f89a247c3149305dba16cfcbbd94b66810d49) · ⭐ [4](https://github.com/sjmack/HLAtools/stargazers) ⭐ 4 | 🐛 1 | 🌐 R | 📅 2026-10-12 · `R`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

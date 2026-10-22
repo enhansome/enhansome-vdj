@@ -253,7 +253,7 @@
                 "id": 160348245,
                 "language": "Nextflow",
                 "license": "MIT",
-                "last_commit": "2026-10-16T20:16:09Z",
+                "last_commit": "2026-10-22T06:56:07Z",
                 "open_issues": 56,
                 "owner": "nf-core",
                 "repo": "airrflow",
@@ -603,7 +603,7 @@
                 "id": 299273889,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-20T15:06:14Z",
+                "last_commit": "2026-10-22T14:22:45Z",
                 "open_issues": 1,
                 "owner": "uio-bmi",
                 "repo": "immuneML",
@@ -1205,27 +1205,6 @@
             },
             {
               "node_type": "item",
-              "title": "MixTCRpred",
-              "description": "Predictor of TCR-epitope interactions⭐ 34 ·",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Predictor of TCR-epitope interactions",
-                "homepage": null,
-                "id": 571945724,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2025-09-09T13:17:13Z",
-                "open_issues": 2,
-                "owner": "GfellerLab",
-                "repo": "MixTCRpred",
-                "stars": 40,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:27:41.249Z"
-            },
-            {
-              "node_type": "item",
               "title": "neoantigens",
               "description": "Exploring novel tumor epitope identificationPubMed · 🪝 624 · ⭐ 37 ·",
               "children": [],
@@ -1240,6 +1219,27 @@
                 "open_issues": 0,
                 "owner": "umccr",
                 "repo": "neoantigens",
+                "stars": 39,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MixTCRpred",
+              "description": "Predictor of TCR-epitope interactions⭐ 34 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Predictor of TCR-epitope interactions",
+                "homepage": null,
+                "id": 571945724,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2025-09-09T13:17:13Z",
+                "open_issues": 2,
+                "owner": "GfellerLab",
+                "repo": "MixTCRpred",
                 "stars": 39,
                 "topics": []
               },
@@ -1278,7 +1278,7 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T04:08:30Z",
+                "last_commit": "2026-10-22T03:41:12Z",
                 "open_issues": 18,
                 "owner": "openvax",
                 "repo": "topiary",
@@ -1420,7 +1420,7 @@
                 "open_issues": 17,
                 "owner": "phbradley",
                 "repo": "TCRdock",
-                "stars": 98,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -2344,8 +2344,8 @@
                 "id": 121410722,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-06T14:48:25Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-22T20:33:30Z",
+                "open_issues": 12,
                 "owner": "nmdp-bioinformatics",
                 "repo": "py-ard",
                 "stars": 20,
@@ -2386,7 +2386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T21:14:56.621Z",
+    "last_updated": "2026-10-22T21:11:47.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
