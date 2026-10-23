@@ -128,7 +128,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**dkm: Dynamic Kernel Matching**](https://github.com/jostmey/dkm) ⭐ 94 | 🐛 0 | 🌐 HTML | 📅 2023-05-16 — DKM is analogous to a convolutional network, but for sequences. Consider the problem of classifying a sequence. Because some sequences are longer than others, the number of features is irregular. G...<br>⭐ [94](https://github.com/jostmey/dkm/stargazers) ⭐ 94 | 🐛 0 | 🌐 HTML | 📅 2023-05-16 · `Python`
 
-* [**immuneML**](https://github.com/uio-bmi/immuneML) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-10-22 — immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.<br>⭐ [73](https://github.com/uio-bmi/immuneML/stargazers) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-10-22 · [Homepage](https://immuneml.uio.no) · `Python`
+* [**immuneML**](https://github.com/uio-bmi/immuneML) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-10-23 — immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.<br>⭐ [73](https://github.com/uio-bmi/immuneML/stargazers) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-10-23 · [Homepage](https://immuneml.uio.no) · `Python`
 
 * [**abstar**](https://github.com/brineylab/abstar) ⭐ 45 | 🐛 7 | 🌐 Python | 📅 2026-09-08 — VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.<br>⭐ [44](https://github.com/brineylab/abstar/stargazers) ⭐ 45 | 🐛 7 | 🌐 Python | 📅 2026-09-08 · `Pkl`
 
@@ -142,7 +142,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Sequence Processing
 
-* [**MiXCR: a universal tool for fast and accurate analysis of T- and B- cell receptor repertoire sequencing data**](https://github.com/milaboratory/mixcr) ⭐ 405 | 🐛 129 | 🌐 Kotlin | 📅 2026-10-21 — MiXCR is a universal framework that processes big immunome data from raw sequences to quantitated clonotypes. MiXCR efficiently handles paired- and single-end reads, considers sequence quality, cor...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/39433438/) · 🪝 [4](https://www.semanticscholar.org/paper/0eaa429866419cf0a165ccae340447d6f2a4c925) · ⭐ [380](https://github.com/milaboratory/mixcr/stargazers) ⭐ 405 | 🐛 129 | 🌐 Kotlin | 📅 2026-10-21 · `Java`
+* [**MiXCR: a universal tool for fast and accurate analysis of T- and B- cell receptor repertoire sequencing data**](https://github.com/milaboratory/mixcr) ⭐ 405 | 🐛 130 | 🌐 Kotlin | 📅 2026-10-23 — MiXCR is a universal framework that processes big immunome data from raw sequences to quantitated clonotypes. MiXCR efficiently handles paired- and single-end reads, considers sequence quality, cor...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/39433438/) · 🪝 [4](https://www.semanticscholar.org/paper/0eaa429866419cf0a165ccae340447d6f2a4c925) · ⭐ [380](https://github.com/milaboratory/mixcr/stargazers) ⭐ 405 | 🐛 130 | 🌐 Kotlin | 📅 2026-10-23 · `Java`
 
 * [**stitchr**](https://github.com/JamieHeather/stitchr) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2026-03-12 — Stitchr - a Python script to stitch together coding TCR nucleotide sequences from V, J, and CDR3 info<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/35325179/) · 🪝 [22](https://www.semanticscholar.org/paper/aeaf4f3d97ca02f2b25cf040d6ad39a62db41a1e) · ⭐ [64](https://github.com/JamieHeather/stitchr/stargazers) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2026-03-12 · [Homepage](https://jamieheather.github.io/stitchr/) · `Python`
 
@@ -158,7 +158,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**IMSEQ: IMmunogenetic SEQuence Analysis**](https://github.com/lkuchenb/imseq) ⭐ 15 | 🐛 2 | 🌐 C++ | 📅 2018-08-10 — IMSEQ is a fast, PCR and sequencing error aware tool to analyze high throughput data from recombined T-cell receptor or immunoglobolin gene sequencing experiments. It derives immune repertoires fro...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/25987567/) · 🪝 [98](https://www.semanticscholar.org/paper/0b738ce3da3d79cefd8c1460687878f60bd05183) · ⭐ [15](https://github.com/lkuchenb/imseq/stargazers) ⭐ 15 | 🐛 2 | 🌐 C++ | 📅 2018-08-10
 
-* [**PRESTO: The REpertoire Sequencing TOolkit**](https://github.com/immcantation/presto) ⭐ 0 | 🐛 10 | 🌐 Python | 📅 2026-10-15 — pRESTO is a toolkit for processing raw reads from high-throughput sequencing of B cell and T cell repertoires. > The REpertoire Sequencing TOolkit (pRESTO) is composed of a suite of utilities to ha...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/24618469/) · 🪝 [424](https://www.semanticscholar.org/paper/ca321103129928fcc5522d2a314fdd167bf8805e) · [Docs](https://presto.readthedocs.io/en/stable) · `Python`
+* [**PRESTO: The REpertoire Sequencing TOolkit**](https://github.com/immcantation/presto) ⭐ 0 | 🐛 10 | 🌐 Python | 📅 2026-10-23 — pRESTO is a toolkit for processing raw reads from high-throughput sequencing of B cell and T cell repertoires. > The REpertoire Sequencing TOolkit (pRESTO) is composed of a suite of utilities to ha...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/24618469/) · 🪝 [424](https://www.semanticscholar.org/paper/ca321103129928fcc5522d2a314fdd167bf8805e) · [Docs](https://presto.readthedocs.io/en/stable) · `Python`
 
 ### Clustering & Similarity
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

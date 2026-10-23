@@ -603,7 +603,7 @@
                 "id": 299273889,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-22T14:22:45Z",
+                "last_commit": "2026-10-23T12:48:07Z",
                 "open_issues": 1,
                 "owner": "uio-bmi",
                 "repo": "immuneML",
@@ -756,8 +756,8 @@
                 "id": 33134597,
                 "language": "Kotlin",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T13:02:10Z",
-                "open_issues": 129,
+                "last_commit": "2026-10-23T13:34:30Z",
+                "open_issues": 130,
                 "owner": "milaboratory",
                 "repo": "mixcr",
                 "stars": 405,
@@ -954,7 +954,7 @@
                 "id": 865968162,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-15T18:20:06Z",
+                "last_commit": "2026-10-23T13:16:32Z",
                 "open_issues": 10,
                 "owner": "immcantation",
                 "repo": "presto",
@@ -2386,7 +2386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T21:11:47.902Z",
+    "last_updated": "2026-10-23T20:58:52.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
