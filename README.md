@@ -60,7 +60,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**VDJDB: A curated database of T-cell receptor sequences of known antigen specificity**](https://github.com/antigenomics/vdjdb-db) ⭐ 157 | 🐛 14 | 🌐 Python | 📅 2026-10-29 — The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28977646/) · 🪝 [491](https://www.semanticscholar.org/paper/cfd86d8ddd03ccacd18343d091ac93745e4187d6) · ⭐ [149](https://github.com/antigenomics/vdjdb-db/stargazers) ⭐ 157 | 🐛 14 | 🌐 Python | 📅 2026-10-29 · [Homepage](https://vdjdb.cdr3.net)
 
-* [**vdjmatch**](https://github.com/antigenomics/vdjmatch) ⭐ 40 | 🐛 2 | 🌐 Python | 📅 2026-10-31 — Matching T-cell repertoire against a database of TCR antigen specificities<br>⭐ [39](https://github.com/antigenomics/vdjmatch/stargazers) ⭐ 40 | 🐛 2 | 🌐 Python | 📅 2026-10-31 · [Homepage](https://vdjdb.cdr3.net) · `Groovy`
+* [**vdjmatch**](https://github.com/antigenomics/vdjmatch) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2026-11-01 — Matching T-cell repertoire against a database of TCR antigen specificities<br>⭐ [39](https://github.com/antigenomics/vdjmatch/stargazers) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2026-11-01 · [Homepage](https://vdjdb.cdr3.net) · `Groovy`
 
 * [**McPAS-TCR: A manually curated catalogue of pathology associated T-cell receptor sequences**](https://friedmanlab.weizmann.ac.il/McPAS-TCR/) — McPAS-TCR is a manually curated catalogue of T cell receptor (TCR) sequences that were found in T cells associated with various pathological conditions in humans and in mice. It is meant to link TC...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28481982/) · 🪝 [449](https://www.semanticscholar.org/paper/af8ef665e0cd44a7cf69b811626519a3fcf323b4) · [Homepage](https://friedmanlab.weizmann.ac.il/McPAS-TCR/)
 
@@ -122,13 +122,13 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**msm: Max Snippet Model**](https://github.com/jostmey/msm) ⭐ 176 | 🐛 0 | 🌐 Python | 📅 2023-05-01 — Improved statistical classifier for immune repertoires<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33868241/) · 🪝 [8](https://www.semanticscholar.org/paper/77b6920d6e016f551c73c7d6eb5ac385128772f5) · ⭐ [177](https://github.com/jostmey/msm/stargazers) ⭐ 176 | 🐛 0 | 🌐 Python | 📅 2023-05-01 · `Python`
 
-* [**VDJtools**](https://github.com/mikessh/vdjtools) ⭐ 147 | 🐛 0 | 🌐 Python | 📅 2026-10-31 — A comprehensive analysis framework for T-cell and B-cell repertoire sequencing data<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26606115/) · 🪝 [529](https://www.semanticscholar.org/paper/c5994d9f6ed808f510cb95a3225c9f8ab0d6b460) · ⭐ [142](https://github.com/mikessh/vdjtools/stargazers) ⭐ 147 | 🐛 0 | 🌐 Python | 📅 2026-10-31 · `Java` `Groovy`
+* [**VDJtools**](https://github.com/mikessh/vdjtools) ⭐ 147 | 🐛 0 | 🌐 Python | 📅 2026-11-01 — A comprehensive analysis framework for T-cell and B-cell repertoire sequencing data<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26606115/) · 🪝 [529](https://www.semanticscholar.org/paper/c5994d9f6ed808f510cb95a3225c9f8ab0d6b460) · ⭐ [142](https://github.com/mikessh/vdjtools/stargazers) ⭐ 147 | 🐛 0 | 🌐 Python | 📅 2026-11-01 · `Java` `Groovy`
 
 * [**DeepRC**](https://github.com/ml-jku/DeepRC) ⭐ 131 | 🐛 4 | 🌐 Python | 📅 2023-09-12 — DeepRC: Immune repertoire classification with attention-based deep massive multiple instance learning<br>⭐ [124](https://github.com/ml-jku/DeepRC/stargazers) ⭐ 131 | 🐛 4 | 🌐 Python | 📅 2023-09-12 · `Python`
 
 * [**dkm: Dynamic Kernel Matching**](https://github.com/jostmey/dkm) ⭐ 94 | 🐛 0 | 🌐 HTML | 📅 2023-05-16 — DKM is analogous to a convolutional network, but for sequences. Consider the problem of classifying a sequence. Because some sequences are longer than others, the number of features is irregular. G...<br>⭐ [94](https://github.com/jostmey/dkm/stargazers) ⭐ 94 | 🐛 0 | 🌐 HTML | 📅 2023-05-16 · `Python`
 
-* [**immuneML**](https://github.com/uio-bmi/immuneML) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-10-31 — immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.<br>⭐ [73](https://github.com/uio-bmi/immuneML/stargazers) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-10-31 · [Homepage](https://immuneml.uio.no) · `Python`
+* [**immuneML**](https://github.com/uio-bmi/immuneML) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-11-01 — immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.<br>⭐ [73](https://github.com/uio-bmi/immuneML/stargazers) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-11-01 · [Homepage](https://immuneml.uio.no) · `Python`
 
 * [**abstar**](https://github.com/brineylab/abstar) ⭐ 45 | 🐛 7 | 🌐 Python | 📅 2026-09-08 — VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.<br>⭐ [44](https://github.com/brineylab/abstar/stargazers) ⭐ 45 | 🐛 7 | 🌐 Python | 📅 2026-09-08 · `Pkl`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
