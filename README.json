@@ -142,7 +142,7 @@
                 "open_issues": 126,
                 "owner": "liulab-dfci",
                 "repo": "TRUST4",
-                "stars": 367,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -253,8 +253,8 @@
                 "id": 160348245,
                 "language": "Nextflow",
                 "license": "MIT",
-                "last_commit": "2026-11-02T20:08:27Z",
-                "open_issues": 58,
+                "last_commit": "2026-11-03T18:33:17Z",
+                "open_issues": 49,
                 "owner": "nf-core",
                 "repo": "airrflow",
                 "stars": 83,
@@ -1278,8 +1278,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T21:36:00Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-03T15:48:16Z",
+                "open_issues": 30,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 31,
@@ -1420,7 +1420,7 @@
                 "open_issues": 17,
                 "owner": "phbradley",
                 "repo": "TCRdock",
-                "stars": 97,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -2344,8 +2344,8 @@
                 "id": 121410722,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-28T13:50:32Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-03T10:18:13Z",
+                "open_issues": 13,
                 "owner": "nmdp-bioinformatics",
                 "repo": "py-ard",
                 "stars": 20,
@@ -2386,7 +2386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T00:30:14.058Z",
+    "last_updated": "2026-11-03T22:54:20.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
@@ -2398,7 +2398,7 @@
       "open_issues": 0,
       "owner": "slowkow",
       "repo": "awesome-vdj",
-      "stars": 243,
+      "stars": 242,
       "topics": [
         "antibody",
         "awesome-list",
