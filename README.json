@@ -76,7 +76,7 @@
                 "id": 26707493,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T07:23:35Z",
+                "last_commit": "2026-11-04T19:34:31Z",
                 "open_issues": 1,
                 "owner": "antigenomics",
                 "repo": "vdjmatch",
@@ -187,7 +187,7 @@
                 "open_issues": 10,
                 "owner": "Japrin",
                 "repo": "STARTRAC",
-                "stars": 127,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -522,7 +522,7 @@
                 "id": 20546990,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T04:28:28Z",
+                "last_commit": "2026-11-04T19:34:29Z",
                 "open_issues": 0,
                 "owner": "antigenomics",
                 "repo": "vdjtools",
@@ -603,7 +603,7 @@
                 "id": 299273889,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-01T14:29:29Z",
+                "last_commit": "2026-11-04T12:01:55Z",
                 "open_issues": 1,
                 "owner": "uio-bmi",
                 "repo": "immuneML",
@@ -813,7 +813,7 @@
                 "id": 20132994,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T22:40:28Z",
+                "last_commit": "2026-11-04T19:34:26Z",
                 "open_issues": 1,
                 "owner": "antigenomics",
                 "repo": "arda",
@@ -1278,8 +1278,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T15:48:16Z",
-                "open_issues": 30,
+                "last_commit": "2026-11-04T18:54:06Z",
+                "open_issues": 32,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 31,
@@ -1498,6 +1498,35 @@
             },
             {
               "node_type": "item",
+              "title": "compairr",
+              "description": "Comparison of Adaptive Immune Receptor RepertoiresPubMed · 🪝 15 · ⭐ 28 ·",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Comparison of Adaptive Immune Receptor Repertoires",
+                "homepage": null,
+                "id": 353091132,
+                "language": "C++",
+                "license": "AGPL-3.0",
+                "last_commit": "2025-01-29T16:20:08Z",
+                "open_issues": 11,
+                "owner": "uio-bmi",
+                "repo": "compairr",
+                "stars": 32,
+                "topics": [
+                  "airr",
+                  "bioinformatics",
+                  "immune-repertoire",
+                  "immunoinformatics",
+                  "immunology",
+                  "rep-seq",
+                  "repertoire-analysis"
+                ]
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
+            },
+            {
+              "node_type": "item",
               "title": "TITAN - Tcr epITope bimodal Attention Networks",
               "description": "a bimodal neural network that explicitly encodes both TCR sequences and epitopes to enable the independent study of generalization capabilities to unseen TCRs and/or epitopes.PubMed · 🪝 150 · ⭐ 30 ·",
               "children": [],
@@ -1519,35 +1548,6 @@
                   "immunology",
                   "protein-ligand",
                   "tcr-epitope"
-                ]
-              },
-              "first_seen": "2026-08-29T01:27:41.249Z"
-            },
-            {
-              "node_type": "item",
-              "title": "compairr",
-              "description": "Comparison of Adaptive Immune Receptor RepertoiresPubMed · 🪝 15 · ⭐ 28 ·",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Comparison of Adaptive Immune Receptor Repertoires",
-                "homepage": null,
-                "id": 353091132,
-                "language": "C++",
-                "license": "AGPL-3.0",
-                "last_commit": "2025-01-29T16:20:08Z",
-                "open_issues": 11,
-                "owner": "uio-bmi",
-                "repo": "compairr",
-                "stars": 31,
-                "topics": [
-                  "airr",
-                  "bioinformatics",
-                  "immune-repertoire",
-                  "immunoinformatics",
-                  "immunology",
-                  "rep-seq",
-                  "repertoire-analysis"
                 ]
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -2386,7 +2386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T22:54:20.747Z",
+    "last_updated": "2026-11-04T23:12:13.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
