@@ -58,9 +58,9 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Specificity Databases
 
-* [**VDJDB: A curated database of T-cell receptor sequences of known antigen specificity**](https://github.com/antigenomics/vdjdb-db) ⭐ 157 | 🐛 14 | 🌐 Python | 📅 2026-11-02 — The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28977646/) · 🪝 [491](https://www.semanticscholar.org/paper/cfd86d8ddd03ccacd18343d091ac93745e4187d6) · ⭐ [149](https://github.com/antigenomics/vdjdb-db/stargazers) ⭐ 157 | 🐛 14 | 🌐 Python | 📅 2026-11-02 · [Homepage](https://vdjdb.cdr3.net)
+* [**VDJDB: A curated database of T-cell receptor sequences of known antigen specificity**](https://github.com/antigenomics/vdjdb-db) ⭐ 157 | 🐛 15 | 🌐 Python | 📅 2026-11-05 — The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28977646/) · 🪝 [491](https://www.semanticscholar.org/paper/cfd86d8ddd03ccacd18343d091ac93745e4187d6) · ⭐ [149](https://github.com/antigenomics/vdjdb-db/stargazers) ⭐ 157 | 🐛 15 | 🌐 Python | 📅 2026-11-05 · [Homepage](https://vdjdb.cdr3.net)
 
-* [**vdjmatch**](https://github.com/antigenomics/vdjmatch) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2026-11-04 — Matching T-cell repertoire against a database of TCR antigen specificities<br>⭐ [39](https://github.com/antigenomics/vdjmatch/stargazers) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2026-11-04 · [Homepage](https://vdjdb.cdr3.net) · `Groovy`
+* [**vdjmatch**](https://github.com/antigenomics/vdjmatch) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2026-11-05 — Matching T-cell repertoire against a database of TCR antigen specificities<br>⭐ [39](https://github.com/antigenomics/vdjmatch/stargazers) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2026-11-05 · [Homepage](https://vdjdb.cdr3.net) · `Groovy`
 
 * [**McPAS-TCR: A manually curated catalogue of pathology associated T-cell receptor sequences**](https://friedmanlab.weizmann.ac.il/McPAS-TCR/) — McPAS-TCR is a manually curated catalogue of T cell receptor (TCR) sequences that were found in T cells associated with various pathological conditions in humans and in mice. It is meant to link TC...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28481982/) · 🪝 [449](https://www.semanticscholar.org/paper/af8ef665e0cd44a7cf69b811626519a3fcf323b4) · [Homepage](https://friedmanlab.weizmann.ac.il/McPAS-TCR/)
 
@@ -90,9 +90,9 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**TRUST4: TCR and BCR assembly from RNA-seq data**](https://github.com/liulab-dfci/TRUST4) ⭐ 364 | 🐛 126 | 🌐 C | 📅 2026-09-25 — Tcr Receptor Utilities for Solid Tissue (TRUST) is a computational tool to analyze TCR and BCR sequences using unselected RNA sequencing data, profiled from solid tissues, including tumors. TRUST4 ...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33986545/) · 🪝 [227](https://www.semanticscholar.org/paper/7564c0e07f7135c0ec2eddb4009e6a51febdc991) · ⭐ [337](https://github.com/liulab-dfci/TRUST4/stargazers) ⭐ 364 | 🐛 126 | 🌐 C | 📅 2026-09-25 · `C` `C++` `Perl`
 
-* [**Scirpy: a Scanpy extension for analyzing single-cell T-cell receptor-sequencing data**](https://github.com/scverse/scirpy) ⭐ 268 | 🐛 51 | 🌐 Python | 📅 2026-11-02 — A scalable Python toolkit that provides simplified access to the analysis and visualization of immune repertoires from single cells and seamless integration with transcriptomic data.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32614448/) · 🪝 [212](https://www.semanticscholar.org/paper/fcd27b7bd7ba5b02c64910cf80c2b5b7fabd12e4) · ⭐ [243](https://github.com/scverse/scirpy/stargazers) ⭐ 268 | 🐛 51 | 🌐 Python | 📅 2026-11-02 · [Homepage](https://scirpy.scverse.org/en/latest/) · `Python`
+* [**Scirpy: a Scanpy extension for analyzing single-cell T-cell receptor-sequencing data**](https://github.com/scverse/scirpy) ⭐ 268 | 🐛 49 | 🌐 Python | 📅 2026-11-05 — A scalable Python toolkit that provides simplified access to the analysis and visualization of immune repertoires from single cells and seamless integration with transcriptomic data.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32614448/) · 🪝 [212](https://www.semanticscholar.org/paper/fcd27b7bd7ba5b02c64910cf80c2b5b7fabd12e4) · ⭐ [243](https://github.com/scverse/scirpy/stargazers) ⭐ 268 | 🐛 49 | 🌐 Python | 📅 2026-11-05 · [Homepage](https://scirpy.scverse.org/en/latest/) · `Python`
 
-* [**STARTRAC**](https://github.com/Japrin/STARTRAC) ⭐ 126 | 🐛 10 | 🌐 HTML | 📅 2025-04-26 — STARTRAC(Single T-cell Analysis by Rna-seq and Tcr TRACking)<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33900375/) · 🪝 [27](https://www.semanticscholar.org/paper/11c92257f87b515bc46af2b874ff14890120fadd) · ⭐ [114](https://github.com/Japrin/STARTRAC/stargazers) ⭐ 126 | 🐛 10 | 🌐 HTML | 📅 2025-04-26 · `HTML`
+* [**STARTRAC**](https://github.com/Japrin/STARTRAC) ⭐ 127 | 🐛 10 | 🌐 HTML | 📅 2025-04-26 — STARTRAC(Single T-cell Analysis by Rna-seq and Tcr TRACking)<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33900375/) · 🪝 [27](https://www.semanticscholar.org/paper/11c92257f87b515bc46af2b874ff14890120fadd) · ⭐ [114](https://github.com/Japrin/STARTRAC/stargazers) ⭐ 127 | 🐛 10 | 🌐 HTML | 📅 2025-04-26 · `HTML`
 
 * [**DeepTCR: Deep Learning Methods for Parsing T-Cell Receptor Sequencing (TCRSeq) Data**](https://github.com/sidhomj/DeepTCR) ⭐ 124 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2025-09-16 — DeepTCR is a python package that has a collection of unsupervised and supervised deep learning methods to parse TCRSeq data. It has the added functionality of being able to analyze paired alpha/bet...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33707415/) · 🪝 [217](https://www.semanticscholar.org/paper/a1a242bdb47b7fe9e8d519aacb41157bb78842fb) · ⭐ [123](https://github.com/sidhomj/DeepTCR/stargazers) ⭐ 124 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2025-09-16 · `Python`
 
@@ -130,7 +130,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**immuneML**](https://github.com/uio-bmi/immuneML) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-11-04 — immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.<br>⭐ [73](https://github.com/uio-bmi/immuneML/stargazers) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-11-04 · [Homepage](https://immuneml.uio.no) · `Python`
 
-* [**abstar**](https://github.com/brineylab/abstar) ⭐ 45 | 🐛 7 | 🌐 Python | 📅 2026-09-08 — VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.<br>⭐ [44](https://github.com/brineylab/abstar/stargazers) ⭐ 45 | 🐛 7 | 🌐 Python | 📅 2026-09-08 · `Pkl`
+* [**abstar**](https://github.com/brineylab/abstar) ⭐ 45 | 🐛 6 | 🌐 Python | 📅 2026-11-05 — VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.<br>⭐ [44](https://github.com/brineylab/abstar/stargazers) ⭐ 45 | 🐛 6 | 🌐 Python | 📅 2026-11-05 · `Pkl`
 
 * [**vdjer**](https://github.com/mozack/vdjer) ⭐ 29 | 🐛 8 | 🌐 C | 📅 2022-08-09 — V'DJer -  B Cell Receptor Repertoire Reconstruction from short read mRNA-Seq data<br>⭐ [29](https://github.com/mozack/vdjer/stargazers) ⭐ 29 | 🐛 8 | 🌐 C | 📅 2022-08-09 · `C`
 
@@ -150,7 +150,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**pyIR: An IgBLAST wrapper and parser**](https://github.com/crowelab/PyIR) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2026-01-09 — PyIR is a minimally-dependent high-speed wrapper for the IgBLAST immunoglobulin and T-cell analyzer. This is achieved through chunking the input data set and running IgBLAST single-core in parallel...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32677886/) · 🪝 [29](https://www.semanticscholar.org/paper/4c463450d5f5f6d9e1c1f5a21b3b33cbd4ed141c) · ⭐ [50](https://github.com/crowelab/PyIR/stargazers) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2026-01-09 · `Python`
 
-* [**vidjil**](https://github.com/vidjil/vidjil) ⭐ 33 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-29 — Vidjil -- High-throughput Analysis of V(D)J Immune Repertoire (mirror, please go to <http://gitlab.vidjil.org>)<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/27835690/) · 🪝 [81](https://www.semanticscholar.org/paper/03f774017c20e5297317851016bb37be66c35291) · ⭐ [31](https://github.com/vidjil/vidjil/stargazers) ⭐ 33 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-29 · [Homepage](http://gitlab.vidjil.org) · `JavaScript`
+* [**vidjil**](https://github.com/vidjil/vidjil) ⭐ 34 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-29 — Vidjil -- High-throughput Analysis of V(D)J Immune Repertoire (mirror, please go to <http://gitlab.vidjil.org>)<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/27835690/) · 🪝 [81](https://www.semanticscholar.org/paper/03f774017c20e5297317851016bb37be66c35291) · ⭐ [31](https://github.com/vidjil/vidjil/stargazers) ⭐ 34 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-29 · [Homepage](http://gitlab.vidjil.org) · `JavaScript`
 
 * [**vdjviz**](https://github.com/antigenomics/vdjviz) ⭐ 28 | 🐛 12 | 🌐 JavaScript | 📅 2019-12-10 — A lightweight immune repertoire browser<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/27297497/) · 🪝 [33](https://www.semanticscholar.org/paper/f7da52e1bc9aabf2f08b78dd976bb7c39f2388c6) · ⭐ [27](https://github.com/antigenomics/vdjviz/stargazers) ⭐ 28 | 🐛 12 | 🌐 JavaScript | 📅 2019-12-10 · [Homepage](https://vdjviz.cdr3.net) · `JavaScript`
 
@@ -190,7 +190,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 35 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 35 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 31 | 🐛 32 | 🌐 Python | 📅 2026-11-04 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 31 | 🐛 32 | 🌐 Python | 📅 2026-11-04 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 31 | 🐛 30 | 🌐 Python | 📅 2026-11-05 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 31 | 🐛 30 | 🌐 Python | 📅 2026-11-05 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -272,7 +272,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**T1K: efficient and accurate inference of KIR or HLA alleles from RNA-seq, whole-genome sequencing, or whole-exome sequencing data**](https://github.com/mourisl/T1K) ⭐ 115 | 🐛 1 | 🌐 C | 📅 2026-08-18 — T1K (The ONE genotyper for Kir and HLA) is a computational tool to infer the alleles for the polymorphic genes such as KIR and HLA. T1K calculates the allele abundances based on the RNA-seq/WES/WGS...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/37169596/) · 🪝 [25](https://www.semanticscholar.org/paper/c8ff85a07e0dc87973ba73daccc10731f225a914) · ⭐ [94](https://github.com/mourisl/T1K/stargazers) ⭐ 115 | 🐛 1 | 🌐 C | 📅 2026-08-18 · `C` `C++` `Python` `Perl`
 
-* [**hlatyping**](https://github.com/nf-core/hlatyping) ⭐ 80 | 🐛 14 | 🌐 Nextflow | 📅 2026-10-28 — Precision HLA typing from next-generation sequencing data<br>⭐ [76](https://github.com/nf-core/hlatyping/stargazers) ⭐ 80 | 🐛 14 | 🌐 Nextflow | 📅 2026-10-28 · [Homepage](https://nf-co.re/hlatyping) · `Nextflow`
+* [**hlatyping**](https://github.com/nf-core/hlatyping) ⭐ 81 | 🐛 14 | 🌐 Nextflow | 📅 2026-11-05 — Precision HLA typing from next-generation sequencing data<br>⭐ [76](https://github.com/nf-core/hlatyping/stargazers) ⭐ 81 | 🐛 14 | 🌐 Nextflow | 📅 2026-11-05 · [Homepage](https://nf-co.re/hlatyping) · `Nextflow`
 
 * [**scHLAcount**](https://github.com/10XGenomics/scHLAcount) ⭐ 64 | 🐛 15 | 🌐 TeX | 📅 2021-11-05 — Count HLA alleles in single-cell RNA-seq data<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32330223/) · 🪝 [20](https://www.semanticscholar.org/paper/f38834e9b0845e743e8e41604c0ee9d327d3fe48) · ⭐ [63](https://github.com/10XGenomics/scHLAcount/stargazers) ⭐ 64 | 🐛 15 | 🌐 TeX | 📅 2021-11-05 · `TeX`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
