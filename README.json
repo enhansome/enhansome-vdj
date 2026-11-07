@@ -44,11 +44,11 @@
                 "id": 49149680,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T22:31:53Z",
+                "last_commit": "2026-11-07T07:09:07Z",
                 "open_issues": 15,
                 "owner": "antigenomics",
                 "repo": "vdjdb-db",
-                "stars": 157,
+                "stars": 158,
                 "topics": [
                   "antigen",
                   "binding",
@@ -1278,8 +1278,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T18:39:09Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-07T17:29:14Z",
+                "open_issues": 29,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 31,
@@ -2386,7 +2386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:42:34.274Z",
+    "last_updated": "2026-11-07T21:26:44.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
