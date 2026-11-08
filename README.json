@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "BorchLab",
                 "repo": "scRepertoire",
-                "stars": 378,
+                "stars": 379,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -1278,8 +1278,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T17:29:14Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-08T14:21:47Z",
+                "open_issues": 32,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 31,
@@ -2290,7 +2290,7 @@
                 "language": "R",
                 "license": null,
                 "last_commit": "2026-11-02T19:07:42Z",
-                "open_issues": 5,
+                "open_issues": 8,
                 "owner": "k96nb01",
                 "repo": "immunogenetr_package",
                 "stars": 6,
@@ -2386,7 +2386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T21:26:44.154Z",
+    "last_updated": "2026-11-08T21:40:18.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",

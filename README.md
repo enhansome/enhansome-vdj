@@ -86,7 +86,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Single-Cell
 
-* [**scRepertoire: A toolkit for single-cell immune profiling**](https://github.com/BorchLab/scRepertoire) ⭐ 378 | 🐛 0 | 🌐 R | 📅 2026-10-16 — R package for analyzing and visualizing single-cell immune receptor data. This new version introduces an array of features designed to enhance both the depth and breadth of immune receptor analysis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/40577285/) · 🪝 [9](https://www.semanticscholar.org/paper/1a0dc99021ccfd16d1d3a19f75068de450bc25f6) · ⭐ [358](https://github.com/BorchLab/scRepertoire/stargazers) ⭐ 378 | 🐛 0 | 🌐 R | 📅 2026-10-16 · `R`
+* [**scRepertoire: A toolkit for single-cell immune profiling**](https://github.com/BorchLab/scRepertoire) ⭐ 379 | 🐛 0 | 🌐 R | 📅 2026-10-16 — R package for analyzing and visualizing single-cell immune receptor data. This new version introduces an array of features designed to enhance both the depth and breadth of immune receptor analysis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/40577285/) · 🪝 [9](https://www.semanticscholar.org/paper/1a0dc99021ccfd16d1d3a19f75068de450bc25f6) · ⭐ [358](https://github.com/BorchLab/scRepertoire/stargazers) ⭐ 379 | 🐛 0 | 🌐 R | 📅 2026-10-16 · `R`
 
 * [**TRUST4: TCR and BCR assembly from RNA-seq data**](https://github.com/liulab-dfci/TRUST4) ⭐ 364 | 🐛 126 | 🌐 C | 📅 2026-09-25 — Tcr Receptor Utilities for Solid Tissue (TRUST) is a computational tool to analyze TCR and BCR sequences using unselected RNA sequencing data, profiled from solid tissues, including tumors. TRUST4 ...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33986545/) · 🪝 [227](https://www.semanticscholar.org/paper/7564c0e07f7135c0ec2eddb4009e6a51febdc991) · ⭐ [337](https://github.com/liulab-dfci/TRUST4/stargazers) ⭐ 364 | 🐛 126 | 🌐 C | 📅 2026-09-25 · `C` `C++` `Perl`
 
@@ -190,7 +190,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 35 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 35 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 31 | 🐛 29 | 🌐 Python | 📅 2026-11-07 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 31 | 🐛 29 | 🌐 Python | 📅 2026-11-07 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 31 | 🐛 32 | 🌐 Python | 📅 2026-11-08 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 31 | 🐛 32 | 🌐 Python | 📅 2026-11-08 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -306,7 +306,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**MHCAttnNet**](https://github.com/gopuvenkat/MHCAttnNet) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2021-02-14 — MHCAttnNet: Allele-Peptide predictions for class I & class II MHC alleles<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32657386/) · 🪝 [39](https://www.semanticscholar.org/paper/64fd328e9f126c6277e2ab50f4a4b86be9bfda94) · ⭐ [30](https://github.com/gopuvenkat/MHCAttnNet/stargazers) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2021-02-14 · `Python`
 
-* [**immunogenetr**](https://github.com/k96nb01/immunogenetr_package) ⭐ 6 | 🐛 5 | 🌐 R | 📅 2026-11-02 — immunogenetr is a comprehensive toolkit for clinical HLA informatics. It is built on tidyverse principles and makes use of genotype list string (GL string, <https://glstring.org/>) for storing and us...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/41344288/) · ⭐ [6](https://github.com/k96nb01/immunogenetr_package/stargazers) ⭐ 6 | 🐛 5 | 🌐 R | 📅 2026-11-02 · [Homepage](https://glstring.org/) · `R`
+* [**immunogenetr**](https://github.com/k96nb01/immunogenetr_package) ⭐ 6 | 🐛 8 | 🌐 R | 📅 2026-11-02 — immunogenetr is a comprehensive toolkit for clinical HLA informatics. It is built on tidyverse principles and makes use of genotype list string (GL string, <https://glstring.org/>) for storing and us...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/41344288/) · ⭐ [6](https://github.com/k96nb01/immunogenetr_package/stargazers) ⭐ 6 | 🐛 8 | 🌐 R | 📅 2026-11-02 · [Homepage](https://glstring.org/) · `R`
 
 * [**HLAMatchmaker**](https://pubmed.ncbi.nlm.nih.gov/11975978/) — A molecularly based algorithm for histocompatibility determination that identifies acceptable HLA antigens for highly alloimmunized patients based on amino acid triplets (eplets) on exposed parts o...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/11975978/) · 🪝 [267](https://www.semanticscholar.org/paper/7a00824f5126ab1433ac8fdcfba4dab4854ab3b2)
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
