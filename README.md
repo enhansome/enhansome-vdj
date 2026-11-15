@@ -146,7 +146,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**stitchr**](https://github.com/JamieHeather/stitchr) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2026-03-12 — Stitchr - a Python script to stitch together coding TCR nucleotide sequences from V, J, and CDR3 info<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/35325179/) · 🪝 [22](https://www.semanticscholar.org/paper/aeaf4f3d97ca02f2b25cf040d6ad39a62db41a1e) · ⭐ [64](https://github.com/JamieHeather/stitchr/stargazers) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2026-03-12 · [Homepage](https://jamieheather.github.io/stitchr/) · `Python`
 
-* [**MiGMAP: mapper for full-length T- and B-cell repertoire sequencing**](https://github.com/mikessh/migmap) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2026-11-14 — In a nutshell, this software is a smart wrapper for IgBlast V-(D)-J mapping tool designed to facilitate analysis immune receptor libraries profiled using high-throughput sequencing. This package in...<br>⭐ [53](https://github.com/mikessh/migmap/stargazers) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2026-11-14 · `Java` `Groovy`
+* [**MiGMAP: mapper for full-length T- and B-cell repertoire sequencing**](https://github.com/mikessh/migmap) ⭐ 56 | 🐛 6 | 🌐 Python | 📅 2026-11-15 — In a nutshell, this software is a smart wrapper for IgBlast V-(D)-J mapping tool designed to facilitate analysis immune receptor libraries profiled using high-throughput sequencing. This package in...<br>⭐ [53](https://github.com/mikessh/migmap/stargazers) ⭐ 56 | 🐛 6 | 🌐 Python | 📅 2026-11-15 · `Java` `Groovy`
 
 * [**pyIR: An IgBLAST wrapper and parser**](https://github.com/crowelab/PyIR) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2026-01-09 — PyIR is a minimally-dependent high-speed wrapper for the IgBLAST immunoglobulin and T-cell analyzer. This is achieved through chunking the input data set and running IgBLAST single-core in parallel...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32677886/) · 🪝 [29](https://www.semanticscholar.org/paper/4c463450d5f5f6d9e1c1f5a21b3b33cbd4ed141c) · ⭐ [50](https://github.com/crowelab/PyIR/stargazers) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2026-01-09 · `Python`
 
@@ -306,7 +306,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**MHCAttnNet**](https://github.com/gopuvenkat/MHCAttnNet) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2021-02-14 — MHCAttnNet: Allele-Peptide predictions for class I & class II MHC alleles<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32657386/) · 🪝 [39](https://www.semanticscholar.org/paper/64fd328e9f126c6277e2ab50f4a4b86be9bfda94) · ⭐ [30](https://github.com/gopuvenkat/MHCAttnNet/stargazers) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2021-02-14 · `Python`
 
-* [**immunogenetr**](https://github.com/k96nb01/immunogenetr_package) ⭐ 6 | 🐛 9 | 🌐 R | 📅 2026-11-10 — immunogenetr is a comprehensive toolkit for clinical HLA informatics. It is built on tidyverse principles and makes use of genotype list string (GL string, <https://glstring.org/>) for storing and us...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/41344288/) · ⭐ [6](https://github.com/k96nb01/immunogenetr_package/stargazers) ⭐ 6 | 🐛 9 | 🌐 R | 📅 2026-11-10 · [Homepage](https://glstring.org/) · `R`
+* [**immunogenetr**](https://github.com/k96nb01/immunogenetr_package) ⭐ 6 | 🐛 12 | 🌐 R | 📅 2026-11-10 — immunogenetr is a comprehensive toolkit for clinical HLA informatics. It is built on tidyverse principles and makes use of genotype list string (GL string, <https://glstring.org/>) for storing and us...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/41344288/) · ⭐ [6](https://github.com/k96nb01/immunogenetr_package/stargazers) ⭐ 6 | 🐛 12 | 🌐 R | 📅 2026-11-10 · [Homepage](https://glstring.org/) · `R`
 
 * [**HLAMatchmaker**](https://pubmed.ncbi.nlm.nih.gov/11975978/) — A molecularly based algorithm for histocompatibility determination that identifies acceptable HLA antigens for highly alloimmunized patients based on amino acid triplets (eplets) on exposed parts o...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/11975978/) · 🪝 [267](https://www.semanticscholar.org/paper/7a00824f5126ab1433ac8fdcfba4dab4854ab3b2)
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
