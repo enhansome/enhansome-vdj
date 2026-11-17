@@ -86,7 +86,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Single-Cell
 
-* [**scRepertoire: A toolkit for single-cell immune profiling**](https://github.com/BorchLab/scRepertoire) ⭐ 379 | 🐛 0 | 🌐 R | 📅 2026-10-16 — R package for analyzing and visualizing single-cell immune receptor data. This new version introduces an array of features designed to enhance both the depth and breadth of immune receptor analysis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/40577285/) · 🪝 [9](https://www.semanticscholar.org/paper/1a0dc99021ccfd16d1d3a19f75068de450bc25f6) · ⭐ [358](https://github.com/BorchLab/scRepertoire/stargazers) ⭐ 379 | 🐛 0 | 🌐 R | 📅 2026-10-16 · `R`
+* [**scRepertoire: A toolkit for single-cell immune profiling**](https://github.com/BorchLab/scRepertoire) ⭐ 379 | 🐛 0 | 🌐 R | 📅 2026-11-16 — R package for analyzing and visualizing single-cell immune receptor data. This new version introduces an array of features designed to enhance both the depth and breadth of immune receptor analysis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/40577285/) · 🪝 [9](https://www.semanticscholar.org/paper/1a0dc99021ccfd16d1d3a19f75068de450bc25f6) · ⭐ [358](https://github.com/BorchLab/scRepertoire/stargazers) ⭐ 379 | 🐛 0 | 🌐 R | 📅 2026-11-16 · `R`
 
 * [**TRUST4: TCR and BCR assembly from RNA-seq data**](https://github.com/liulab-dfci/TRUST4) ⭐ 364 | 🐛 128 | 🌐 C | 📅 2026-11-13 — Tcr Receptor Utilities for Solid Tissue (TRUST) is a computational tool to analyze TCR and BCR sequences using unselected RNA sequencing data, profiled from solid tissues, including tumors. TRUST4 ...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33986545/) · 🪝 [227](https://www.semanticscholar.org/paper/7564c0e07f7135c0ec2eddb4009e6a51febdc991) · ⭐ [337](https://github.com/liulab-dfci/TRUST4/stargazers) ⭐ 364 | 🐛 128 | 🌐 C | 📅 2026-11-13 · `C` `C++` `Perl`
 
@@ -122,7 +122,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**msm: Max Snippet Model**](https://github.com/jostmey/msm) ⭐ 176 | 🐛 0 | 🌐 Python | 📅 2023-05-01 — Improved statistical classifier for immune repertoires<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33868241/) · 🪝 [8](https://www.semanticscholar.org/paper/77b6920d6e016f551c73c7d6eb5ac385128772f5) · ⭐ [177](https://github.com/jostmey/msm/stargazers) ⭐ 176 | 🐛 0 | 🌐 Python | 📅 2023-05-01 · `Python`
 
-* [**VDJtools**](https://github.com/mikessh/vdjtools) ⭐ 147 | 🐛 0 | 🌐 Python | 📅 2026-11-06 — A comprehensive analysis framework for T-cell and B-cell repertoire sequencing data<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26606115/) · 🪝 [529](https://www.semanticscholar.org/paper/c5994d9f6ed808f510cb95a3225c9f8ab0d6b460) · ⭐ [142](https://github.com/mikessh/vdjtools/stargazers) ⭐ 147 | 🐛 0 | 🌐 Python | 📅 2026-11-06 · `Java` `Groovy`
+* [**VDJtools**](https://github.com/mikessh/vdjtools) ⭐ 147 | 🐛 4 | 🌐 Python | 📅 2026-11-06 — A comprehensive analysis framework for T-cell and B-cell repertoire sequencing data<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26606115/) · 🪝 [529](https://www.semanticscholar.org/paper/c5994d9f6ed808f510cb95a3225c9f8ab0d6b460) · ⭐ [142](https://github.com/mikessh/vdjtools/stargazers) ⭐ 147 | 🐛 4 | 🌐 Python | 📅 2026-11-06 · `Java` `Groovy`
 
 * [**DeepRC**](https://github.com/ml-jku/DeepRC) ⭐ 131 | 🐛 4 | 🌐 Python | 📅 2023-09-12 — DeepRC: Immune repertoire classification with attention-based deep massive multiple instance learning<br>⭐ [124](https://github.com/ml-jku/DeepRC/stargazers) ⭐ 131 | 🐛 4 | 🌐 Python | 📅 2023-09-12 · `Python`
 
@@ -146,7 +146,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**stitchr**](https://github.com/JamieHeather/stitchr) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2026-03-12 — Stitchr - a Python script to stitch together coding TCR nucleotide sequences from V, J, and CDR3 info<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/35325179/) · 🪝 [22](https://www.semanticscholar.org/paper/aeaf4f3d97ca02f2b25cf040d6ad39a62db41a1e) · ⭐ [64](https://github.com/JamieHeather/stitchr/stargazers) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2026-03-12 · [Homepage](https://jamieheather.github.io/stitchr/) · `Python`
 
-* [**MiGMAP: mapper for full-length T- and B-cell repertoire sequencing**](https://github.com/mikessh/migmap) ⭐ 56 | 🐛 6 | 🌐 Python | 📅 2026-11-15 — In a nutshell, this software is a smart wrapper for IgBlast V-(D)-J mapping tool designed to facilitate analysis immune receptor libraries profiled using high-throughput sequencing. This package in...<br>⭐ [53](https://github.com/mikessh/migmap/stargazers) ⭐ 56 | 🐛 6 | 🌐 Python | 📅 2026-11-15 · `Java` `Groovy`
+* [**MiGMAP: mapper for full-length T- and B-cell repertoire sequencing**](https://github.com/mikessh/migmap) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2026-11-15 — In a nutshell, this software is a smart wrapper for IgBlast V-(D)-J mapping tool designed to facilitate analysis immune receptor libraries profiled using high-throughput sequencing. This package in...<br>⭐ [53](https://github.com/mikessh/migmap/stargazers) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2026-11-15 · `Java` `Groovy`
 
 * [**pyIR: An IgBLAST wrapper and parser**](https://github.com/crowelab/PyIR) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2026-01-09 — PyIR is a minimally-dependent high-speed wrapper for the IgBLAST immunoglobulin and T-cell analyzer. This is achieved through chunking the input data set and running IgBLAST single-core in parallel...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32677886/) · 🪝 [29](https://www.semanticscholar.org/paper/4c463450d5f5f6d9e1c1f5a21b3b33cbd4ed141c) · ⭐ [50](https://github.com/crowelab/PyIR/stargazers) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2026-01-09 · `Python`
 
@@ -190,7 +190,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 35 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 35 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 31 | 🐛 29 | 🌐 Python | 📅 2026-11-11 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 31 | 🐛 29 | 🌐 Python | 📅 2026-11-11 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 31 | 🐛 28 | 🌐 Python | 📅 2026-11-16 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 31 | 🐛 28 | 🌐 Python | 📅 2026-11-16 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -280,7 +280,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**seq2HLA: HLA typing from RNA-Seq sequence reads**](https://github.com/TRON-Bioinformatics/seq2HLA) ⭐ 52 | 🐛 17 | 🌐 Python | 📅 2025-08-09 — In-silico method written in Python and R to determine HLA genotypes of a sample. seq2HLA takes standard RNA-Seq sequence reads in fastq format as input, uses a bowtie index comprising all HLA allel...<br>⭐ [50](https://github.com/TRON-Bioinformatics/seq2HLA/stargazers) ⭐ 52 | 🐛 17 | 🌐 Python | 📅 2025-08-09 · `Python` `R`
 
-* [**Kourami: Graph-guided assembly for HLA alleles**](https://github.com/Kingsford-Group/kourami) ⭐ 42 | 🐛 19 | 🌐 Java | 📅 2019-05-21 — Kourami is a graph-guided assembler for HLA haplotypes covering typing exons (exons 2 and 3 for Class I and exon 3 for Class II) using high-coverage whole genome sequencing data. Kourami constructs...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/29415772/) · 🪝 [82](https://www.semanticscholar.org/paper/42b1d2f74a6fcdd9e45b64a4acabddafb43d7426) · ⭐ [38](https://github.com/Kingsford-Group/kourami/stargazers) ⭐ 42 | 🐛 19 | 🌐 Java | 📅 2019-05-21 · `Java` `Bash`
+* [**Kourami: Graph-guided assembly for HLA alleles**](https://github.com/Kingsford-Group/kourami) ⭐ 43 | 🐛 19 | 🌐 Java | 📅 2019-05-21 — Kourami is a graph-guided assembler for HLA haplotypes covering typing exons (exons 2 and 3 for Class I and exon 3 for Class II) using high-coverage whole genome sequencing data. Kourami constructs...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/29415772/) · 🪝 [82](https://www.semanticscholar.org/paper/42b1d2f74a6fcdd9e45b64a4acabddafb43d7426) · ⭐ [38](https://github.com/Kingsford-Group/kourami/stargazers) ⭐ 43 | 🐛 19 | 🌐 Java | 📅 2019-05-21 · `Java` `Bash`
 
 * [**HLAProfiler: Using k-mers to call HLA alleles in RNA sequencing data**](https://github.com/ExpressionAnalysis/HLAProfiler) ⭐ 23 | 🐛 3 | 🌐 Perl | 📅 2018-07-26 — HLAProfiler uses the k-mer content of next generation sequencing reads to call HLA types in a sample. Based on the k-mer content each each read pair is assigned to an HLA gene and the aggregate k-m...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28954626/) · 🪝 [44](https://www.semanticscholar.org/paper/9781ba0fad5a5841a506d25b8e3a9328996ebe52) · ⭐ [23](https://github.com/ExpressionAnalysis/HLAProfiler/stargazers) ⭐ 23 | 🐛 3 | 🌐 Perl | 📅 2018-07-26 · `Perl`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
