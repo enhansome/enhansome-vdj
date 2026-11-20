@@ -138,8 +138,8 @@
                 "id": 206697335,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-18T02:12:53Z",
-                "open_issues": 128,
+                "last_commit": "2026-11-19T03:22:36Z",
+                "open_issues": 127,
                 "owner": "liulab-dfci",
                 "repo": "TRUST4",
                 "stars": 364,
@@ -253,8 +253,8 @@
                 "id": 160348245,
                 "language": "Nextflow",
                 "license": "MIT",
-                "last_commit": "2026-11-18T19:32:03Z",
-                "open_issues": 47,
+                "last_commit": "2026-11-19T15:10:32Z",
+                "open_issues": 46,
                 "owner": "nf-core",
                 "repo": "airrflow",
                 "stars": 85,
@@ -756,7 +756,7 @@
                 "id": 33134597,
                 "language": "Kotlin",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T22:42:52Z",
+                "last_commit": "2026-11-19T14:48:32Z",
                 "open_issues": 125,
                 "owner": "milaboratory",
                 "repo": "mixcr",
@@ -1095,7 +1095,7 @@
                 "open_issues": 14,
                 "owner": "pogorely",
                 "repo": "ALICE",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -1140,8 +1140,8 @@
                 "id": 159524795,
                 "language": "Nextflow",
                 "license": "MIT",
-                "last_commit": "2026-11-11T13:41:32Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-19T17:22:03Z",
+                "open_issues": 8,
                 "owner": "nf-core",
                 "repo": "epitopeprediction",
                 "stars": 56,
@@ -1205,27 +1205,6 @@
             },
             {
               "node_type": "item",
-              "title": "neoantigens",
-              "description": "Exploring novel tumor epitope identificationPubMed · 🪝 624 · ⭐ 37 ·",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "🏺 Exploring novel tumor epitope identification",
-                "homepage": null,
-                "id": 145960197,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2020-10-07T08:30:25Z",
-                "open_issues": 0,
-                "owner": "umccr",
-                "repo": "neoantigens",
-                "stars": 39,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:27:41.249Z"
-            },
-            {
-              "node_type": "item",
               "title": "MixTCRpred",
               "description": "Predictor of TCR-epitope interactions⭐ 34 ·",
               "children": [],
@@ -1241,6 +1220,27 @@
                 "owner": "GfellerLab",
                 "repo": "MixTCRpred",
                 "stars": 39,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:27:41.249Z"
+            },
+            {
+              "node_type": "item",
+              "title": "neoantigens",
+              "description": "Exploring novel tumor epitope identificationPubMed · 🪝 624 · ⭐ 37 ·",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "🏺 Exploring novel tumor epitope identification",
+                "homepage": null,
+                "id": 145960197,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2020-10-07T08:30:25Z",
+                "open_issues": 0,
+                "owner": "umccr",
+                "repo": "neoantigens",
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -1278,8 +1278,8 @@
                 "id": 33150343,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T18:18:50Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-19T19:53:32Z",
+                "open_issues": 27,
                 "owner": "openvax",
                 "repo": "topiary",
                 "stars": 31,
@@ -1835,7 +1835,7 @@
                 "open_issues": 51,
                 "owner": "FRED-2",
                 "repo": "OptiType",
-                "stars": 226,
+                "stars": 225,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:27:41.249Z"
@@ -1942,8 +1942,8 @@
                 "id": 140573587,
                 "language": "Nextflow",
                 "license": "MIT",
-                "last_commit": "2026-11-18T12:20:08Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-19T22:27:21Z",
+                "open_issues": 12,
                 "owner": "nf-core",
                 "repo": "hlatyping",
                 "stars": 81,
@@ -2386,7 +2386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:52:47.544Z",
+    "last_updated": "2026-11-20T00:17:37.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "📚 Tools and databases for analyzing HLA and VDJ genes.",
