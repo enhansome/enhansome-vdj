@@ -130,7 +130,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**immuneML**](https://github.com/uio-bmi/immuneML) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-11-11 — immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.<br>⭐ [73](https://github.com/uio-bmi/immuneML/stargazers) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-11-11 · [Homepage](https://immuneml.uio.no) · `Python`
 
-* [**abstar**](https://github.com/brineylab/abstar) ⭐ 45 | 🐛 6 | 🌐 Python | 📅 2026-11-05 — VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.<br>⭐ [44](https://github.com/brineylab/abstar/stargazers) ⭐ 45 | 🐛 6 | 🌐 Python | 📅 2026-11-05 · `Pkl`
+* [**abstar**](https://github.com/brineylab/abstar) ⭐ 45 | 🐛 18 | 🌐 Python | 📅 2026-11-20 — VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.<br>⭐ [44](https://github.com/brineylab/abstar/stargazers) ⭐ 45 | 🐛 18 | 🌐 Python | 📅 2026-11-20 · `Pkl`
 
 * [**vdjer**](https://github.com/mozack/vdjer) ⭐ 29 | 🐛 8 | 🌐 C | 📅 2022-08-09 — V'DJer -  B Cell Receptor Repertoire Reconstruction from short read mRNA-Seq data<br>⭐ [29](https://github.com/mozack/vdjer/stargazers) ⭐ 29 | 🐛 8 | 🌐 C | 📅 2022-08-09 · `C`
 
@@ -190,7 +190,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 36 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 36 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 31 | 🐛 27 | 🌐 Python | 📅 2026-11-19 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 31 | 🐛 27 | 🌐 Python | 📅 2026-11-19 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 31 | 🐛 29 | 🌐 Python | 📅 2026-11-20 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 31 | 🐛 29 | 🌐 Python | 📅 2026-11-20 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -274,7 +274,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**hlatyping**](https://github.com/nf-core/hlatyping) ⭐ 81 | 🐛 12 | 🌐 Nextflow | 📅 2026-11-19 — Precision HLA typing from next-generation sequencing data<br>⭐ [76](https://github.com/nf-core/hlatyping/stargazers) ⭐ 81 | 🐛 12 | 🌐 Nextflow | 📅 2026-11-19 · [Homepage](https://nf-co.re/hlatyping) · `Nextflow`
 
-* [**SpecHLA**](https://github.com/deepomicslab/SpecHLA) ⭐ 66 | 🐛 8 | 🌐 C++ | 📅 2026-11-10 — SpecHLA reconstructs entire diploid sequences of HLA genes and infers LOH events. It supports HLA-A, -B, -C, -DPA1, -DPB1, -DQA1, -DQB1, and -DRB1 genes. Also, it supports both short- and long-read...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/37714157/) · 🪝 [11](https://www.semanticscholar.org/paper/78feeabf537fe7503ff5fe2421b2668f635fa504) · ⭐ [53](https://github.com/deepomicslab/SpecHLA/stargazers) ⭐ 66 | 🐛 8 | 🌐 C++ | 📅 2026-11-10 · `C++`
+* [**SpecHLA**](https://github.com/deepomicslab/SpecHLA) ⭐ 66 | 🐛 9 | 🌐 C++ | 📅 2026-11-10 — SpecHLA reconstructs entire diploid sequences of HLA genes and infers LOH events. It supports HLA-A, -B, -C, -DPA1, -DPB1, -DQA1, -DQB1, and -DRB1 genes. Also, it supports both short- and long-read...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/37714157/) · 🪝 [11](https://www.semanticscholar.org/paper/78feeabf537fe7503ff5fe2421b2668f635fa504) · ⭐ [53](https://github.com/deepomicslab/SpecHLA/stargazers) ⭐ 66 | 🐛 9 | 🌐 C++ | 📅 2026-11-10 · `C++`
 
 * [**scHLAcount**](https://github.com/10XGenomics/scHLAcount) ⭐ 64 | 🐛 15 | 🌐 TeX | 📅 2021-11-05 — Count HLA alleles in single-cell RNA-seq data<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32330223/) · 🪝 [20](https://www.semanticscholar.org/paper/f38834e9b0845e743e8e41604c0ee9d327d3fe48) · ⭐ [63](https://github.com/10XGenomics/scHLAcount/stargazers) ⭐ 64 | 🐛 15 | 🌐 TeX | 📅 2021-11-05 · `TeX`
 
@@ -320,7 +320,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**MHC-PRG**](https://github.com/AlexanderDilthey/MHC-PRG) ⭐ 35 | 🐛 4 | 🌐 C++ | 📅 2018-12-18 — Population Reference Graphs for the HLA and MHC.<br>⭐ [35](https://github.com/AlexanderDilthey/MHC-PRG/stargazers) ⭐ 35 | 🐛 4 | 🌐 C++ | 📅 2018-12-18 · `C++`
 
-* [**py-ard**](https://github.com/nmdp-bioinformatics/py-ard) ⭐ 20 | 🐛 12 | 🌐 Python | 📅 2026-11-18 — HLA ARD Reduction in Python. Although HLA nomenclature has not always conformed to the same standard, it is now defined by The WHO Nomenclature Committee for Factors of the HLA System. py-ard is aw\...<br>⭐ [19](https://github.com/nmdp-bioinformatics/py-ard/stargazers) ⭐ 20 | 🐛 12 | 🌐 Python | 📅 2026-11-18 · `Python`
+* [**py-ard**](https://github.com/nmdp-bioinformatics/py-ard) ⭐ 20 | 🐛 14 | 🌐 Python | 📅 2026-11-18 — HLA ARD Reduction in Python. Although HLA nomenclature has not always conformed to the same standard, it is now defined by The WHO Nomenclature Committee for Factors of the HLA System. py-ard is aw\...<br>⭐ [19](https://github.com/nmdp-bioinformatics/py-ard/stargazers) ⭐ 20 | 🐛 14 | 🌐 Python | 📅 2026-11-18 · `Python`
 
 * [**HLAtools: Functions and Datasets for HLA Informatics**](https://github.com/sjmack/HLAtools) ⭐ 4 | 🐛 1 | 🌐 R | 📅 2026-10-12 — We have developed HLAtools, an R package that automates the consumption of IPD-IMGT/HLA resources, renders them computable, and makes them available alongside tools for data analysis, visualization...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/40947766/) · 🪝 [1](https://www.semanticscholar.org/paper/a47f89a247c3149305dba16cfcbbd94b66810d49) · ⭐ [4](https://github.com/sjmack/HLAtools/stargazers) ⭐ 4 | 🐛 1 | 🌐 R | 📅 2026-10-12 · `R`
 
