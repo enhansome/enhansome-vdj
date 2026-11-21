@@ -130,7 +130,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**immuneML**](https://github.com/uio-bmi/immuneML) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-11-11 — immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.<br>⭐ [73](https://github.com/uio-bmi/immuneML/stargazers) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-11-11 · [Homepage](https://immuneml.uio.no) · `Python`
 
-* [**abstar**](https://github.com/brineylab/abstar) ⭐ 45 | 🐛 18 | 🌐 Python | 📅 2026-11-20 — VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.<br>⭐ [44](https://github.com/brineylab/abstar/stargazers) ⭐ 45 | 🐛 18 | 🌐 Python | 📅 2026-11-20 · `Pkl`
+* [**abstar**](https://github.com/brineylab/abstar) ⭐ 45 | 🐛 22 | 🌐 Python | 📅 2026-11-21 — VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.<br>⭐ [44](https://github.com/brineylab/abstar/stargazers) ⭐ 45 | 🐛 22 | 🌐 Python | 📅 2026-11-21 · `Pkl`
 
 * [**vdjer**](https://github.com/mozack/vdjer) ⭐ 29 | 🐛 8 | 🌐 C | 📅 2022-08-09 — V'DJer -  B Cell Receptor Repertoire Reconstruction from short read mRNA-Seq data<br>⭐ [29](https://github.com/mozack/vdjer/stargazers) ⭐ 29 | 🐛 8 | 🌐 C | 📅 2022-08-09 · `C`
 
@@ -146,7 +146,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**stitchr**](https://github.com/JamieHeather/stitchr) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2026-03-12 — Stitchr - a Python script to stitch together coding TCR nucleotide sequences from V, J, and CDR3 info<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/35325179/) · 🪝 [22](https://www.semanticscholar.org/paper/aeaf4f3d97ca02f2b25cf040d6ad39a62db41a1e) · ⭐ [64](https://github.com/JamieHeather/stitchr/stargazers) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2026-03-12 · [Homepage](https://jamieheather.github.io/stitchr/) · `Python`
 
-* [**MiGMAP: mapper for full-length T- and B-cell repertoire sequencing**](https://github.com/mikessh/migmap) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2026-11-15 — In a nutshell, this software is a smart wrapper for IgBlast V-(D)-J mapping tool designed to facilitate analysis immune receptor libraries profiled using high-throughput sequencing. This package in...<br>⭐ [53](https://github.com/mikessh/migmap/stargazers) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2026-11-15 · `Java` `Groovy`
+* [**MiGMAP: mapper for full-length T- and B-cell repertoire sequencing**](https://github.com/mikessh/migmap) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2026-11-21 — In a nutshell, this software is a smart wrapper for IgBlast V-(D)-J mapping tool designed to facilitate analysis immune receptor libraries profiled using high-throughput sequencing. This package in...<br>⭐ [53](https://github.com/mikessh/migmap/stargazers) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2026-11-21 · `Java` `Groovy`
 
 * [**pyIR: An IgBLAST wrapper and parser**](https://github.com/crowelab/PyIR) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2026-01-09 — PyIR is a minimally-dependent high-speed wrapper for the IgBLAST immunoglobulin and T-cell analyzer. This is achieved through chunking the input data set and running IgBLAST single-core in parallel...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32677886/) · 🪝 [29](https://www.semanticscholar.org/paper/4c463450d5f5f6d9e1c1f5a21b3b33cbd4ed141c) · ⭐ [50](https://github.com/crowelab/PyIR/stargazers) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2026-01-09 · `Python`
 
@@ -190,7 +190,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 36 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 36 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 31 | 🐛 29 | 🌐 Python | 📅 2026-11-20 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 31 | 🐛 29 | 🌐 Python | 📅 2026-11-20 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 31 | 🐛 28 | 🌐 Python | 📅 2026-11-21 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 31 | 🐛 28 | 🌐 Python | 📅 2026-11-21 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -320,7 +320,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**MHC-PRG**](https://github.com/AlexanderDilthey/MHC-PRG) ⭐ 35 | 🐛 4 | 🌐 C++ | 📅 2018-12-18 — Population Reference Graphs for the HLA and MHC.<br>⭐ [35](https://github.com/AlexanderDilthey/MHC-PRG/stargazers) ⭐ 35 | 🐛 4 | 🌐 C++ | 📅 2018-12-18 · `C++`
 
-* [**py-ard**](https://github.com/nmdp-bioinformatics/py-ard) ⭐ 20 | 🐛 14 | 🌐 Python | 📅 2026-11-18 — HLA ARD Reduction in Python. Although HLA nomenclature has not always conformed to the same standard, it is now defined by The WHO Nomenclature Committee for Factors of the HLA System. py-ard is aw\...<br>⭐ [19](https://github.com/nmdp-bioinformatics/py-ard/stargazers) ⭐ 20 | 🐛 14 | 🌐 Python | 📅 2026-11-18 · `Python`
+* [**py-ard**](https://github.com/nmdp-bioinformatics/py-ard) ⭐ 20 | 🐛 12 | 🌐 Python | 📅 2026-11-21 — HLA ARD Reduction in Python. Although HLA nomenclature has not always conformed to the same standard, it is now defined by The WHO Nomenclature Committee for Factors of the HLA System. py-ard is aw\...<br>⭐ [19](https://github.com/nmdp-bioinformatics/py-ard/stargazers) ⭐ 20 | 🐛 12 | 🌐 Python | 📅 2026-11-21 · `Python`
 
 * [**HLAtools: Functions and Datasets for HLA Informatics**](https://github.com/sjmack/HLAtools) ⭐ 4 | 🐛 1 | 🌐 R | 📅 2026-10-12 — We have developed HLAtools, an R package that automates the consumption of IPD-IMGT/HLA resources, renders them computable, and makes them available alongside tools for data analysis, visualization...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/40947766/) · 🪝 [1](https://www.semanticscholar.org/paper/a47f89a247c3149305dba16cfcbbd94b66810d49) · ⭐ [4](https://github.com/sjmack/HLAtools/stargazers) ⭐ 4 | 🐛 1 | 🌐 R | 📅 2026-10-12 · `R`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
