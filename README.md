@@ -58,7 +58,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Specificity Databases
 
-* [**VDJDB: A curated database of T-cell receptor sequences of known antigen specificity**](https://github.com/antigenomics/vdjdb-db) ⭐ 158 | 🐛 17 | 🌐 Python | 📅 2026-11-13 — The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28977646/) · 🪝 [491](https://www.semanticscholar.org/paper/cfd86d8ddd03ccacd18343d091ac93745e4187d6) · ⭐ [149](https://github.com/antigenomics/vdjdb-db/stargazers) ⭐ 158 | 🐛 17 | 🌐 Python | 📅 2026-11-13 · [Homepage](https://vdjdb.cdr3.net)
+* [**VDJDB: A curated database of T-cell receptor sequences of known antigen specificity**](https://github.com/antigenomics/vdjdb-db) ⭐ 158 | 🐛 18 | 🌐 Python | 📅 2026-11-13 — The primary goal of VDJdb is to facilitate access to existing information on T-cell receptor antigen specificities, i.e. the ability to recognize certain epitopes in certain MHC contexts. > Our mis...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/28977646/) · 🪝 [491](https://www.semanticscholar.org/paper/cfd86d8ddd03ccacd18343d091ac93745e4187d6) · ⭐ [149](https://github.com/antigenomics/vdjdb-db/stargazers) ⭐ 158 | 🐛 18 | 🌐 Python | 📅 2026-11-13 · [Homepage](https://vdjdb.cdr3.net)
 
 * [**vdjmatch**](https://github.com/antigenomics/vdjmatch) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2026-11-06 — Matching T-cell repertoire against a database of TCR antigen specificities<br>⭐ [39](https://github.com/antigenomics/vdjmatch/stargazers) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2026-11-06 · [Homepage](https://vdjdb.cdr3.net) · `Groovy`
 
@@ -90,7 +90,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**TRUST4: TCR and BCR assembly from RNA-seq data**](https://github.com/liulab-dfci/TRUST4) ⭐ 364 | 🐛 127 | 🌐 C | 📅 2026-11-19 — Tcr Receptor Utilities for Solid Tissue (TRUST) is a computational tool to analyze TCR and BCR sequences using unselected RNA sequencing data, profiled from solid tissues, including tumors. TRUST4 ...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33986545/) · 🪝 [227](https://www.semanticscholar.org/paper/7564c0e07f7135c0ec2eddb4009e6a51febdc991) · ⭐ [337](https://github.com/liulab-dfci/TRUST4/stargazers) ⭐ 364 | 🐛 127 | 🌐 C | 📅 2026-11-19 · `C` `C++` `Perl`
 
-* [**Scirpy: a Scanpy extension for analyzing single-cell T-cell receptor-sequencing data**](https://github.com/scverse/scirpy) ⭐ 268 | 🐛 48 | 🌐 Python | 📅 2026-11-18 — A scalable Python toolkit that provides simplified access to the analysis and visualization of immune repertoires from single cells and seamless integration with transcriptomic data.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32614448/) · 🪝 [212](https://www.semanticscholar.org/paper/fcd27b7bd7ba5b02c64910cf80c2b5b7fabd12e4) · ⭐ [243](https://github.com/scverse/scirpy/stargazers) ⭐ 268 | 🐛 48 | 🌐 Python | 📅 2026-11-18 · [Homepage](https://scirpy.scverse.org/en/latest/) · `Python`
+* [**Scirpy: a Scanpy extension for analyzing single-cell T-cell receptor-sequencing data**](https://github.com/scverse/scirpy) ⭐ 268 | 🐛 49 | 🌐 Python | 📅 2026-11-18 — A scalable Python toolkit that provides simplified access to the analysis and visualization of immune repertoires from single cells and seamless integration with transcriptomic data.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32614448/) · 🪝 [212](https://www.semanticscholar.org/paper/fcd27b7bd7ba5b02c64910cf80c2b5b7fabd12e4) · ⭐ [243](https://github.com/scverse/scirpy/stargazers) ⭐ 268 | 🐛 49 | 🌐 Python | 📅 2026-11-18 · [Homepage](https://scirpy.scverse.org/en/latest/) · `Python`
 
 * [**STARTRAC**](https://github.com/Japrin/STARTRAC) ⭐ 128 | 🐛 10 | 🌐 HTML | 📅 2025-04-26 — STARTRAC(Single T-cell Analysis by Rna-seq and Tcr TRACking)<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33900375/) · 🪝 [27](https://www.semanticscholar.org/paper/11c92257f87b515bc46af2b874ff14890120fadd) · ⭐ [114](https://github.com/Japrin/STARTRAC/stargazers) ⭐ 128 | 🐛 10 | 🌐 HTML | 📅 2025-04-26 · `HTML`
 
@@ -98,7 +98,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**CONGA: Clonotype Neighbor Graph Analysis**](https://github.com/phbradley/conga) ⭐ 100 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-06-15 — CONGA was developed to detect correlation between T cell gene expression profile and TCR sequence in single-cell datasets.<br>[Paper](https://doi.org/10.1101/2020.06.04.134536) · 🪝 [9](https://www.semanticscholar.org/paper/d0a9125325f851f69dbc486e2b2e75f9ba63d4f5) · ⭐ [93](https://github.com/phbradley/conga/stargazers) ⭐ 100 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2026-06-15 · `Python`
 
-* [**airrflow**](https://github.com/nf-core/airrflow) ⭐ 85 | 🐛 46 | 🌐 Nextflow | 📅 2026-11-19 — B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38293151/) · 🪝 [10](https://www.semanticscholar.org/paper/https://www.semanticscholar.org/paper/04c2e0be97ba6d6035506595694eb22e2093037b) · ⭐ [73](https://github.com/nf-core/airrflow/stargazers) ⭐ 85 | 🐛 46 | 🌐 Nextflow | 📅 2026-11-19 · [Homepage](https://nf-co.re/airrflow) · `Nextflow`
+* [**airrflow**](https://github.com/nf-core/airrflow) ⭐ 85 | 🐛 47 | 🌐 Nextflow | 📅 2026-11-19 — B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38293151/) · 🪝 [10](https://www.semanticscholar.org/paper/https://www.semanticscholar.org/paper/04c2e0be97ba6d6035506595694eb22e2093037b) · ⭐ [73](https://github.com/nf-core/airrflow/stargazers) ⭐ 85 | 🐛 47 | 🌐 Nextflow | 📅 2026-11-19 · [Homepage](https://nf-co.re/airrflow) · `Nextflow`
 
 * [**mvTCR**](https://github.com/SchubertLab/mvTCR) ⭐ 60 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-11-01 — A multi-view Variational Autoencoder (mvTCR) to jointly embed transcriptomic and TCR sequence information at a single-cell level to better capture the phenotypic behavior of T cells.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38956082/) · 🪝 [17](https://www.semanticscholar.org/paper/62559a2f08e304d5a6149f4605e45529ac2c150e) · ⭐ [56](https://github.com/SchubertLab/mvTCR/stargazers) ⭐ 60 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-11-01 · [Homepage](https://zenodo.org/record/5006839) · `Python`
 
@@ -130,7 +130,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**immuneML**](https://github.com/uio-bmi/immuneML) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-11-11 — immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.<br>⭐ [73](https://github.com/uio-bmi/immuneML/stargazers) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-11-11 · [Homepage](https://immuneml.uio.no) · `Python`
 
-* [**abstar**](https://github.com/brineylab/abstar) ⭐ 45 | 🐛 25 | 🌐 Python | 📅 2026-11-22 — VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.<br>⭐ [44](https://github.com/brineylab/abstar/stargazers) ⭐ 45 | 🐛 25 | 🌐 Python | 📅 2026-11-22 · `Pkl`
+* [**abstar**](https://github.com/brineylab/abstar) ⭐ 45 | 🐛 20 | 🌐 Python | 📅 2026-11-23 — VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.<br>⭐ [44](https://github.com/brineylab/abstar/stargazers) ⭐ 45 | 🐛 20 | 🌐 Python | 📅 2026-11-23 · `Pkl`
 
 * [**vdjer**](https://github.com/mozack/vdjer) ⭐ 29 | 🐛 8 | 🌐 C | 📅 2022-08-09 — V'DJer -  B Cell Receptor Repertoire Reconstruction from short read mRNA-Seq data<br>⭐ [29](https://github.com/mozack/vdjer/stargazers) ⭐ 29 | 🐛 8 | 🌐 C | 📅 2022-08-09 · `C`
 
@@ -190,7 +190,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 36 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 36 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 31 | 🐛 23 | 🌐 Python | 📅 2026-11-22 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 31 | 🐛 23 | 🌐 Python | 📅 2026-11-22 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 31 | 🐛 20 | 🌐 Python | 📅 2026-11-24 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 31 | 🐛 20 | 🌐 Python | 📅 2026-11-24 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
