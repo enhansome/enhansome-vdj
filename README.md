@@ -118,7 +118,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Repertoire Analysis
 
-* [**immunarch: An R Package for Painless Bioinformatics Analysis of T-cell and B-cell Immune Repertoire Data**](https://github.com/immunomind/immunarch) ⭐ 342 | 🐛 8 | 🌐 R | 📅 2026-11-13 — immunarch is an R package designed to analyse T-cell receptor (TCR) and B-cell receptor (BCR) repertoires, aimed at medical scientists and bioinformaticians. The mission of immunarch is to make imm...<br>⭐ [334](https://github.com/immunomind/immunarch/stargazers) ⭐ 342 | 🐛 8 | 🌐 R | 📅 2026-11-13 · `R`
+* [**immunarch: An R Package for Painless Bioinformatics Analysis of T-cell and B-cell Immune Repertoire Data**](https://github.com/immunomind/immunarch) ⭐ 342 | 🐛 8 | 🌐 R | 📅 2026-11-24 — immunarch is an R package designed to analyse T-cell receptor (TCR) and B-cell receptor (BCR) repertoires, aimed at medical scientists and bioinformaticians. The mission of immunarch is to make imm...<br>⭐ [334](https://github.com/immunomind/immunarch/stargazers) ⭐ 342 | 🐛 8 | 🌐 R | 📅 2026-11-24 · `R`
 
 * [**msm: Max Snippet Model**](https://github.com/jostmey/msm) ⭐ 176 | 🐛 0 | 🌐 Python | 📅 2023-05-01 — Improved statistical classifier for immune repertoires<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/33868241/) · 🪝 [8](https://www.semanticscholar.org/paper/77b6920d6e016f551c73c7d6eb5ac385128772f5) · ⭐ [177](https://github.com/jostmey/msm/stargazers) ⭐ 176 | 🐛 0 | 🌐 Python | 📅 2023-05-01 · `Python`
 
@@ -130,7 +130,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**immuneML**](https://github.com/uio-bmi/immuneML) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-11-11 — immuneML is a platform for machine learning analysis of adaptive immune receptor repertoire data.<br>⭐ [73](https://github.com/uio-bmi/immuneML/stargazers) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-11-11 · [Homepage](https://immuneml.uio.no) · `Python`
 
-* [**abstar**](https://github.com/brineylab/abstar) ⭐ 45 | 🐛 20 | 🌐 Python | 📅 2026-11-23 — VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.<br>⭐ [44](https://github.com/brineylab/abstar/stargazers) ⭐ 45 | 🐛 20 | 🌐 Python | 📅 2026-11-23 · `Pkl`
+* [**abstar**](https://github.com/brineylab/abstar) ⭐ 45 | 🐛 24 | 🌐 Python | 📅 2026-11-23 — VDJ assignment and antibody sequence annotation. Scalable from a single sequence to billions of sequences.<br>⭐ [44](https://github.com/brineylab/abstar/stargazers) ⭐ 45 | 🐛 24 | 🌐 Python | 📅 2026-11-23 · `Pkl`
 
 * [**vdjer**](https://github.com/mozack/vdjer) ⭐ 29 | 🐛 8 | 🌐 C | 📅 2022-08-09 — V'DJer -  B Cell Receptor Repertoire Reconstruction from short read mRNA-Seq data<br>⭐ [29](https://github.com/mozack/vdjer/stargazers) ⭐ 29 | 🐛 8 | 🌐 C | 📅 2022-08-09 · `C`
 
@@ -158,7 +158,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**IMSEQ: IMmunogenetic SEQuence Analysis**](https://github.com/lkuchenb/imseq) ⭐ 15 | 🐛 2 | 🌐 C++ | 📅 2018-08-10 — IMSEQ is a fast, PCR and sequencing error aware tool to analyze high throughput data from recombined T-cell receptor or immunoglobolin gene sequencing experiments. It derives immune repertoires fro...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/25987567/) · 🪝 [98](https://www.semanticscholar.org/paper/0b738ce3da3d79cefd8c1460687878f60bd05183) · ⭐ [15](https://github.com/lkuchenb/imseq/stargazers) ⭐ 15 | 🐛 2 | 🌐 C++ | 📅 2018-08-10
 
-* [**PRESTO: The REpertoire Sequencing TOolkit**](https://github.com/immcantation/presto) ⭐ 0 | 🐛 12 | 🌐 Python | 📅 2026-11-18 — pRESTO is a toolkit for processing raw reads from high-throughput sequencing of B cell and T cell repertoires. > The REpertoire Sequencing TOolkit (pRESTO) is composed of a suite of utilities to ha...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/24618469/) · 🪝 [424](https://www.semanticscholar.org/paper/ca321103129928fcc5522d2a314fdd167bf8805e) · [Docs](https://presto.readthedocs.io/en/stable) · `Python`
+* [**PRESTO: The REpertoire Sequencing TOolkit**](https://github.com/immcantation/presto) ⭐ 0 | 🐛 10 | 🌐 Python | 📅 2026-11-24 — pRESTO is a toolkit for processing raw reads from high-throughput sequencing of B cell and T cell repertoires. > The REpertoire Sequencing TOolkit (pRESTO) is composed of a suite of utilities to ha...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/24618469/) · 🪝 [424](https://www.semanticscholar.org/paper/ca321103129928fcc5522d2a314fdd167bf8805e) · [Docs](https://presto.readthedocs.io/en/stable) · `Python`
 
 ### Clustering & Similarity
 
@@ -190,7 +190,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**AsEP-dataset**](https://github.com/biochunan/AsEP-dataset) ⭐ 36 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 — NeurIPS 2024 Dataset and Benchmark Submission "AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction"<br>⭐ [30](https://github.com/biochunan/AsEP-dataset/stargazers) ⭐ 36 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-12 · `Jupyter Notebook`
 
-* [**topiary**](https://github.com/openvax/topiary) ⭐ 31 | 🐛 20 | 🌐 Python | 📅 2026-11-24 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 31 | 🐛 20 | 🌐 Python | 📅 2026-11-24 · `Python`
+* [**topiary**](https://github.com/openvax/topiary) ⭐ 31 | 🐛 11 | 🌐 Python | 📅 2026-11-25 — Predict mutated T-cell epitopes from sequencing data<br>⭐ [30](https://github.com/openvax/topiary/stargazers) ⭐ 31 | 🐛 11 | 🌐 Python | 📅 2026-11-25 · `Python`
 
 * [**Repitope**](https://github.com/masato-ogishi/Repitope) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) ⭐ 24 | 🐛 2 | 🌐 R | 📅 2023-11-17 · `R`
 
@@ -254,7 +254,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**hlabud: HLA genotype analysis in R**](https://github.com/slowkow/hlabud) ⭐ 19 | 🐛 3 | 🌐 R | 📅 2025-04-11 — hlabud provides methods to retrieve sequence alignment data from IMGTHLA and convert the data into convenient R matrices ready for downstream analysis. See the usage examples to learn how to use th...<br>⭐ [17](https://github.com/slowkow/hlabud/stargazers) ⭐ 19 | 🐛 3 | 🌐 R | 📅 2025-04-11 · `R`
 
-* [**MATER: Minimizer RNAseq HLA typer**](https://github.com/genentech/midasHLA) ⭐ 14 | 🐛 22 | 🌐 R | 📅 2026-10-08 — MATER is a minimizer-based HLA typer for RNAseq read dataset. In a typical RNAseq dataset, the reads sampled from HLA genes are less uniform and may miss regions that makes assembly or variant call...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/34228721/) · 🪝 [24](https://www.semanticscholar.org/paper/16f5a5d9b7119ea85eab9aae4650445770a03b3b) · ⭐ [14](https://github.com/genentech/midasHLA/stargazers) ⭐ 14 | 🐛 22 | 🌐 R | 📅 2026-10-08 · `Python` `R` `C`
+* [**MATER: Minimizer RNAseq HLA typer**](https://github.com/genentech/midasHLA) ⭐ 14 | 🐛 19 | 🌐 R | 📅 2026-11-24 — MATER is a minimizer-based HLA typer for RNAseq read dataset. In a typical RNAseq dataset, the reads sampled from HLA genes are less uniform and may miss regions that makes assembly or variant call...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/34228721/) · 🪝 [24](https://www.semanticscholar.org/paper/16f5a5d9b7119ea85eab9aae4650445770a03b3b) · ⭐ [14](https://github.com/genentech/midasHLA/stargazers) ⭐ 14 | 🐛 19 | 🌐 R | 📅 2026-11-24 · `Python` `R` `C`
 
 * [**BIGDAWG: Case-Control Analysis of Multi-Allelic Loci**](https://github.com/IgDAWG/BIGDAWG) ⭐ 4 | 🐛 6 | 🌐 R | 📅 2026-05-04 — Data sets and functions for chi-squared Hardy-Weinberg and case-control association tests of highly polymorphic genetic data \[e.g., human leukocyte antigen (HLA) data]. Performs association tests a...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26708359/) · 🪝 [82](https://www.semanticscholar.org/paper/8e4c6ba503b7d729681e09f60b22782fd36b3ad4) · ⭐ [3](https://github.com/IgDAWG/BIGDAWG/stargazers) ⭐ 4 | 🐛 6 | 🌐 R | 📅 2026-05-04 · `R`
 
@@ -264,7 +264,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 * [**OptiType: Precision HLA typing from next-generation sequencing data**](https://github.com/FRED-2/OptiType) ⭐ 225 | 🐛 51 | 🌐 Python | 📅 2026-05-20 — OptiType is a novel HLA genotyping algorithm based on integer linear programming, capable of producing accurate 4-digit HLA genotyping predictions from NGS data by simultaneously selecting all majo...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/25143287/) · 🪝 [643](https://www.semanticscholar.org/paper/1d4162253d3e32a2b3a62d0f8faab4fba3386c10) · ⭐ [205](https://github.com/FRED-2/OptiType/stargazers) ⭐ 225 | 🐛 51 | 🌐 Python | 📅 2026-05-20 · `Python`
 
-* [**arcasHLA: Fast and accurate in silico inference of HLA genotypes from RNA-seq**](https://github.com/RabadanLab/arcasHLA) ⭐ 165 | 🐛 53 | 🌐 Python | 📅 2024-08-20 — arcasHLA performs high resolution genotyping for HLA class I and class II genes from RNA sequencing, supporting both paired and single-end samples.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/31173059/) · 🪝 [157](https://www.semanticscholar.org/paper/9fccbea05592fb2c8d0cf8ff0fe330729ad81db8) · ⭐ [152](https://github.com/RabadanLab/arcasHLA/stargazers) ⭐ 165 | 🐛 53 | 🌐 Python | 📅 2024-08-20 · `Python`
+* [**arcasHLA: Fast and accurate in silico inference of HLA genotypes from RNA-seq**](https://github.com/RabadanLab/arcasHLA) ⭐ 166 | 🐛 53 | 🌐 Python | 📅 2024-08-20 — arcasHLA performs high resolution genotyping for HLA class I and class II genes from RNA sequencing, supporting both paired and single-end samples.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/31173059/) · 🪝 [157](https://www.semanticscholar.org/paper/9fccbea05592fb2c8d0cf8ff0fe330729ad81db8) · ⭐ [152](https://github.com/RabadanLab/arcasHLA/stargazers) ⭐ 166 | 🐛 53 | 🌐 Python | 📅 2024-08-20 · `Python`
 
 * [**HLA-LA: Fast HLA type inference from whole-genome data**](https://github.com/DiltheyLab/HLA-LA) ⭐ 149 | 🐛 57 | 🌐 C++ | 📅 2025-04-03 — HLA typing based on a population reference graph and employs a new linear projection method to align reads to the graph.<br>⭐ [141](https://github.com/DiltheyLab/HLA-LA/stargazers) ⭐ 149 | 🐛 57 | 🌐 C++ | 📅 2025-04-03 · `Perl`
 
@@ -328,4 +328,4 @@ Here, researchers can find links to tools and resources for computational analys
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
